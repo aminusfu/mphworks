@@ -1,0 +1,4704 @@
+{
+  "order": [
+    "1.1:0",
+    "1.2:0",
+    "1.3:0",
+    "1.4:0",
+    "1.5:0",
+    "1.6:0",
+    "1.7:0",
+    "1.8:0",
+    "1.9:0",
+    "1.10:0",
+    "2.1:0",
+    "2.2:0",
+    "2.3:0",
+    "2.4:0",
+    "2.5:0",
+    "2.6:0",
+    "2.7:0",
+    "2.8:0",
+    "2.9:0",
+    "2.10:0",
+    "2.11:0",
+    "2.12:0",
+    "2.13:0",
+    "2.14:0",
+    "2.15:0",
+    "2.16:0",
+    "2.17:0",
+    "2.18:0",
+    "2.19:0",
+    "2.20:0",
+    "2.21:0",
+    "2.22:0",
+    "2.23:0",
+    "2.24:0",
+    "2.25:0",
+    "3.1:0",
+    "3.2:0",
+    "3.3:0",
+    "3.4:0",
+    "3.5:0",
+    "3.6:0",
+    "3.7:0",
+    "3.8:0",
+    "3.9:0",
+    "3.10:0",
+    "3.11:0",
+    "3.12:0",
+    "3.13:0",
+    "3.14:0",
+    "3.15:0",
+    "3.16:0",
+    "4.1:0",
+    "4.2:0",
+    "4.3:0",
+    "4.4:0",
+    "4.5:0",
+    "4.6:0",
+    "4.7:0",
+    "4.8:0",
+    "4.9:0",
+    "4.10:0",
+    "4.11:0",
+    "4.12:0",
+    "4.13:0",
+    "4.14:0",
+    "4.15:0",
+    "5.1:0",
+    "5.2:0",
+    "5.3:0",
+    "5.4:0",
+    "5.5:0",
+    "5.6:0",
+    "5.7:0",
+    "5.8:0",
+    "5.9:0",
+    "5.10:0",
+    "5.11:0",
+    "5.12:0",
+    "5.13:0",
+    "5.14:0",
+    "5.15:0",
+    "5.16:0",
+    "5.17:0",
+    "5.18:0",
+    "5.19:0",
+    "5.20:0",
+    "5.21:0",
+    "5.22:0",
+    "5.23:0",
+    "5.24:0",
+    "5.25:0",
+    "5.26:0",
+    "5.27:0",
+    "6.1:0",
+    "6.2:0",
+    "6.3:0",
+    "6.4:0",
+    "6.5:0",
+    "6.6:0",
+    "6.7:0",
+    "6.8:0",
+    "6.9:0",
+    "6.10:0",
+    "6.11:0",
+    "6.12:0",
+    "6.13:0",
+    "6.14:0",
+    "6.15:0",
+    "6.16:0",
+    "6.17:0",
+    "6.18:0",
+    "6.19:0",
+    "6.20:0",
+    "7.1:0",
+    "7.2:0",
+    "7.3:0",
+    "7.4:0",
+    "7.5:0",
+    "7.6:0",
+    "8.1:0",
+    "8.2:0",
+    "8.3:0",
+    "8.4:0",
+    "8.5:0",
+    "8.6:0",
+    "8.7:0",
+    "8.8:0",
+    "8.9:0",
+    "8.10:0",
+    "8.11:0",
+    "8.12:0",
+    "8.13:0",
+    "8.14:0",
+    "8.15:0",
+    "8.16:0",
+    "9.1:0",
+    "9.2:0",
+    "9.3:0",
+    "9.4:0",
+    "9.5:0",
+    "9.6:0",
+    "9.7:0",
+    "9.8:0",
+    "9.9:0",
+    "9.10:0",
+    "9.11:0",
+    "9.12:0",
+    "9.13:0",
+    "10.1:0",
+    "10.2:0",
+    "10.3:0",
+    "10.4:0",
+    "10.5:0",
+    "10.6:0",
+    "10.7:0",
+    "11.1:0",
+    "11.2:0",
+    "11.3:0",
+    "11.4:0",
+    "11.5:0",
+    "11.6:0",
+    "11.7:0",
+    "11.8:0",
+    "11.9:0",
+    "11.10:0",
+    "11.11:0",
+    "11.12:0",
+    "11.13:0",
+    "11.14:0",
+    "11.15:0",
+    "12.1:0",
+    "12.2:0",
+    "12.3:0",
+    "12.4:0",
+    "12.5:0",
+    "12.6:0",
+    "12.7:0",
+    "12.8:0",
+    "12.9:0",
+    "12.10:0",
+    "12.11:0",
+    "13.1:0",
+    "13.2:0",
+    "13.3:0",
+    "13.4:0",
+    "13.5:0",
+    "13.6:0",
+    "13.7:0",
+    "13.8:0",
+    "13.9:0",
+    "14.1:0",
+    "14.2:0",
+    "14.3:0",
+    "14.4:0",
+    "14.5:0",
+    "14.6:0",
+    "14.7:0",
+    "14.8:0",
+    "14.9:0",
+    "14.10:0",
+    "14.11:0",
+    "14.12:0",
+    "14.13:0",
+    "14.14:0",
+    "14.15:0",
+    "14.16:0",
+    "14.17:0",
+    "14.18:0",
+    "14.19:0",
+    "14.20:0",
+    "14.21:0",
+    "14.22:0",
+    "14.23:0",
+    "14.24:0",
+    "14.25:0",
+    "14.26:0",
+    "14.27:0",
+    "15.1:0",
+    "15.2:0",
+    "15.3:0",
+    "15.4:0",
+    "15.5:0",
+    "15.6:0",
+    "15.7:0",
+    "15.8:0",
+    "15.9:0",
+    "15.10:0",
+    "15.11:0",
+    "15.12:0",
+    "15.13:0",
+    "16.1:0",
+    "16.2:0",
+    "16.3:0",
+    "16.4:0",
+    "16.5:0",
+    "16.6:0",
+    "16.7:0",
+    "16.8:0",
+    "16.9:0",
+    "16.10:0",
+    "17.1:0",
+    "17.2:0",
+    "17.3:0",
+    "17.4:0",
+    "17.5:0",
+    "17.6:0",
+    "17.7:0",
+    "17.8:0",
+    "17.9:0",
+    "17.10:0",
+    "17.11:0",
+    "17.12:0",
+    "17.13:0",
+    "17.14:0",
+    "18.1:0",
+    "18.2:0",
+    "18.3:0",
+    "18.4:0",
+    "18.5:0",
+    "18.6:0",
+    "18.7:0",
+    "18.8:0",
+    "18.9:0",
+    "18.10:0",
+    "18.11:0",
+    "18.12:0",
+    "18.13:0",
+    "18.14:0",
+    "18.15:0",
+    "19.1:0",
+    "19.2:0",
+    "19.3:0",
+    "19.4:0",
+    "19.5:0",
+    "19.6:0",
+    "19.7:0",
+    "19.8:0",
+    "19.9:0",
+    "19.10:0",
+    "19.11:0",
+    "19.12:0",
+    "19.13:0",
+    "19.14:0",
+    "19.15:0",
+    "19.16:0",
+    "19.17:0",
+    "19.18:0",
+    "20.1:0",
+    "20.2:0",
+    "20.3:0",
+    "20.4:0",
+    "20.5:0",
+    "20.6:0",
+    "20.7:0",
+    "20.8:0",
+    "20.9:0",
+    "20.10:0",
+    "20.11:0",
+    "20.12:0",
+    "20.13:0",
+    "20.14:0",
+    "20.15:0",
+    "20.16:0",
+    "21.1:0",
+    "21.2:0",
+    "21.3:0",
+    "21.4:0",
+    "21.5:0",
+    "21.6:0",
+    "22.1:0",
+    "22.2:0",
+    "22.3:0",
+    "22.4:0",
+    "22.5:0",
+    "22.6:0",
+    "22.7:0",
+    "22.8:0",
+    "22.9:0",
+    "23.1:0",
+    "23.2:0",
+    "23.3:0",
+    "23.4:0",
+    "23.5:0",
+    "23.6:0",
+    "23.7:0",
+    "23.8:0",
+    "23.9:0",
+    "23.10:0",
+    "23.11:0",
+    "23.12:0",
+    "23.13:0",
+    "23.14:0",
+    "23.15:0",
+    "23.16:0",
+    "23.17:0",
+    "23.18:0",
+    "23.19:0",
+    "24.1:0",
+    "24.2:0",
+    "24.3:0",
+    "24.4:0",
+    "24.5:0",
+    "24.6:0",
+    "24.7:0",
+    "24.8:0",
+    "24.9:0",
+    "24.10:0",
+    "24.11:0",
+    "24.12:0",
+    "24.13:0",
+    "24.14:0",
+    "24.15:0",
+    "24.16:0",
+    "24.17:0",
+    "25.1:0",
+    "25.2:0",
+    "25.3:0",
+    "25.4:0",
+    "25.5:0",
+    "25.6:0",
+    "25.7:0",
+    "25.8:0",
+    "25.9:0",
+    "25.10:0",
+    "25.11:0",
+    "25.12:0",
+    "25.13:0",
+    "25.14:0",
+    "25.15:0",
+    "25.16:0",
+    "25.17:0",
+    "25.18:0",
+    "25.19:0",
+    "25.20:0",
+    "26.1:0",
+    "26.2:0",
+    "26.3:0",
+    "26.4:0",
+    "26.5:0",
+    "26.6:0",
+    "26.7:0",
+    "26.8:0",
+    "26.9:0",
+    "26.10:0",
+    "26.11:0",
+    "27.1:0",
+    "27.2:0",
+    "27.3:0",
+    "27.4:0",
+    "27.5:0",
+    "27.6:0",
+    "27.7:0",
+    "27.8:0",
+    "27.9:0",
+    "27.10:0",
+    "27.11:0",
+    "27.12:0",
+    "27.13:0",
+    "27.14:0",
+    "27.15:0",
+    "27.16:0",
+    "27.17:0",
+    "27.18:0",
+    "27.19:0",
+    "27.20:0",
+    "27.21:0",
+    "27.22:0",
+    "27.23:0",
+    "27.24:0",
+    "27.25:0",
+    "28.1:0",
+    "28.2:0",
+    "28.3:0",
+    "28.4:0",
+    "28.5:0",
+    "28.6:0",
+    "28.7:0",
+    "28.8:0",
+    "28.9:0",
+    "28.10:0",
+    "28.11:0",
+    "28.12:0",
+    "28.13:0",
+    "28.14:0",
+    "28.15:0",
+    "28.16:0",
+    "28.17:0",
+    "28.18:0",
+    "28.19:0",
+    "28.20:0",
+    "28.21:0",
+    "28.22:0",
+    "29.1:0",
+    "29.2:0",
+    "29.3:0",
+    "29.4:0",
+    "29.5:0",
+    "29.6:0",
+    "29.7:0",
+    "29.8:0",
+    "29.9:0",
+    "29.10:0",
+    "29.11:0",
+    "29.12:0",
+    "29.13:0",
+    "29.14:0",
+    "29.15:0",
+    "29.16:0",
+    "29.17:0",
+    "29.18:0",
+    "29.19:0",
+    "29.20:0",
+    "29.21:0",
+    "30.1:0",
+    "30.2:0",
+    "30.3:0",
+    "30.4:0",
+    "30.5:0",
+    "30.6:0",
+    "30.7:0",
+    "31.1:0",
+    "31.2:0",
+    "31.3:0",
+    "31.4:0",
+    "31.5:0",
+    "31.6:0",
+    "31.7:0",
+    "31.8:0",
+    "31.9:0",
+    "31.10:0",
+    "31.11:0",
+    "31.12:0",
+    "31.13:0",
+    "31.14:0",
+    "31.15:0",
+    "31.16:0",
+    "31.17:0",
+    "31.18:0",
+    "31.19:0",
+    "31.20:0",
+    "31.21:0",
+    "31.22:0",
+    "31.23:0",
+    "32.1:0",
+    "32.2:0",
+    "32.3:0",
+    "32.4:0",
+    "32.5:0",
+    "32.6:0",
+    "32.7:0",
+    "32.8:0",
+    "32.9:0",
+    "32.10:0",
+    "32.11:0",
+    "32.12:0",
+    "32.13:0",
+    "32.14:0",
+    "32.15:0",
+    "32.16:0",
+    "33.1:0",
+    "33.2:0",
+    "33.3:0",
+    "33.4:0",
+    "33.5:0",
+    "33.6:0",
+    "33.7:0",
+    "33.8:0",
+    "33.9:0",
+    "33.10:0",
+    "33.11:0",
+    "33.12:0",
+    "33.13:0",
+    "33.14:0",
+    "33.15:0",
+    "33.16:0",
+    "33.17:0",
+    "33.18:0",
+    "33.19:0",
+    "33.20:0",
+    "33.21:0",
+    "33.22:0",
+    "33.23:0"
+  ],
+  "entries": {
+    "1.10": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "2.22": {
+      "text": [
+        "\u03b5\u1f30\u03c2"
+      ],
+      "original": "\u03b5\u1f30\u03c2",
+      "lemma": "\u03b5\u1f30\u03c2",
+      "parsing": "P--------"
+    },
+    "2.23": {
+      "text": [
+        "\u1f40\u03c3\u03bc\u1f74\u03bd"
+      ],
+      "original": "\u1f40\u03c3\u03bc\u1f74\u03bd",
+      "lemma": "\u1f40\u03c3\u03bc\u03ae",
+      "parsing": "N----ASF-"
+    },
+    "2.20": {
+      "text": [
+        "\u03c4\u1ff7"
+      ],
+      "original": "\u03c4\u1ff7",
+      "lemma": "\u1f41",
+      "parsing": "T----DSM-"
+    },
+    "2.21": {
+      "text": [
+        "\u03b8\u03b5\u1ff7"
+      ],
+      "original": "\u03b8\u03b5\u1ff7",
+      "lemma": "\u03b8\u03b5\u03cc\u03c2",
+      "parsing": "N----DSM-"
+    },
+    "2.24": {
+      "text": [
+        "\u03b5\u1f50\u03c9\u03b4\u03af\u03b1\u03c2"
+      ],
+      "original": "\u03b5\u1f50\u03c9\u03b4\u03af\u03b1\u03c2",
+      "lemma": "\u03b5\u1f50\u03c9\u03b4\u03af\u03b1",
+      "parsing": "N----GSF-"
+    },
+    "2.25": {
+      "text": [
+        "."
+      ],
+      "original": ".",
+      "lemma": ".",
+      "parsing": "S"
+    },
+    "3.10": {
+      "text": [
+        "\u1f10\u03bd"
+      ],
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd",
+      "parsing": "P--------"
+    },
+    "3.11": {
+      "text": [
+        "\u1f51\u03bc\u1fd6\u03bd"
+      ],
+      "original": "\u1f51\u03bc\u1fd6\u03bd",
+      "lemma": "\u03c3\u03cd",
+      "parsing": "p----DP--"
+    },
+    "3.12": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "3.13": {
+      "text": [
+        "\u03ba\u03b1\u03b8\u1f7c\u03c2"
+      ],
+      "original": "\u03ba\u03b1\u03b8\u1f7c\u03c2",
+      "lemma": "\u03ba\u03b1\u03b8\u03ce\u03c2",
+      "parsing": "C--------"
+    },
+    "3.14": {
+      "text": [
+        "\u03c0\u03c1\u03ad\u03c0\u03b5\u03b9"
+      ],
+      "original": "\u03c0\u03c1\u03ad\u03c0\u03b5\u03b9",
+      "lemma": "\u03c0\u03c1\u03ad\u03c0\u03c9",
+      "parsing": "V3PAI-S--"
+    },
+    "3.15": {
+      "text": [
+        "\u1f01\u03b3\u03af\u03bf\u03b9\u03c2"
+      ],
+      "original": "\u1f01\u03b3\u03af\u03bf\u03b9\u03c2",
+      "lemma": "\u1f05\u03b3\u03b9\u03bf\u03c2",
+      "parsing": "A----DPM-"
+    },
+    "3.16": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "31.21": {
+      "text": [
+        "\u03c3\u03ac\u03c1\u03ba\u03b1"
+      ],
+      "original": "\u03c3\u03ac\u03c1\u03ba\u03b1",
+      "lemma": "\u03c3\u03ac\u03c1\u03be",
+      "parsing": "N----ASF-"
+    },
+    "9.12": {
+      "text": [
+        "\u1f00\u03bb\u03b7\u03b8\u03b5\u03af\u1fb3"
+      ],
+      "original": "\u1f00\u03bb\u03b7\u03b8\u03b5\u03af\u1fb3",
+      "lemma": "\u1f00\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1",
+      "parsing": "N----DSF-"
+    },
+    "9.13": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "9.10": {
+      "text": [
+        "\u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c3\u03cd\u03bd\u1fc3"
+      ],
+      "original": "\u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c3\u03cd\u03bd\u1fc3",
+      "lemma": "\u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c3\u03cd\u03bd\u03b7",
+      "parsing": "N----DSF-"
+    },
+    "9.11": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "31.18": {
+      "text": [
+        "\u03bf\u1f31"
+      ],
+      "original": "\u03bf\u1f31",
+      "lemma": "\u1f41",
+      "parsing": "T----NPM-"
+    },
+    "31.19": {
+      "text": [
+        "\u03b4\u03cd\u03bf"
+      ],
+      "original": "\u03b4\u03cd\u03bf",
+      "lemma": "\u03b4\u03cd\u03bf",
+      "parsing": "A----NPM-"
+    },
+    "31.14": {
+      "text": [
+        "\u03b1\u1f50\u03c4\u03bf\u1fe6"
+      ],
+      "original": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+      "lemma": "\u03b1\u1f50\u03c4\u03cc\u03c2",
+      "parsing": "p----GSM-"
+    },
+    "31.15": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "31.16": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "31.17": {
+      "text": [
+        "\u1f14\u03c3\u03bf\u03bd\u03c4\u03b1\u03b9"
+      ],
+      "original": "\u1f14\u03c3\u03bf\u03bd\u03c4\u03b1\u03b9",
+      "lemma": "\u03b5\u1f30\u03bc\u03af",
+      "parsing": "V3FMI-P--"
+    },
+    "31.10": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "31.11": {
+      "text": [
+        "\u03c0\u03c1\u03bf\u03c3\u03ba\u03bf\u03bb\u03bb\u03b7\u03b8\u03ae\u03c3\u03b5\u03c4\u03b1\u03b9"
+      ],
+      "original": "\u03c0\u03c1\u03bf\u03c3\u03ba\u03bf\u03bb\u03bb\u03b7\u03b8\u03ae\u03c3\u03b5\u03c4\u03b1\u03b9",
+      "lemma": "\u03c0\u03c1\u03bf\u03c3\u03ba\u03bf\u03bb\u03bb\u03ac\u03bf\u03bc\u03b1\u03b9",
+      "parsing": "V3FPI-S--"
+    },
+    "31.12": {
+      "text": [
+        "\u03c4\u1fc7"
+      ],
+      "original": "\u03c4\u1fc7",
+      "lemma": "\u1f41",
+      "parsing": "T----DSF-"
+    },
+    "31.13": {
+      "text": [
+        "\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u1f76"
+      ],
+      "original": "\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u1f76",
+      "lemma": "\u03b3\u03c5\u03bd\u03ae",
+      "parsing": "N----DSF-"
+    },
+    "18.11": {
+      "text": [
+        "\u1f00\u03bb\u03bb\u1f70"
+      ],
+      "original": "\u1f00\u03bb\u03bb\u1f70",
+      "lemma": "\u1f00\u03bb\u03bb\u03ac",
+      "parsing": "C--------"
+    },
+    "18.10": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "18.13": {
+      "text": [
+        "\u1f10\u03bd"
+      ],
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd",
+      "parsing": "P--------"
+    },
+    "18.12": {
+      "text": [
+        "\u03c0\u03bb\u03b7\u03c1\u03bf\u1fe6\u03c3\u03b8\u03b5"
+      ],
+      "original": "\u03c0\u03bb\u03b7\u03c1\u03bf\u1fe6\u03c3\u03b8\u03b5",
+      "lemma": "\u03c0\u03bb\u03b7\u03c1\u03cc\u03c9",
+      "parsing": "V2PPD-P--"
+    },
+    "18.15": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "18.14": {
+      "text": [
+        "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03b9"
+      ],
+      "original": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03b9",
+      "lemma": "\u03c0\u03bd\u03b5\u1fe6\u03bc\u03b1",
+      "parsing": "N----DSN-"
+    },
+    "5.12": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "5.13": {
+      "text": [
+        "\u1f45"
+      ],
+      "original": "\u1f45",
+      "lemma": "\u1f45\u03c2",
+      "parsing": "r----NSN-"
+    },
+    "5.10": {
+      "text": [
+        "\u1f22"
+      ],
+      "original": "\u1f22",
+      "lemma": "\u1f24",
+      "parsing": "C--------"
+    },
+    "5.11": {
+      "text": [
+        "\u03c0\u03bb\u03b5\u03bf\u03bd\u03ad\u03ba\u03c4\u03b7\u03c2"
+      ],
+      "original": "\u03c0\u03bb\u03b5\u03bf\u03bd\u03ad\u03ba\u03c4\u03b7\u03c2",
+      "lemma": "\u03c0\u03bb\u03b5\u03bf\u03bd\u03ad\u03ba\u03c4\u03b7\u03c2",
+      "parsing": "N----NSM-"
+    },
+    "5.16": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "5.17": {
+      "text": [
+        "\u03bf\u1f50\u03ba"
+      ],
+      "original": "\u03bf\u1f50\u03ba",
+      "lemma": "\u03bf\u1f50",
+      "parsing": "D--------"
+    },
+    "5.14": {
+      "text": [
+        "\u1f10\u03c3\u03c4\u03b9\u03bd"
+      ],
+      "original": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+      "lemma": "\u03b5\u1f30\u03bc\u03af",
+      "parsing": "V3PAI-S--"
+    },
+    "5.15": {
+      "text": [
+        "\u03b5\u1f30\u03b4\u03c9\u03bb\u03bf\u03bb\u03ac\u03c4\u03c1\u03b7\u03c2"
+      ],
+      "original": "\u03b5\u1f30\u03b4\u03c9\u03bb\u03bf\u03bb\u03ac\u03c4\u03c1\u03b7\u03c2",
+      "lemma": "\u03b5\u1f30\u03b4\u03c9\u03bb\u03bf\u03bb\u03ac\u03c4\u03c1\u03b7\u03c2",
+      "parsing": "N----NSM-"
+    },
+    "5.18": {
+      "text": [
+        "\u1f14\u03c7\u03b5\u03b9"
+      ],
+      "original": "\u1f14\u03c7\u03b5\u03b9",
+      "lemma": "\u1f14\u03c7\u03c9",
+      "parsing": "V3PAI-S--"
+    },
+    "5.19": {
+      "text": [
+        "\u03ba\u03bb\u03b7\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03bd"
+      ],
+      "original": "\u03ba\u03bb\u03b7\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03bd",
+      "lemma": "\u03ba\u03bb\u03b7\u03c1\u03bf\u03bd\u03bf\u03bc\u03af\u03b1",
+      "parsing": "N----ASF-"
+    },
+    "31.9": {
+      "text": [
+        "\u03bc\u03b7\u03c4\u03ad\u03c1\u03b1"
+      ],
+      "original": "\u03bc\u03b7\u03c4\u03ad\u03c1\u03b1",
+      "lemma": "\u03bc\u03ae\u03c4\u03b7\u03c1",
+      "parsing": "N----ASF-"
+    },
+    "25.11": {
+      "text": [
+        "\u03a7\u03c1\u03b9\u03c3\u03c4\u1f78\u03c2"
+      ],
+      "original": "\u03a7\u03c1\u03b9\u03c3\u03c4\u1f78\u03c2",
+      "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03cc\u03c2",
+      "parsing": "N----NSM-"
+    },
+    "25.10": {
+      "text": [
+        "\u1f41"
+      ],
+      "original": "\u1f41",
+      "lemma": "\u1f41",
+      "parsing": "T----NSM-"
+    },
+    "25.13": {
+      "text": [
+        "\u03c4\u1f74\u03bd"
+      ],
+      "original": "\u03c4\u1f74\u03bd",
+      "lemma": "\u1f41",
+      "parsing": "T----ASF-"
+    },
+    "5.1": {
+      "text": [
+        "\u03c4\u03bf\u1fe6\u03c4\u03bf"
+      ],
+      "original": "\u03c4\u03bf\u1fe6\u03c4\u03bf",
+      "lemma": "\u03bf\u1f57\u03c4\u03bf\u03c2",
+      "parsing": "d----ASN-"
+    },
+    "5.2": {
+      "text": [
+        "\u03b3\u1f70\u03c1"
+      ],
+      "original": "\u03b3\u1f70\u03c1",
+      "lemma": "\u03b3\u03ac\u03c1",
+      "parsing": "C--------"
+    },
+    "25.12": {
+      "text": [
+        "\u1f20\u03b3\u03ac\u03c0\u03b7\u03c3\u03b5\u03bd"
+      ],
+      "original": "\u1f20\u03b3\u03ac\u03c0\u03b7\u03c3\u03b5\u03bd",
+      "lemma": "\u1f00\u03b3\u03b1\u03c0\u03ac\u03c9",
+      "parsing": "V3AAI-S--"
+    },
+    "5.4": {
+      "text": [
+        "\u03b3\u03b9\u03bd\u03ce\u03c3\u03ba\u03bf\u03bd\u03c4\u03b5\u03c2"
+      ],
+      "original": "\u03b3\u03b9\u03bd\u03ce\u03c3\u03ba\u03bf\u03bd\u03c4\u03b5\u03c2",
+      "lemma": "\u03b3\u03b9\u03bd\u03ce\u03c3\u03ba\u03c9",
+      "parsing": "V-PAPNPM-"
+    },
+    "5.5": {
+      "text": [
+        "\u1f45\u03c4\u03b9"
+      ],
+      "original": "\u1f45\u03c4\u03b9",
+      "lemma": "\u1f45\u03c4\u03b9",
+      "parsing": "D--------"
+    },
+    "5.6": {
+      "text": [
+        "\u03c0\u1fb6\u03c2"
+      ],
+      "original": "\u03c0\u1fb6\u03c2",
+      "lemma": "\u03c0\u1fb6\u03c2",
+      "parsing": "A----NSM-"
+    },
+    "5.7": {
+      "text": [
+        "\u03c0\u03cc\u03c1\u03bd\u03bf\u03c2"
+      ],
+      "original": "\u03c0\u03cc\u03c1\u03bd\u03bf\u03c2",
+      "lemma": "\u03c0\u03cc\u03c1\u03bd\u03bf\u03c2",
+      "parsing": "N----NSM-"
+    },
+    "5.8": {
+      "text": [
+        "\u1f22"
+      ],
+      "original": "\u1f22",
+      "lemma": "\u1f24",
+      "parsing": "C--------"
+    },
+    "25.15": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "13.3": {
+      "text": [
+        "\u03c0\u03ac\u03bd\u03c4\u03b1"
+      ],
+      "original": "\u03c0\u03ac\u03bd\u03c4\u03b1",
+      "lemma": "\u03c0\u1fb6\u03c2",
+      "parsing": "A----NPN-"
+    },
+    "33.23": {
+      "text": [
+        "."
+      ],
+      "original": ".",
+      "lemma": ".",
+      "parsing": "S"
+    },
+    "33.22": {
+      "text": [
+        "\u1f04\u03bd\u03b4\u03c1\u03b1"
+      ],
+      "original": "\u1f04\u03bd\u03b4\u03c1\u03b1",
+      "lemma": "\u1f00\u03bd\u03ae\u03c1",
+      "parsing": "N----ASM-"
+    },
+    "33.21": {
+      "text": [
+        "\u03c4\u1f78\u03bd"
+      ],
+      "original": "\u03c4\u1f78\u03bd",
+      "lemma": "\u1f41",
+      "parsing": "T----ASM-"
+    },
+    "33.20": {
+      "text": [
+        "\u03c6\u03bf\u03b2\u1fc6\u03c4\u03b1\u03b9"
+      ],
+      "original": "\u03c6\u03bf\u03b2\u1fc6\u03c4\u03b1\u03b9",
+      "lemma": "\u03c6\u03bf\u03b2\u03ad\u03bf\u03bc\u03b1\u03b9",
+      "parsing": "V3PMS-S--"
+    },
+    "25.16": {
+      "text": [
+        "\u1f11\u03b1\u03c5\u03c4\u1f78\u03bd"
+      ],
+      "original": "\u1f11\u03b1\u03c5\u03c4\u1f78\u03bd",
+      "lemma": "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fe6",
+      "parsing": "p----ASM-"
+    },
+    "14.14": {
+      "text": [
+        "\u03ba\u03b1\u03b8\u03b5\u03cd\u03b4\u03c9\u03bd"
+      ],
+      "original": "\u03ba\u03b1\u03b8\u03b5\u03cd\u03b4\u03c9\u03bd",
+      "lemma": "\u03ba\u03b1\u03b8\u03b5\u03cd\u03b4\u03c9",
+      "parsing": "V-PAPVSM-"
+    },
+    "5.3": {
+      "text": [
+        "\u1f34\u03c3\u03c4\u03b5"
+      ],
+      "original": "\u1f34\u03c3\u03c4\u03b5",
+      "lemma": "\u03bf\u1f36\u03b4\u03b1",
+      "parsing": "V2XAD-P--"
+    },
+    "5.27": {
+      "text": [
+        "."
+      ],
+      "original": ".",
+      "lemma": ".",
+      "parsing": "S"
+    },
+    "5.9": {
+      "text": [
+        "\u1f00\u03ba\u03ac\u03b8\u03b1\u03c1\u03c4\u03bf\u03c2"
+      ],
+      "original": "\u1f00\u03ba\u03ac\u03b8\u03b1\u03c1\u03c4\u03bf\u03c2",
+      "lemma": "\u1f00\u03ba\u03ac\u03b8\u03b1\u03c1\u03c4\u03bf\u03c2",
+      "parsing": "A----NSM-"
+    },
+    "11.1": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "12.3": {
+      "text": [
+        "\u03ba\u03c1\u03c5\u03c6\u1fc7"
+      ],
+      "original": "\u03ba\u03c1\u03c5\u03c6\u1fc7",
+      "lemma": "\u03ba\u03c1\u03c5\u03c6\u1fc7",
+      "parsing": "D--------"
+    },
+    "6.6": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "12.1": {
+      "text": [
+        "\u03c4\u1f70"
+      ],
+      "original": "\u03c4\u1f70",
+      "lemma": "\u1f41",
+      "parsing": "T----APN-"
+    },
+    "6.4": {
+      "text": [
+        "\u03ba\u03b5\u03bd\u03bf\u1fd6\u03c2"
+      ],
+      "original": "\u03ba\u03b5\u03bd\u03bf\u1fd6\u03c2",
+      "lemma": "\u03ba\u03b5\u03bd\u03cc\u03c2",
+      "parsing": "A----DPM-"
+    },
+    "12.7": {
+      "text": [
+        "\u03b1\u1f30\u03c3\u03c7\u03c1\u03cc\u03bd"
+      ],
+      "original": "\u03b1\u1f30\u03c3\u03c7\u03c1\u03cc\u03bd",
+      "lemma": "\u03b1\u1f30\u03c3\u03c7\u03c1\u03cc\u03c2",
+      "parsing": "A----NSN-"
+    },
+    "12.6": {
+      "text": [
+        "\u03b1\u1f50\u03c4\u1ff6\u03bd"
+      ],
+      "original": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
+      "lemma": "\u03b1\u1f50\u03c4\u03cc\u03c2",
+      "parsing": "p----GPM-"
+    },
+    "12.5": {
+      "text": [
+        "\u1f51\u03c0\u2019"
+      ],
+      "original": "\u1f51\u03c0\u2019",
+      "lemma": "\u1f51\u03c0\u03cc",
+      "parsing": "P--------"
+    },
+    "12.4": {
+      "text": [
+        "\u03b3\u03b9\u03bd\u03cc\u03bc\u03b5\u03bd\u03b1"
+      ],
+      "original": "\u03b3\u03b9\u03bd\u03cc\u03bc\u03b5\u03bd\u03b1",
+      "lemma": "\u03b3\u03af\u03bd\u03bf\u03bc\u03b1\u03b9",
+      "parsing": "V-PMPAPN-"
+    },
+    "12.9": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "D--------"
+    },
+    "12.8": {
+      "text": [
+        "\u1f10\u03c3\u03c4\u03b9\u03bd"
+      ],
+      "original": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+      "lemma": "\u03b5\u1f30\u03bc\u03af",
+      "parsing": "V3PAI-S--"
+    },
+    "6.9": {
+      "text": [
+        "\u03b3\u1f70\u03c1"
+      ],
+      "original": "\u03b3\u1f70\u03c1",
+      "lemma": "\u03b3\u03ac\u03c1",
+      "parsing": "C--------"
+    },
+    "6.8": {
+      "text": [
+        "\u03c4\u03b1\u1fe6\u03c4\u03b1"
+      ],
+      "original": "\u03c4\u03b1\u1fe6\u03c4\u03b1",
+      "lemma": "\u03bf\u1f57\u03c4\u03bf\u03c2",
+      "parsing": "d----APN-"
+    },
+    "10.1": {
+      "text": [
+        "\u03b4\u03bf\u03ba\u03b9\u03bc\u03ac\u03b6\u03bf\u03bd\u03c4\u03b5\u03c2"
+      ],
+      "original": "\u03b4\u03bf\u03ba\u03b9\u03bc\u03ac\u03b6\u03bf\u03bd\u03c4\u03b5\u03c2",
+      "lemma": "\u03b4\u03bf\u03ba\u03b9\u03bc\u03ac\u03b6\u03c9",
+      "parsing": "V-PAPNPM-"
+    },
+    "10.3": {
+      "text": [
+        "\u1f10\u03c3\u03c4\u03b9\u03bd"
+      ],
+      "original": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+      "lemma": "\u03b5\u1f30\u03bc\u03af",
+      "parsing": "V3PAI-S--"
+    },
+    "10.2": {
+      "text": [
+        "\u03c4\u03af"
+      ],
+      "original": "\u03c4\u03af",
+      "lemma": "\u03c4\u03af\u03c2",
+      "parsing": "Q----NSN-"
+    },
+    "10.5": {
+      "text": [
+        "\u03c4\u1ff7"
+      ],
+      "original": "\u03c4\u1ff7",
+      "lemma": "\u1f41",
+      "parsing": "T----DSM-"
+    },
+    "10.4": {
+      "text": [
+        "\u03b5\u1f50\u03ac\u03c1\u03b5\u03c3\u03c4\u03bf\u03bd"
+      ],
+      "original": "\u03b5\u1f50\u03ac\u03c1\u03b5\u03c3\u03c4\u03bf\u03bd",
+      "lemma": "\u03b5\u1f50\u03ac\u03c1\u03b5\u03c3\u03c4\u03bf\u03c2",
+      "parsing": "A----NSN-"
+    },
+    "10.7": {
+      "text": [
+        "\u00b7"
+      ],
+      "original": "\u00b7",
+      "lemma": "\u00b7",
+      "parsing": "S"
+    },
+    "10.6": {
+      "text": [
+        "\u03ba\u03c5\u03c1\u03af\u1ff3"
+      ],
+      "original": "\u03ba\u03c5\u03c1\u03af\u1ff3",
+      "lemma": "\u03ba\u03cd\u03c1\u03b9\u03bf\u03c2",
+      "parsing": "N----DSM-"
+    },
+    "16.7": {
+      "text": [
+        "\u1f21\u03bc\u03ad\u03c1\u03b1\u03b9"
+      ],
+      "original": "\u1f21\u03bc\u03ad\u03c1\u03b1\u03b9",
+      "lemma": "\u1f21\u03bc\u03ad\u03c1\u03b1",
+      "parsing": "N----NPF-"
+    },
+    "16.6": {
+      "text": [
+        "\u03b1\u1f31"
+      ],
+      "original": "\u03b1\u1f31",
+      "lemma": "\u1f41",
+      "parsing": "T----NPF-"
+    },
+    "16.5": {
+      "text": [
+        "\u1f45\u03c4\u03b9"
+      ],
+      "original": "\u1f45\u03c4\u03b9",
+      "lemma": "\u1f45\u03c4\u03b9",
+      "parsing": "C--------"
+    },
+    "16.4": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "16.3": {
+      "text": [
+        "\u03ba\u03b1\u03b9\u03c1\u03cc\u03bd"
+      ],
+      "original": "\u03ba\u03b1\u03b9\u03c1\u03cc\u03bd",
+      "lemma": "\u03ba\u03b1\u03b9\u03c1\u03cc\u03c2",
+      "parsing": "N----ASM-"
+    },
+    "16.2": {
+      "text": [
+        "\u03c4\u1f78\u03bd"
+      ],
+      "original": "\u03c4\u1f78\u03bd",
+      "lemma": "\u1f41",
+      "parsing": "T----ASM-"
+    },
+    "16.1": {
+      "text": [
+        "\u1f10\u03be\u03b1\u03b3\u03bf\u03c1\u03b1\u03b6\u03cc\u03bc\u03b5\u03bd\u03bf\u03b9"
+      ],
+      "original": "\u1f10\u03be\u03b1\u03b3\u03bf\u03c1\u03b1\u03b6\u03cc\u03bc\u03b5\u03bd\u03bf\u03b9",
+      "lemma": "\u1f10\u03be\u03b1\u03b3\u03bf\u03c1\u03ac\u03b6\u03c9",
+      "parsing": "V-PMPNPM-"
+    },
+    "5.24": {
+      "text": [
+        "\u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u1fe6"
+      ],
+      "original": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u1fe6",
+      "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03cc\u03c2",
+      "parsing": "N----GSM-"
+    },
+    "17.6": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "16.9": {
+      "text": [
+        "\u03b5\u1f30\u03c3\u03b9\u03bd"
+      ],
+      "original": "\u03b5\u1f30\u03c3\u03b9\u03bd",
+      "lemma": "\u03b5\u1f30\u03bc\u03af",
+      "parsing": "V3PAI-P--"
+    },
+    "16.8": {
+      "text": [
+        "\u03c0\u03bf\u03bd\u03b7\u03c1\u03b1\u03af"
+      ],
+      "original": "\u03c0\u03bf\u03bd\u03b7\u03c1\u03b1\u03af",
+      "lemma": "\u03c0\u03bf\u03bd\u03b7\u03c1\u03cc\u03c2",
+      "parsing": "A----NPF-"
+    },
+    "26.8": {
+      "text": [
+        "\u1f55\u03b4\u03b1\u03c4\u03bf\u03c2"
+      ],
+      "original": "\u1f55\u03b4\u03b1\u03c4\u03bf\u03c2",
+      "lemma": "\u1f55\u03b4\u03c9\u03c1",
+      "parsing": "N----GSN-"
+    },
+    "26.9": {
+      "text": [
+        "\u1f10\u03bd"
+      ],
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd",
+      "parsing": "P--------"
+    },
+    "26.6": {
+      "text": [
+        "\u03bb\u03bf\u03c5\u03c4\u03c1\u1ff7"
+      ],
+      "original": "\u03bb\u03bf\u03c5\u03c4\u03c1\u1ff7",
+      "lemma": "\u03bb\u03bf\u03c5\u03c4\u03c1\u03cc\u03bd",
+      "parsing": "N----DSN-"
+    },
+    "26.7": {
+      "text": [
+        "\u03c4\u03bf\u1fe6"
+      ],
+      "original": "\u03c4\u03bf\u1fe6",
+      "lemma": "\u1f41",
+      "parsing": "T----GSN-"
+    },
+    "26.4": {
+      "text": [
+        "\u03ba\u03b1\u03b8\u03b1\u03c1\u03af\u03c3\u03b1\u03c2"
+      ],
+      "original": "\u03ba\u03b1\u03b8\u03b1\u03c1\u03af\u03c3\u03b1\u03c2",
+      "lemma": "\u03ba\u03b1\u03b8\u03b1\u03c1\u03af\u03b6\u03c9",
+      "parsing": "V-AAPNSM-"
+    },
+    "26.5": {
+      "text": [
+        "\u03c4\u1ff7"
+      ],
+      "original": "\u03c4\u1ff7",
+      "lemma": "\u1f41",
+      "parsing": "T----DSN-"
+    },
+    "26.2": {
+      "text": [
+        "\u03b1\u1f50\u03c4\u1f74\u03bd"
+      ],
+      "original": "\u03b1\u1f50\u03c4\u1f74\u03bd",
+      "lemma": "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fe6",
+      "parsing": "p----ASF-"
+    },
+    "26.3": {
+      "text": [
+        "\u1f01\u03b3\u03b9\u03ac\u03c3\u1fc3"
+      ],
+      "original": "\u1f01\u03b3\u03b9\u03ac\u03c3\u1fc3",
+      "lemma": "\u1f01\u03b3\u03b9\u03ac\u03b6\u03c9",
+      "parsing": "V3AAS-S--"
+    },
+    "26.1": {
+      "text": [
+        "\u1f35\u03bd\u03b1"
+      ],
+      "original": "\u1f35\u03bd\u03b1",
+      "lemma": "\u1f35\u03bd\u03b1",
+      "parsing": "C--------"
+    },
+    "14.5": {
+      "text": [
+        "\u03c6\u1ff6\u03c2"
+      ],
+      "original": "\u03c6\u1ff6\u03c2",
+      "lemma": "\u03c6\u1ff6\u03c2",
+      "parsing": "N----NSN-"
+    },
+    "14.4": {
+      "text": [
+        "\u03c6\u03b1\u03bd\u03b5\u03c1\u03bf\u03cd\u03bc\u03b5\u03bd\u03bf\u03bd"
+      ],
+      "original": "\u03c6\u03b1\u03bd\u03b5\u03c1\u03bf\u03cd\u03bc\u03b5\u03bd\u03bf\u03bd",
+      "lemma": "\u03c6\u03b1\u03bd\u03b5\u03c1\u03cc\u03c9",
+      "parsing": "V-PPPNSN-"
+    },
+    "14.7": {
+      "text": [
+        "."
+      ],
+      "original": ".",
+      "lemma": ".",
+      "parsing": "S"
+    },
+    "14.6": {
+      "text": [
+        "\u1f10\u03c3\u03c4\u03b9\u03bd"
+      ],
+      "original": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+      "lemma": "\u03b5\u1f30\u03bc\u03af",
+      "parsing": "V3PAI-S--"
+    },
+    "24.8": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "24.9": {
+      "text": [
+        "\u03bf\u1f55\u03c4\u03c9\u03c2"
+      ],
+      "original": "\u03bf\u1f55\u03c4\u03c9\u03c2",
+      "lemma": "\u03bf\u1f55\u03c4\u03c9(\u03c2)",
+      "parsing": "D--------"
+    },
+    "14.3": {
+      "text": [
+        "\u03c4\u1f78"
+      ],
+      "original": "\u03c4\u1f78",
+      "lemma": "\u1f41",
+      "parsing": "T----NSN-"
+    },
+    "14.2": {
+      "text": [
+        "\u03b3\u1f70\u03c1"
+      ],
+      "original": "\u03b3\u1f70\u03c1",
+      "lemma": "\u03b3\u03ac\u03c1",
+      "parsing": "C--------"
+    },
+    "24.4": {
+      "text": [
+        "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1"
+      ],
+      "original": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1",
+      "lemma": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1",
+      "parsing": "N----NSF-"
+    },
+    "24.5": {
+      "text": [
+        "\u1f51\u03c0\u03bf\u03c4\u03ac\u03c3\u03c3\u03b5\u03c4\u03b1\u03b9"
+      ],
+      "original": "\u1f51\u03c0\u03bf\u03c4\u03ac\u03c3\u03c3\u03b5\u03c4\u03b1\u03b9",
+      "lemma": "\u1f51\u03c0\u03bf\u03c4\u03ac\u03c3\u03c3\u03c9",
+      "parsing": "V3PPI-S--"
+    },
+    "24.6": {
+      "text": [
+        "\u03c4\u1ff7"
+      ],
+      "original": "\u03c4\u1ff7",
+      "lemma": "\u1f41",
+      "parsing": "T----DSM-"
+    },
+    "24.7": {
+      "text": [
+        "\u03a7\u03c1\u03b9\u03c3\u03c4\u1ff7"
+      ],
+      "original": "\u03a7\u03c1\u03b9\u03c3\u03c4\u1ff7",
+      "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03cc\u03c2",
+      "parsing": "N----DSM-"
+    },
+    "14.9": {
+      "text": [
+        "\u03bb\u03ad\u03b3\u03b5\u03b9"
+      ],
+      "original": "\u03bb\u03ad\u03b3\u03b5\u03b9",
+      "lemma": "\u03bb\u03ad\u03b3\u03c9",
+      "parsing": "V3PAI-S--"
+    },
+    "24.1": {
+      "text": [
+        "\u1f00\u03bb\u03bb\u1f70"
+      ],
+      "original": "\u1f00\u03bb\u03bb\u1f70",
+      "lemma": "\u1f00\u03bb\u03bb\u03ac",
+      "parsing": "C--------"
+    },
+    "24.2": {
+      "text": [
+        "\u1f61\u03c2"
+      ],
+      "original": "\u1f61\u03c2",
+      "lemma": "\u1f61\u03c2",
+      "parsing": "C--------"
+    },
+    "24.3": {
+      "text": [
+        "\u1f21"
+      ],
+      "original": "\u1f21",
+      "lemma": "\u1f41",
+      "parsing": "T----NSF-"
+    },
+    "22.2": {
+      "text": [
+        "\u03b3\u03c5\u03bd\u03b1\u1fd6\u03ba\u03b5\u03c2"
+      ],
+      "original": "\u03b3\u03c5\u03bd\u03b1\u1fd6\u03ba\u03b5\u03c2",
+      "lemma": "\u03b3\u03c5\u03bd\u03ae",
+      "parsing": "N----VPF-"
+    },
+    "22.3": {
+      "text": [
+        "\u03c4\u03bf\u1fd6\u03c2"
+      ],
+      "original": "\u03c4\u03bf\u1fd6\u03c2",
+      "lemma": "\u1f41",
+      "parsing": "T----DPM-"
+    },
+    "22.1": {
+      "text": [
+        "\u0391\u1f31"
+      ],
+      "original": "\u0391\u1f31",
+      "lemma": "\u1f41",
+      "parsing": "T----VPF-"
+    },
+    "22.6": {
+      "text": [
+        "\u1f61\u03c2"
+      ],
+      "original": "\u1f61\u03c2",
+      "lemma": "\u1f61\u03c2",
+      "parsing": "C--------"
+    },
+    "22.7": {
+      "text": [
+        "\u03c4\u1ff7"
+      ],
+      "original": "\u03c4\u1ff7",
+      "lemma": "\u1f41",
+      "parsing": "T----DSM-"
+    },
+    "22.4": {
+      "text": [
+        "\u1f30\u03b4\u03af\u03bf\u03b9\u03c2"
+      ],
+      "original": "\u1f30\u03b4\u03af\u03bf\u03b9\u03c2",
+      "lemma": "\u1f34\u03b4\u03b9\u03bf\u03c2",
+      "parsing": "A----DPM-"
+    },
+    "22.5": {
+      "text": [
+        "\u1f00\u03bd\u03b4\u03c1\u03ac\u03c3\u03b9\u03bd"
+      ],
+      "original": "\u1f00\u03bd\u03b4\u03c1\u03ac\u03c3\u03b9\u03bd",
+      "lemma": "\u1f00\u03bd\u03ae\u03c1",
+      "parsing": "N----DPM-"
+    },
+    "14.11": {
+      "text": [
+        "\u1f1c\u03b3\u03b5\u03b9\u03c1\u03b5"
+      ],
+      "original": "\u1f1c\u03b3\u03b5\u03b9\u03c1\u03b5",
+      "lemma": "\u1f10\u03b3\u03b5\u03af\u03c1\u03c9",
+      "parsing": "V2PAD-S--"
+    },
+    "22.8": {
+      "text": [
+        "\u03ba\u03c5\u03c1\u03af\u1ff3"
+      ],
+      "original": "\u03ba\u03c5\u03c1\u03af\u1ff3",
+      "lemma": "\u03ba\u03cd\u03c1\u03b9\u03bf\u03c2",
+      "parsing": "N----DSM-"
+    },
+    "22.9": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "5.22": {
+      "text": [
+        "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u1fb3"
+      ],
+      "original": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u1fb3",
+      "lemma": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03af\u03b1",
+      "parsing": "N----DSF-"
+    },
+    "17.9": {
+      "text": [
+        "\u03c4\u03af"
+      ],
+      "original": "\u03c4\u03af",
+      "lemma": "\u03c4\u03af\u03c2",
+      "parsing": "Q----NSN-"
+    },
+    "5.20": {
+      "text": [
+        "\u1f10\u03bd"
+      ],
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd",
+      "parsing": "P--------"
+    },
+    "5.21": {
+      "text": [
+        "\u03c4\u1fc7"
+      ],
+      "original": "\u03c4\u1fc7",
+      "lemma": "\u1f41",
+      "parsing": "T----DSF-"
+    },
+    "20.1": {
+      "text": [
+        "\u03b5\u1f50\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03bf\u1fe6\u03bd\u03c4\u03b5\u03c2"
+      ],
+      "original": "\u03b5\u1f50\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03bf\u1fe6\u03bd\u03c4\u03b5\u03c2",
+      "lemma": "\u03b5\u1f50\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03ad\u03c9",
+      "parsing": "V-PAPNPM-"
+    },
+    "20.2": {
+      "text": [
+        "\u03c0\u03ac\u03bd\u03c4\u03bf\u03c4\u03b5"
+      ],
+      "original": "\u03c0\u03ac\u03bd\u03c4\u03bf\u03c4\u03b5",
+      "lemma": "\u03c0\u03ac\u03bd\u03c4\u03bf\u03c4\u03b5",
+      "parsing": "D--------"
+    },
+    "20.3": {
+      "text": [
+        "\u1f51\u03c0\u1f72\u03c1"
+      ],
+      "original": "\u1f51\u03c0\u1f72\u03c1",
+      "lemma": "\u1f51\u03c0\u03ad\u03c1",
+      "parsing": "P--------"
+    },
+    "20.4": {
+      "text": [
+        "\u03c0\u03ac\u03bd\u03c4\u03c9\u03bd"
+      ],
+      "original": "\u03c0\u03ac\u03bd\u03c4\u03c9\u03bd",
+      "lemma": "\u03c0\u1fb6\u03c2",
+      "parsing": "A----GPN-"
+    },
+    "20.5": {
+      "text": [
+        "\u1f10\u03bd"
+      ],
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd",
+      "parsing": "P--------"
+    },
+    "20.6": {
+      "text": [
+        "\u1f40\u03bd\u03cc\u03bc\u03b1\u03c4\u03b9"
+      ],
+      "original": "\u1f40\u03bd\u03cc\u03bc\u03b1\u03c4\u03b9",
+      "lemma": "\u1f44\u03bd\u03bf\u03bc\u03b1",
+      "parsing": "N----DSN-"
+    },
+    "20.7": {
+      "text": [
+        "\u03c4\u03bf\u1fe6"
+      ],
+      "original": "\u03c4\u03bf\u1fe6",
+      "lemma": "\u1f41",
+      "parsing": "T----GSM-"
+    },
+    "20.8": {
+      "text": [
+        "\u03ba\u03c5\u03c1\u03af\u03bf\u03c5"
+      ],
+      "original": "\u03ba\u03c5\u03c1\u03af\u03bf\u03c5",
+      "lemma": "\u03ba\u03cd\u03c1\u03b9\u03bf\u03c2",
+      "parsing": "N----GSM-"
+    },
+    "20.9": {
+      "text": [
+        "\u1f21\u03bc\u1ff6\u03bd"
+      ],
+      "original": "\u1f21\u03bc\u1ff6\u03bd",
+      "lemma": "\u1f10\u03b3\u03ce",
+      "parsing": "p----GP--"
+    },
+    "21.6": {
+      "text": [
+        "."
+      ],
+      "original": ".",
+      "lemma": ".",
+      "parsing": "S"
+    },
+    "19.16": {
+      "text": [
+        "\u03c4\u1ff7"
+      ],
+      "original": "\u03c4\u1ff7",
+      "lemma": "\u1f41",
+      "parsing": "T----DSM-"
+    },
+    "19.17": {
+      "text": [
+        "\u03ba\u03c5\u03c1\u03af\u1ff3"
+      ],
+      "original": "\u03ba\u03c5\u03c1\u03af\u1ff3",
+      "lemma": "\u03ba\u03cd\u03c1\u03b9\u03bf\u03c2",
+      "parsing": "N----DSM-"
+    },
+    "19.14": {
+      "text": [
+        "\u03ba\u03b1\u03c1\u03b4\u03af\u1fb3"
+      ],
+      "original": "\u03ba\u03b1\u03c1\u03b4\u03af\u1fb3",
+      "lemma": "\u03ba\u03b1\u03c1\u03b4\u03af\u03b1",
+      "parsing": "N----DSF-"
+    },
+    "19.15": {
+      "text": [
+        "\u1f51\u03bc\u1ff6\u03bd"
+      ],
+      "original": "\u1f51\u03bc\u1ff6\u03bd",
+      "lemma": "\u03c3\u03cd",
+      "parsing": "p----GP--"
+    },
+    "19.12": {
+      "text": [
+        "\u03c8\u03ac\u03bb\u03bb\u03bf\u03bd\u03c4\u03b5\u03c2"
+      ],
+      "original": "\u03c8\u03ac\u03bb\u03bb\u03bf\u03bd\u03c4\u03b5\u03c2",
+      "lemma": "\u03c8\u03ac\u03bb\u03bb\u03c9",
+      "parsing": "V-PAPNPM-"
+    },
+    "19.13": {
+      "text": [
+        "\u03c4\u1fc7"
+      ],
+      "original": "\u03c4\u1fc7",
+      "lemma": "\u1f41",
+      "parsing": "T----DSF-"
+    },
+    "19.10": {
+      "text": [
+        "\u1f84\u03b4\u03bf\u03bd\u03c4\u03b5\u03c2"
+      ],
+      "original": "\u1f84\u03b4\u03bf\u03bd\u03c4\u03b5\u03c2",
+      "lemma": "\u1f84\u03b4\u03c9",
+      "parsing": "V-PAPNPM-"
+    },
+    "19.11": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "19.18": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "20.12": {
+      "text": [
+        "\u03c4\u1ff7"
+      ],
+      "original": "\u03c4\u1ff7",
+      "lemma": "\u1f41",
+      "parsing": "T----DSM-"
+    },
+    "20.13": {
+      "text": [
+        "\u03b8\u03b5\u1ff7"
+      ],
+      "original": "\u03b8\u03b5\u1ff7",
+      "lemma": "\u03b8\u03b5\u03cc\u03c2",
+      "parsing": "N----DSM-"
+    },
+    "20.10": {
+      "text": [
+        "\u1f38\u03b7\u03c3\u03bf\u1fe6"
+      ],
+      "original": "\u1f38\u03b7\u03c3\u03bf\u1fe6",
+      "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2",
+      "parsing": "N----GSM-"
+    },
+    "20.11": {
+      "text": [
+        "\u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u1fe6"
+      ],
+      "original": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u1fe6",
+      "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03cc\u03c2",
+      "parsing": "N----GSM-"
+    },
+    "20.16": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "20.14": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "D--------"
+    },
+    "20.15": {
+      "text": [
+        "\u03c0\u03b1\u03c4\u03c1\u03af"
+      ],
+      "original": "\u03c0\u03b1\u03c4\u03c1\u03af",
+      "lemma": "\u03c0\u03b1\u03c4\u03ae\u03c1",
+      "parsing": "N----DSM-"
+    },
+    "24.16": {
+      "text": [
+        "\u03c0\u03b1\u03bd\u03c4\u03af"
+      ],
+      "original": "\u03c0\u03b1\u03bd\u03c4\u03af",
+      "lemma": "\u03c0\u1fb6\u03c2",
+      "parsing": "A----DSN-"
+    },
+    "24.17": {
+      "text": [
+        "."
+      ],
+      "original": ".",
+      "lemma": ".",
+      "parsing": "S"
+    },
+    "24.14": {
+      "text": [
+        "\u1f00\u03bd\u03b4\u03c1\u03ac\u03c3\u03b9\u03bd"
+      ],
+      "original": "\u1f00\u03bd\u03b4\u03c1\u03ac\u03c3\u03b9\u03bd",
+      "lemma": "\u1f00\u03bd\u03ae\u03c1",
+      "parsing": "N----DPM-"
+    },
+    "24.15": {
+      "text": [
+        "\u1f10\u03bd"
+      ],
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd",
+      "parsing": "P--------"
+    },
+    "24.12": {
+      "text": [
+        "\u03b3\u03c5\u03bd\u03b1\u1fd6\u03ba\u03b5\u03c2"
+      ],
+      "original": "\u03b3\u03c5\u03bd\u03b1\u1fd6\u03ba\u03b5\u03c2",
+      "lemma": "\u03b3\u03c5\u03bd\u03ae",
+      "parsing": "N----VPF-"
+    },
+    "24.13": {
+      "text": [
+        "\u03c4\u03bf\u1fd6\u03c2"
+      ],
+      "original": "\u03c4\u03bf\u1fd6\u03c2",
+      "lemma": "\u1f41",
+      "parsing": "T----DPM-"
+    },
+    "24.10": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "D--------"
+    },
+    "24.11": {
+      "text": [
+        "\u03b1\u1f31"
+      ],
+      "original": "\u03b1\u1f31",
+      "lemma": "\u1f41",
+      "parsing": "T----VPF-"
+    },
+    "28.8": {
+      "text": [
+        "\u1f11\u03b1\u03c5\u03c4\u1ff6\u03bd"
+      ],
+      "original": "\u1f11\u03b1\u03c5\u03c4\u1ff6\u03bd",
+      "lemma": "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fe6",
+      "parsing": "p----GPM-"
+    },
+    "28.9": {
+      "text": [
+        "\u03b3\u03c5\u03bd\u03b1\u1fd6\u03ba\u03b1\u03c2"
+      ],
+      "original": "\u03b3\u03c5\u03bd\u03b1\u1fd6\u03ba\u03b1\u03c2",
+      "lemma": "\u03b3\u03c5\u03bd\u03ae",
+      "parsing": "N----APF-"
+    },
+    "28.1": {
+      "text": [
+        "\u03bf\u1f55\u03c4\u03c9\u03c2"
+      ],
+      "original": "\u03bf\u1f55\u03c4\u03c9\u03c2",
+      "lemma": "\u03bf\u1f55\u03c4\u03c9(\u03c2)",
+      "parsing": "D--------"
+    },
+    "28.2": {
+      "text": [
+        "\u1f40\u03c6\u03b5\u03af\u03bb\u03bf\u03c5\u03c3\u03b9\u03bd"
+      ],
+      "original": "\u1f40\u03c6\u03b5\u03af\u03bb\u03bf\u03c5\u03c3\u03b9\u03bd",
+      "lemma": "\u1f40\u03c6\u03b5\u03af\u03bb\u03c9",
+      "parsing": "V3PAI-P--"
+    },
+    "28.3": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "D--------"
+    },
+    "28.4": {
+      "text": [
+        "\u03bf\u1f31"
+      ],
+      "original": "\u03bf\u1f31",
+      "lemma": "\u1f41",
+      "parsing": "T----NPM-"
+    },
+    "28.5": {
+      "text": [
+        "\u1f04\u03bd\u03b4\u03c1\u03b5\u03c2"
+      ],
+      "original": "\u1f04\u03bd\u03b4\u03c1\u03b5\u03c2",
+      "lemma": "\u1f00\u03bd\u03ae\u03c1",
+      "parsing": "N----NPM-"
+    },
+    "28.6": {
+      "text": [
+        "\u1f00\u03b3\u03b1\u03c0\u1fb6\u03bd"
+      ],
+      "original": "\u1f00\u03b3\u03b1\u03c0\u1fb6\u03bd",
+      "lemma": "\u1f00\u03b3\u03b1\u03c0\u03ac\u03c9",
+      "parsing": "V-PAN----"
+    },
+    "28.7": {
+      "text": [
+        "\u03c4\u1f70\u03c2"
+      ],
+      "original": "\u03c4\u1f70\u03c2",
+      "lemma": "\u1f41",
+      "parsing": "T----APF-"
+    },
+    "28.12": {
+      "text": [
+        "\u1f11\u03b1\u03c5\u03c4\u1ff6\u03bd"
+      ],
+      "original": "\u1f11\u03b1\u03c5\u03c4\u1ff6\u03bd",
+      "lemma": "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fe6",
+      "parsing": "p----GPM-"
+    },
+    "28.13": {
+      "text": [
+        "\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1"
+      ],
+      "original": "\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1",
+      "lemma": "\u03c3\u1ff6\u03bc\u03b1",
+      "parsing": "N----APN-"
+    },
+    "28.10": {
+      "text": [
+        "\u1f61\u03c2"
+      ],
+      "original": "\u1f61\u03c2",
+      "lemma": "\u1f61\u03c2",
+      "parsing": "C--------"
+    },
+    "28.11": {
+      "text": [
+        "\u03c4\u1f70"
+      ],
+      "original": "\u03c4\u1f70",
+      "lemma": "\u1f41",
+      "parsing": "T----APN-"
+    },
+    "28.16": {
+      "text": [
+        "\u1f00\u03b3\u03b1\u03c0\u1ff6\u03bd"
+      ],
+      "original": "\u1f00\u03b3\u03b1\u03c0\u1ff6\u03bd",
+      "lemma": "\u1f00\u03b3\u03b1\u03c0\u03ac\u03c9",
+      "parsing": "V-PAPNSM-"
+    },
+    "28.17": {
+      "text": [
+        "\u03c4\u1f74\u03bd"
+      ],
+      "original": "\u03c4\u1f74\u03bd",
+      "lemma": "\u1f41",
+      "parsing": "T----ASF-"
+    },
+    "28.14": {
+      "text": [
+        "\u00b7"
+      ],
+      "original": "\u00b7",
+      "lemma": "\u00b7",
+      "parsing": "S"
+    },
+    "28.15": {
+      "text": [
+        "\u1f41"
+      ],
+      "original": "\u1f41",
+      "lemma": "\u1f41",
+      "parsing": "T----NSM-"
+    },
+    "28.18": {
+      "text": [
+        "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fe6"
+      ],
+      "original": "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fe6",
+      "lemma": "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fe6",
+      "parsing": "p----GSM-"
+    },
+    "28.19": {
+      "text": [
+        "\u03b3\u03c5\u03bd\u03b1\u1fd6\u03ba\u03b1"
+      ],
+      "original": "\u03b3\u03c5\u03bd\u03b1\u1fd6\u03ba\u03b1",
+      "lemma": "\u03b3\u03c5\u03bd\u03ae",
+      "parsing": "N----ASF-"
+    },
+    "18.9": {
+      "text": [
+        "\u1f00\u03c3\u03c9\u03c4\u03af\u03b1"
+      ],
+      "original": "\u1f00\u03c3\u03c9\u03c4\u03af\u03b1",
+      "lemma": "\u1f00\u03c3\u03c9\u03c4\u03af\u03b1",
+      "parsing": "N----NSF-"
+    },
+    "18.8": {
+      "text": [
+        "\u1f10\u03c3\u03c4\u03b9\u03bd"
+      ],
+      "original": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+      "lemma": "\u03b5\u1f30\u03bc\u03af",
+      "parsing": "V3PAI-S--"
+    },
+    "18.1": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "18.3": {
+      "text": [
+        "\u03bc\u03b5\u03b8\u03cd\u03c3\u03ba\u03b5\u03c3\u03b8\u03b5"
+      ],
+      "original": "\u03bc\u03b5\u03b8\u03cd\u03c3\u03ba\u03b5\u03c3\u03b8\u03b5",
+      "lemma": "\u03bc\u03b5\u03b8\u03cd\u03c3\u03ba\u03bf\u03bc\u03b1\u03b9",
+      "parsing": "V2PPD-P--"
+    },
+    "18.2": {
+      "text": [
+        "\u03bc\u1f74"
+      ],
+      "original": "\u03bc\u1f74",
+      "lemma": "\u03bc\u03ae",
+      "parsing": "D--------"
+    },
+    "18.5": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "18.4": {
+      "text": [
+        "\u03bf\u1f34\u03bd\u1ff3"
+      ],
+      "original": "\u03bf\u1f34\u03bd\u1ff3",
+      "lemma": "\u03bf\u1f36\u03bd\u03bf\u03c2",
+      "parsing": "N----DSM-"
+    },
+    "18.7": {
+      "text": [
+        "\u1fa7"
+      ],
+      "original": "\u1fa7",
+      "lemma": "\u1f45\u03c2",
+      "parsing": "r----DSM-"
+    },
+    "18.6": {
+      "text": [
+        "\u1f10\u03bd"
+      ],
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd",
+      "parsing": "P--------"
+    },
+    "1.4": {
+      "text": [
+        "\u03c4\u03bf\u1fe6"
+      ],
+      "original": "\u03c4\u03bf\u1fe6",
+      "lemma": "\u1f41",
+      "parsing": "T----GSM-"
+    },
+    "1.5": {
+      "text": [
+        "\u03b8\u03b5\u03bf\u1fe6"
+      ],
+      "original": "\u03b8\u03b5\u03bf\u1fe6",
+      "lemma": "\u03b8\u03b5\u03cc\u03c2",
+      "parsing": "N----GSM-"
+    },
+    "1.6": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "1.7": {
+      "text": [
+        "\u1f61\u03c2"
+      ],
+      "original": "\u1f61\u03c2",
+      "lemma": "\u1f61\u03c2",
+      "parsing": "C--------"
+    },
+    "1.1": {
+      "text": [
+        "\u03b3\u03af\u03bd\u03b5\u03c3\u03b8\u03b5"
+      ],
+      "original": "\u03b3\u03af\u03bd\u03b5\u03c3\u03b8\u03b5",
+      "lemma": "\u03b3\u03af\u03bd\u03bf\u03bc\u03b1\u03b9",
+      "parsing": "V2PMD-P--"
+    },
+    "1.2": {
+      "text": [
+        "\u03bf\u1f56\u03bd"
+      ],
+      "original": "\u03bf\u1f56\u03bd",
+      "lemma": "\u03bf\u1f56\u03bd",
+      "parsing": "C--------"
+    },
+    "1.3": {
+      "text": [
+        "\u03bc\u03b9\u03bc\u03b7\u03c4\u03b1\u1f76"
+      ],
+      "original": "\u03bc\u03b9\u03bc\u03b7\u03c4\u03b1\u1f76",
+      "lemma": "\u03bc\u03b9\u03bc\u03b7\u03c4\u03ae\u03c2",
+      "parsing": "N----NPM-"
+    },
+    "27.22": {
+      "text": [
+        "\u1f01\u03b3\u03af\u03b1"
+      ],
+      "original": "\u1f01\u03b3\u03af\u03b1",
+      "lemma": "\u1f05\u03b3\u03b9\u03bf\u03c2",
+      "parsing": "A----NSF-"
+    },
+    "30.2": {
+      "text": [
+        "\u03bc\u03ad\u03bb\u03b7"
+      ],
+      "original": "\u03bc\u03ad\u03bb\u03b7",
+      "lemma": "\u03bc\u03ad\u03bb\u03bf\u03c2",
+      "parsing": "N----NPN-"
+    },
+    "30.1": {
+      "text": [
+        "\u1f45\u03c4\u03b9"
+      ],
+      "original": "\u1f45\u03c4\u03b9",
+      "lemma": "\u1f45\u03c4\u03b9",
+      "parsing": "C--------"
+    },
+    "27.21": {
+      "text": [
+        "\u1f96"
+      ],
+      "original": "\u1f96",
+      "lemma": "\u03b5\u1f30\u03bc\u03af",
+      "parsing": "V3PAS-S--"
+    },
+    "30.7": {
+      "text": [
+        "."
+      ],
+      "original": ".",
+      "lemma": ".",
+      "parsing": "S"
+    },
+    "1.9": {
+      "text": [
+        "\u1f00\u03b3\u03b1\u03c0\u03b7\u03c4\u03ac"
+      ],
+      "original": "\u1f00\u03b3\u03b1\u03c0\u03b7\u03c4\u03ac",
+      "lemma": "\u1f00\u03b3\u03b1\u03c0\u03b7\u03c4\u03cc\u03c2",
+      "parsing": "A----NPN-"
+    },
+    "27.24": {
+      "text": [
+        "\u1f04\u03bc\u03c9\u03bc\u03bf\u03c2"
+      ],
+      "original": "\u1f04\u03bc\u03c9\u03bc\u03bf\u03c2",
+      "lemma": "\u1f04\u03bc\u03c9\u03bc\u03bf\u03c2",
+      "parsing": "A----NSF-"
+    },
+    "30.4": {
+      "text": [
+        "\u03c4\u03bf\u1fe6"
+      ],
+      "original": "\u03c4\u03bf\u1fe6",
+      "lemma": "\u1f41",
+      "parsing": "T----GSN-"
+    },
+    "17.7": {
+      "text": [
+        "\u1f00\u03bb\u03bb\u1f70"
+      ],
+      "original": "\u1f00\u03bb\u03bb\u1f70",
+      "lemma": "\u1f00\u03bb\u03bb\u03ac",
+      "parsing": "C--------"
+    },
+    "26.10": {
+      "text": [
+        "\u1fe5\u03ae\u03bc\u03b1\u03c4\u03b9"
+      ],
+      "original": "\u1fe5\u03ae\u03bc\u03b1\u03c4\u03b9",
+      "lemma": "\u1fe5\u1fc6\u03bc\u03b1",
+      "parsing": "N----DSN-"
+    },
+    "26.11": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "7.2": {
+      "text": [
+        "\u03bf\u1f56\u03bd"
+      ],
+      "original": "\u03bf\u1f56\u03bd",
+      "lemma": "\u03bf\u1f56\u03bd",
+      "parsing": "C--------"
+    },
+    "7.3": {
+      "text": [
+        "\u03b3\u03af\u03bd\u03b5\u03c3\u03b8\u03b5"
+      ],
+      "original": "\u03b3\u03af\u03bd\u03b5\u03c3\u03b8\u03b5",
+      "lemma": "\u03b3\u03af\u03bd\u03bf\u03bc\u03b1\u03b9",
+      "parsing": "V2PMD-P--"
+    },
+    "7.1": {
+      "text": [
+        "\u03bc\u1f74"
+      ],
+      "original": "\u03bc\u1f74",
+      "lemma": "\u03bc\u03ae",
+      "parsing": "D--------"
+    },
+    "7.6": {
+      "text": [
+        "\u00b7"
+      ],
+      "original": "\u00b7",
+      "lemma": "\u00b7",
+      "parsing": "S"
+    },
+    "7.4": {
+      "text": [
+        "\u03c3\u03c5\u03bc\u03bc\u03ad\u03c4\u03bf\u03c7\u03bf\u03b9"
+      ],
+      "original": "\u03c3\u03c5\u03bc\u03bc\u03ad\u03c4\u03bf\u03c7\u03bf\u03b9",
+      "lemma": "\u03c3\u03c5\u03bc\u03bc\u03ad\u03c4\u03bf\u03c7\u03bf\u03c2",
+      "parsing": "A----NPM-"
+    },
+    "7.5": {
+      "text": [
+        "\u03b1\u1f50\u03c4\u1ff6\u03bd"
+      ],
+      "original": "\u03b1\u1f50\u03c4\u1ff6\u03bd",
+      "lemma": "\u03b1\u1f50\u03c4\u03cc\u03c2",
+      "parsing": "p----GPM-"
+    },
+    "5.25": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "25.20": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "6.7": {
+      "text": [
+        "\u03b4\u03b9\u1f70"
+      ],
+      "original": "\u03b4\u03b9\u1f70",
+      "lemma": "\u03b4\u03b9\u03ac",
+      "parsing": "P--------"
+    },
+    "29.20": {
+      "text": [
+        "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1\u03bd"
+      ],
+      "original": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1\u03bd",
+      "lemma": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1",
+      "parsing": "N----ASF-"
+    },
+    "29.21": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "12.2": {
+      "text": [
+        "\u03b3\u1f70\u03c1"
+      ],
+      "original": "\u03b3\u1f70\u03c1",
+      "lemma": "\u03b3\u03ac\u03c1",
+      "parsing": "C--------"
+    },
+    "6.5": {
+      "text": [
+        "\u03bb\u03cc\u03b3\u03bf\u03b9\u03c2"
+      ],
+      "original": "\u03bb\u03cc\u03b3\u03bf\u03b9\u03c2",
+      "lemma": "\u03bb\u03cc\u03b3\u03bf\u03c2",
+      "parsing": "N----DPM-"
+    },
+    "6.3": {
+      "text": [
+        "\u1f00\u03c0\u03b1\u03c4\u03ac\u03c4\u03c9"
+      ],
+      "original": "\u1f00\u03c0\u03b1\u03c4\u03ac\u03c4\u03c9",
+      "lemma": "\u1f00\u03c0\u03b1\u03c4\u03ac\u03c9",
+      "parsing": "V3PAD-S--"
+    },
+    "6.2": {
+      "text": [
+        "\u1f51\u03bc\u1fb6\u03c2"
+      ],
+      "original": "\u1f51\u03bc\u1fb6\u03c2",
+      "lemma": "\u03c3\u03cd",
+      "parsing": "p----AP--"
+    },
+    "6.1": {
+      "text": [
+        "\u039c\u03b7\u03b4\u03b5\u1f76\u03c2"
+      ],
+      "original": "\u039c\u03b7\u03b4\u03b5\u1f76\u03c2",
+      "lemma": "\u03bc\u03b7\u03b4\u03b5\u03af\u03c2",
+      "parsing": "A----NSM-"
+    },
+    "2.9": {
+      "text": [
+        "\u03a7\u03c1\u03b9\u03c3\u03c4\u1f78\u03c2"
+      ],
+      "original": "\u03a7\u03c1\u03b9\u03c3\u03c4\u1f78\u03c2",
+      "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03cc\u03c2",
+      "parsing": "N----NSM-"
+    },
+    "2.8": {
+      "text": [
+        "\u1f41"
+      ],
+      "original": "\u1f41",
+      "lemma": "\u1f41",
+      "parsing": "T----NSM-"
+    },
+    "2.3": {
+      "text": [
+        "\u1f10\u03bd"
+      ],
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd",
+      "parsing": "P--------"
+    },
+    "2.2": {
+      "text": [
+        "\u03c0\u03b5\u03c1\u03b9\u03c0\u03b1\u03c4\u03b5\u1fd6\u03c4\u03b5"
+      ],
+      "original": "\u03c0\u03b5\u03c1\u03b9\u03c0\u03b1\u03c4\u03b5\u1fd6\u03c4\u03b5",
+      "lemma": "\u03c0\u03b5\u03c1\u03b9\u03c0\u03b1\u03c4\u03ad\u03c9",
+      "parsing": "V2PAD-P--"
+    },
+    "2.1": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "2.7": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "D--------"
+    },
+    "2.6": {
+      "text": [
+        "\u03ba\u03b1\u03b8\u1f7c\u03c2"
+      ],
+      "original": "\u03ba\u03b1\u03b8\u1f7c\u03c2",
+      "lemma": "\u03ba\u03b1\u03b8\u03ce\u03c2",
+      "parsing": "C--------"
+    },
+    "2.5": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "2.4": {
+      "text": [
+        "\u1f00\u03b3\u03ac\u03c0\u1fc3"
+      ],
+      "original": "\u1f00\u03b3\u03ac\u03c0\u1fc3",
+      "lemma": "\u1f00\u03b3\u03ac\u03c0\u03b7",
+      "parsing": "N----DSF-"
+    },
+    "31.6": {
+      "text": [
+        "\u03c0\u03b1\u03c4\u03ad\u03c1\u03b1"
+      ],
+      "original": "\u03c0\u03b1\u03c4\u03ad\u03c1\u03b1",
+      "lemma": "\u03c0\u03b1\u03c4\u03ae\u03c1",
+      "parsing": "N----ASM-"
+    },
+    "31.7": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "31.4": {
+      "text": [
+        "\u1f04\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2"
+      ],
+      "original": "\u1f04\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2",
+      "lemma": "\u1f04\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2",
+      "parsing": "N----NSM-"
+    },
+    "31.5": {
+      "text": [
+        "\u03c4\u1f78\u03bd"
+      ],
+      "original": "\u03c4\u1f78\u03bd",
+      "lemma": "\u1f41",
+      "parsing": "T----ASM-"
+    },
+    "31.2": {
+      "text": [
+        "\u03c4\u03bf\u03cd\u03c4\u03bf\u03c5"
+      ],
+      "original": "\u03c4\u03bf\u03cd\u03c4\u03bf\u03c5",
+      "lemma": "\u03bf\u1f57\u03c4\u03bf\u03c2",
+      "parsing": "d----GSN-"
+    },
+    "31.3": {
+      "text": [
+        "\u03ba\u03b1\u03c4\u03b1\u03bb\u03b5\u03af\u03c8\u03b5\u03b9"
+      ],
+      "original": "\u03ba\u03b1\u03c4\u03b1\u03bb\u03b5\u03af\u03c8\u03b5\u03b9",
+      "lemma": "\u03ba\u03b1\u03c4\u03b1\u03bb\u03b5\u03af\u03c0\u03c9",
+      "parsing": "V3FAI-S--"
+    },
+    "31.1": {
+      "text": [
+        "\u1f00\u03bd\u03c4\u1f76"
+      ],
+      "original": "\u1f00\u03bd\u03c4\u1f76",
+      "lemma": "\u1f00\u03bd\u03c4\u03af",
+      "parsing": "P--------"
+    },
+    "17.10": {
+      "text": [
+        "\u03c4\u1f78"
+      ],
+      "original": "\u03c4\u1f78",
+      "lemma": "\u1f41",
+      "parsing": "T----NSN-"
+    },
+    "17.11": {
+      "text": [
+        "\u03b8\u03ad\u03bb\u03b7\u03bc\u03b1"
+      ],
+      "original": "\u03b8\u03ad\u03bb\u03b7\u03bc\u03b1",
+      "lemma": "\u03b8\u03ad\u03bb\u03b7\u03bc\u03b1",
+      "parsing": "N----NSN-"
+    },
+    "17.12": {
+      "text": [
+        "\u03c4\u03bf\u1fe6"
+      ],
+      "original": "\u03c4\u03bf\u1fe6",
+      "lemma": "\u1f41",
+      "parsing": "T----GSM-"
+    },
+    "17.13": {
+      "text": [
+        "\u03ba\u03c5\u03c1\u03af\u03bf\u03c5"
+      ],
+      "original": "\u03ba\u03c5\u03c1\u03af\u03bf\u03c5",
+      "lemma": "\u03ba\u03cd\u03c1\u03b9\u03bf\u03c2",
+      "parsing": "N----GSM-"
+    },
+    "17.14": {
+      "text": [
+        "\u00b7"
+      ],
+      "original": "\u00b7",
+      "lemma": "\u00b7",
+      "parsing": "S"
+    },
+    "15.12": {
+      "text": [
+        "\u03c3\u03bf\u03c6\u03bf\u03af"
+      ],
+      "original": "\u03c3\u03bf\u03c6\u03bf\u03af",
+      "lemma": "\u03c3\u03bf\u03c6\u03cc\u03c2",
+      "parsing": "A----NPM-"
+    },
+    "15.13": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "15.10": {
+      "text": [
+        "\u1f00\u03bb\u03bb\u2019"
+      ],
+      "original": "\u1f00\u03bb\u03bb\u2019",
+      "lemma": "\u1f00\u03bb\u03bb\u03ac",
+      "parsing": "C--------"
+    },
+    "15.11": {
+      "text": [
+        "\u1f61\u03c2"
+      ],
+      "original": "\u1f61\u03c2",
+      "lemma": "\u1f61\u03c2",
+      "parsing": "C--------"
+    },
+    "32.9": {
+      "text": [
+        "\u03bb\u03ad\u03b3\u03c9"
+      ],
+      "original": "\u03bb\u03ad\u03b3\u03c9",
+      "lemma": "\u03bb\u03ad\u03b3\u03c9",
+      "parsing": "V1PAI-S--"
+    },
+    "32.8": {
+      "text": [
+        "\u03b4\u1f72"
+      ],
+      "original": "\u03b4\u1f72",
+      "lemma": "\u03b4\u03ad",
+      "parsing": "C--------"
+    },
+    "31.8": {
+      "text": [
+        "\u03c4\u1f74\u03bd"
+      ],
+      "original": "\u03c4\u1f74\u03bd",
+      "lemma": "\u1f41",
+      "parsing": "T----ASF-"
+    },
+    "32.1": {
+      "text": [
+        "\u03c4\u1f78"
+      ],
+      "original": "\u03c4\u1f78",
+      "lemma": "\u1f41",
+      "parsing": "T----NSN-"
+    },
+    "32.3": {
+      "text": [
+        "\u03c4\u03bf\u1fe6\u03c4\u03bf"
+      ],
+      "original": "\u03c4\u03bf\u1fe6\u03c4\u03bf",
+      "lemma": "\u03bf\u1f57\u03c4\u03bf\u03c2",
+      "parsing": "d----NSN-"
+    },
+    "32.2": {
+      "text": [
+        "\u03bc\u03c5\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf\u03bd"
+      ],
+      "original": "\u03bc\u03c5\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf\u03bd",
+      "lemma": "\u03bc\u03c5\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf\u03bd",
+      "parsing": "N----NSN-"
+    },
+    "32.5": {
+      "text": [
+        "\u1f10\u03c3\u03c4\u03af\u03bd"
+      ],
+      "original": "\u1f10\u03c3\u03c4\u03af\u03bd",
+      "lemma": "\u03b5\u1f30\u03bc\u03af",
+      "parsing": "V3PAI-S--"
+    },
+    "32.4": {
+      "text": [
+        "\u03bc\u03ad\u03b3\u03b1"
+      ],
+      "original": "\u03bc\u03ad\u03b3\u03b1",
+      "lemma": "\u03bc\u03ad\u03b3\u03b1\u03c2",
+      "parsing": "A----NSN-"
+    },
+    "32.7": {
+      "text": [
+        "\u1f10\u03b3\u1f7c"
+      ],
+      "original": "\u1f10\u03b3\u1f7c",
+      "lemma": "\u1f10\u03b3\u03ce",
+      "parsing": "p----NS--"
+    },
+    "32.6": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "11.14": {
+      "text": [
+        "\u1f10\u03bb\u03ad\u03b3\u03c7\u03b5\u03c4\u03b5"
+      ],
+      "original": "\u1f10\u03bb\u03ad\u03b3\u03c7\u03b5\u03c4\u03b5",
+      "lemma": "\u1f10\u03bb\u03ad\u03b3\u03c7\u03c9",
+      "parsing": "V2PAD-P--"
+    },
+    "11.15": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "11.12": {
+      "text": [
+        "\u03b4\u1f72"
+      ],
+      "original": "\u03b4\u1f72",
+      "lemma": "\u03b4\u03ad",
+      "parsing": "C--------"
+    },
+    "11.13": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "D--------"
+    },
+    "11.10": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "11.11": {
+      "text": [
+        "\u03bc\u1fb6\u03bb\u03bb\u03bf\u03bd"
+      ],
+      "original": "\u03bc\u1fb6\u03bb\u03bb\u03bf\u03bd",
+      "lemma": "\u03bc\u1fb6\u03bb\u03bb\u03bf\u03bd",
+      "parsing": "D--------"
+    },
+    "8.1": {
+      "text": [
+        "\u1f26\u03c4\u03b5"
+      ],
+      "original": "\u1f26\u03c4\u03b5",
+      "lemma": "\u03b5\u1f30\u03bc\u03af",
+      "parsing": "V2IAI-P--"
+    },
+    "8.3": {
+      "text": [
+        "\u03c0\u03bf\u03c4\u03b5"
+      ],
+      "original": "\u03c0\u03bf\u03c4\u03b5",
+      "lemma": "\u03c0\u03bf\u03c4\u03ad",
+      "parsing": "X--------"
+    },
+    "8.2": {
+      "text": [
+        "\u03b3\u03ac\u03c1"
+      ],
+      "original": "\u03b3\u03ac\u03c1",
+      "lemma": "\u03b3\u03ac\u03c1",
+      "parsing": "C--------"
+    },
+    "8.5": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "8.4": {
+      "text": [
+        "\u03c3\u03ba\u03cc\u03c4\u03bf\u03c2"
+      ],
+      "original": "\u03c3\u03ba\u03cc\u03c4\u03bf\u03c2",
+      "lemma": "\u03c3\u03ba\u03cc\u03c4\u03bf\u03c2",
+      "parsing": "N----NSN-"
+    },
+    "8.7": {
+      "text": [
+        "\u03b4\u1f72"
+      ],
+      "original": "\u03b4\u1f72",
+      "lemma": "\u03b4\u03ad",
+      "parsing": "C--------"
+    },
+    "8.6": {
+      "text": [
+        "\u03bd\u1fe6\u03bd"
+      ],
+      "original": "\u03bd\u1fe6\u03bd",
+      "lemma": "\u03bd\u1fe6\u03bd",
+      "parsing": "D--------"
+    },
+    "8.9": {
+      "text": [
+        "\u1f10\u03bd"
+      ],
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd",
+      "parsing": "P--------"
+    },
+    "8.8": {
+      "text": [
+        "\u03c6\u1ff6\u03c2"
+      ],
+      "original": "\u03c6\u1ff6\u03c2",
+      "lemma": "\u03c6\u1ff6\u03c2",
+      "parsing": "N----NSN-"
+    },
+    "30.3": {
+      "text": [
+        "\u1f10\u03c3\u03bc\u1f72\u03bd"
+      ],
+      "original": "\u1f10\u03c3\u03bc\u1f72\u03bd",
+      "lemma": "\u03b5\u1f30\u03bc\u03af",
+      "parsing": "V1PAI-P--"
+    },
+    "27.23": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "27.20": {
+      "text": [
+        "\u1f35\u03bd\u03b1"
+      ],
+      "original": "\u1f35\u03bd\u03b1",
+      "lemma": "\u1f35\u03bd\u03b1",
+      "parsing": "C--------"
+    },
+    "6.19": {
+      "text": [
+        "\u1f00\u03c0\u03b5\u03b9\u03b8\u03b5\u03af\u03b1\u03c2"
+      ],
+      "original": "\u1f00\u03c0\u03b5\u03b9\u03b8\u03b5\u03af\u03b1\u03c2",
+      "lemma": "\u1f00\u03c0\u03b5\u03af\u03b8\u03b5\u03b9\u03b1",
+      "parsing": "N----GSF-"
+    },
+    "6.18": {
+      "text": [
+        "\u03c4\u1fc6\u03c2"
+      ],
+      "original": "\u03c4\u1fc6\u03c2",
+      "lemma": "\u1f41",
+      "parsing": "T----GSF-"
+    },
+    "2.19": {
+      "text": [
+        "\u03b8\u03c5\u03c3\u03af\u03b1\u03bd"
+      ],
+      "original": "\u03b8\u03c5\u03c3\u03af\u03b1\u03bd",
+      "lemma": "\u03b8\u03c5\u03c3\u03af\u03b1",
+      "parsing": "N----ASF-"
+    },
+    "6.13": {
+      "text": [
+        "\u03c4\u03bf\u1fe6"
+      ],
+      "original": "\u03c4\u03bf\u1fe6",
+      "lemma": "\u1f41",
+      "parsing": "T----GSM-"
+    },
+    "1.8": {
+      "text": [
+        "\u03c4\u03ad\u03ba\u03bd\u03b1"
+      ],
+      "original": "\u03c4\u03ad\u03ba\u03bd\u03b1",
+      "lemma": "\u03c4\u03ad\u03ba\u03bd\u03bf\u03bd",
+      "parsing": "N----NPN-"
+    },
+    "6.11": {
+      "text": [
+        "\u1f21"
+      ],
+      "original": "\u1f21",
+      "lemma": "\u1f41",
+      "parsing": "T----NSF-"
+    },
+    "6.10": {
+      "text": [
+        "\u1f14\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9"
+      ],
+      "original": "\u1f14\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9",
+      "lemma": "\u1f14\u03c1\u03c7\u03bf\u03bc\u03b1\u03b9",
+      "parsing": "V3PMI-S--"
+    },
+    "6.17": {
+      "text": [
+        "\u03c5\u1f31\u03bf\u1f7a\u03c2"
+      ],
+      "original": "\u03c5\u1f31\u03bf\u1f7a\u03c2",
+      "lemma": "\u03c5\u1f31\u03cc\u03c2",
+      "parsing": "N----APM-"
+    },
+    "6.16": {
+      "text": [
+        "\u03c4\u03bf\u1f7a\u03c2"
+      ],
+      "original": "\u03c4\u03bf\u1f7a\u03c2",
+      "lemma": "\u1f41",
+      "parsing": "T----APM-"
+    },
+    "6.15": {
+      "text": [
+        "\u1f10\u03c0\u1f76"
+      ],
+      "original": "\u1f10\u03c0\u1f76",
+      "lemma": "\u1f10\u03c0\u03af",
+      "parsing": "P--------"
+    },
+    "6.14": {
+      "text": [
+        "\u03b8\u03b5\u03bf\u1fe6"
+      ],
+      "original": "\u03b8\u03b5\u03bf\u1fe6",
+      "lemma": "\u03b8\u03b5\u03cc\u03c2",
+      "parsing": "N----GSM-"
+    },
+    "30.5": {
+      "text": [
+        "\u03c3\u03ce\u03bc\u03b1\u03c4\u03bf\u03c2"
+      ],
+      "original": "\u03c3\u03ce\u03bc\u03b1\u03c4\u03bf\u03c2",
+      "lemma": "\u03c3\u1ff6\u03bc\u03b1",
+      "parsing": "N----GSN-"
+    },
+    "27.25": {
+      "text": [
+        "."
+      ],
+      "original": ".",
+      "lemma": ".",
+      "parsing": "S"
+    },
+    "23.13": {
+      "text": [
+        "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1\u03c2"
+      ],
+      "original": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1\u03c2",
+      "lemma": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1",
+      "parsing": "N----GSF-"
+    },
+    "23.12": {
+      "text": [
+        "\u03c4\u1fc6\u03c2"
+      ],
+      "original": "\u03c4\u1fc6\u03c2",
+      "lemma": "\u1f41",
+      "parsing": "T----GSF-"
+    },
+    "23.11": {
+      "text": [
+        "\u03ba\u03b5\u03c6\u03b1\u03bb\u1f74"
+      ],
+      "original": "\u03ba\u03b5\u03c6\u03b1\u03bb\u1f74",
+      "lemma": "\u03ba\u03b5\u03c6\u03b1\u03bb\u03ae",
+      "parsing": "N----NSF-"
+    },
+    "23.10": {
+      "text": [
+        "\u03a7\u03c1\u03b9\u03c3\u03c4\u1f78\u03c2"
+      ],
+      "original": "\u03a7\u03c1\u03b9\u03c3\u03c4\u1f78\u03c2",
+      "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03cc\u03c2",
+      "parsing": "N----NSM-"
+    },
+    "23.17": {
+      "text": [
+        "\u03c4\u03bf\u1fe6"
+      ],
+      "original": "\u03c4\u03bf\u1fe6",
+      "lemma": "\u1f41",
+      "parsing": "T----GSN-"
+    },
+    "23.16": {
+      "text": [
+        "\u03c3\u03c9\u03c4\u1f74\u03c1"
+      ],
+      "original": "\u03c3\u03c9\u03c4\u1f74\u03c1",
+      "lemma": "\u03c3\u03c9\u03c4\u03ae\u03c1",
+      "parsing": "N----NSM-"
+    },
+    "23.15": {
+      "text": [
+        "\u03b1\u1f50\u03c4\u1f78\u03c2"
+      ],
+      "original": "\u03b1\u1f50\u03c4\u1f78\u03c2",
+      "lemma": "\u03b1\u1f50\u03c4\u03cc\u03c2",
+      "parsing": "p----NSM-"
+    },
+    "23.14": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "23.19": {
+      "text": [
+        "."
+      ],
+      "original": ".",
+      "lemma": ".",
+      "parsing": "S"
+    },
+    "23.18": {
+      "text": [
+        "\u03c3\u03ce\u03bc\u03b1\u03c4\u03bf\u03c2"
+      ],
+      "original": "\u03c3\u03ce\u03bc\u03b1\u03c4\u03bf\u03c2",
+      "lemma": "\u03c3\u1ff6\u03bc\u03b1",
+      "parsing": "N----GSN-"
+    },
+    "2.11": {
+      "text": [
+        "\u1f21\u03bc\u1fb6\u03c2"
+      ],
+      "original": "\u1f21\u03bc\u1fb6\u03c2",
+      "lemma": "\u1f10\u03b3\u03ce",
+      "parsing": "p----AP--"
+    },
+    "2.10": {
+      "text": [
+        "\u1f20\u03b3\u03ac\u03c0\u03b7\u03c3\u03b5\u03bd"
+      ],
+      "original": "\u1f20\u03b3\u03ac\u03c0\u03b7\u03c3\u03b5\u03bd",
+      "lemma": "\u1f00\u03b3\u03b1\u03c0\u03ac\u03c9",
+      "parsing": "V3AAI-S--"
+    },
+    "19.4": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "19.5": {
+      "text": [
+        "\u1f55\u03bc\u03bd\u03bf\u03b9\u03c2"
+      ],
+      "original": "\u1f55\u03bc\u03bd\u03bf\u03b9\u03c2",
+      "lemma": "\u1f55\u03bc\u03bd\u03bf\u03c2",
+      "parsing": "N----DPM-"
+    },
+    "19.6": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "19.7": {
+      "text": [
+        "\u1fa0\u03b4\u03b1\u1fd6\u03c2"
+      ],
+      "original": "\u1fa0\u03b4\u03b1\u1fd6\u03c2",
+      "lemma": "\u1fa0\u03b4\u03ae",
+      "parsing": "N----DPF-"
+    },
+    "19.1": {
+      "text": [
+        "\u03bb\u03b1\u03bb\u03bf\u1fe6\u03bd\u03c4\u03b5\u03c2"
+      ],
+      "original": "\u03bb\u03b1\u03bb\u03bf\u1fe6\u03bd\u03c4\u03b5\u03c2",
+      "lemma": "\u03bb\u03b1\u03bb\u03ad\u03c9",
+      "parsing": "V-PAPNPM-"
+    },
+    "19.2": {
+      "text": [
+        "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fd6\u03c2"
+      ],
+      "original": "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fd6\u03c2",
+      "lemma": "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fe6",
+      "parsing": "p----DPM-"
+    },
+    "19.3": {
+      "text": [
+        "\u03c8\u03b1\u03bb\u03bc\u03bf\u1fd6\u03c2"
+      ],
+      "original": "\u03c8\u03b1\u03bb\u03bc\u03bf\u1fd6\u03c2",
+      "lemma": "\u03c8\u03b1\u03bb\u03bc\u03cc\u03c2",
+      "parsing": "N----DPM-"
+    },
+    "19.8": {
+      "text": [
+        "\u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03b9\u03ba\u03b1\u1fd6\u03c2"
+      ],
+      "original": "\u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03b9\u03ba\u03b1\u1fd6\u03c2",
+      "lemma": "\u03c0\u03bd\u03b5\u03c5\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc\u03c2",
+      "parsing": "A----DPF-"
+    },
+    "19.9": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "25.19": {
+      "text": [
+        "\u03b1\u1f50\u03c4\u1fc6\u03c2"
+      ],
+      "original": "\u03b1\u1f50\u03c4\u1fc6\u03c2",
+      "lemma": "\u03b1\u1f50\u03c4\u03cc\u03c2",
+      "parsing": "p----GSF-"
+    },
+    "25.18": {
+      "text": [
+        "\u1f51\u03c0\u1f72\u03c1"
+      ],
+      "original": "\u1f51\u03c0\u1f72\u03c1",
+      "lemma": "\u1f51\u03c0\u03ad\u03c1",
+      "parsing": "P--------"
+    },
+    "13.8": {
+      "text": [
+        "\u03c6\u03b1\u03bd\u03b5\u03c1\u03bf\u1fe6\u03c4\u03b1\u03b9"
+      ],
+      "original": "\u03c6\u03b1\u03bd\u03b5\u03c1\u03bf\u1fe6\u03c4\u03b1\u03b9",
+      "lemma": "\u03c6\u03b1\u03bd\u03b5\u03c1\u03cc\u03c9",
+      "parsing": "V3PPI-S--"
+    },
+    "13.9": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "13.6": {
+      "text": [
+        "\u03c4\u03bf\u1fe6"
+      ],
+      "original": "\u03c4\u03bf\u1fe6",
+      "lemma": "\u1f41",
+      "parsing": "T----GSN-"
+    },
+    "13.7": {
+      "text": [
+        "\u03c6\u03c9\u03c4\u1f78\u03c2"
+      ],
+      "original": "\u03c6\u03c9\u03c4\u1f78\u03c2",
+      "lemma": "\u03c6\u1ff6\u03c2",
+      "parsing": "N----GSN-"
+    },
+    "13.4": {
+      "text": [
+        "\u1f10\u03bb\u03b5\u03b3\u03c7\u03cc\u03bc\u03b5\u03bd\u03b1"
+      ],
+      "original": "\u1f10\u03bb\u03b5\u03b3\u03c7\u03cc\u03bc\u03b5\u03bd\u03b1",
+      "lemma": "\u1f10\u03bb\u03ad\u03b3\u03c7\u03c9",
+      "parsing": "V-PPPNPN-"
+    },
+    "13.5": {
+      "text": [
+        "\u1f51\u03c0\u1f78"
+      ],
+      "original": "\u1f51\u03c0\u1f78",
+      "lemma": "\u1f51\u03c0\u03cc",
+      "parsing": "P--------"
+    },
+    "13.2": {
+      "text": [
+        "\u03b4\u1f72"
+      ],
+      "original": "\u03b4\u1f72",
+      "lemma": "\u03b4\u03ad",
+      "parsing": "C--------"
+    },
+    "25.14": {
+      "text": [
+        "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1\u03bd"
+      ],
+      "original": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1\u03bd",
+      "lemma": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1",
+      "parsing": "N----ASF-"
+    },
+    "25.17": {
+      "text": [
+        "\u03c0\u03b1\u03c1\u03ad\u03b4\u03c9\u03ba\u03b5\u03bd"
+      ],
+      "original": "\u03c0\u03b1\u03c1\u03ad\u03b4\u03c9\u03ba\u03b5\u03bd",
+      "lemma": "\u03c0\u03b1\u03c1\u03b1\u03b4\u03af\u03b4\u03c9\u03bc\u03b9",
+      "parsing": "V3AAI-S--"
+    },
+    "13.1": {
+      "text": [
+        "\u03c4\u1f70"
+      ],
+      "original": "\u03c4\u1f70",
+      "lemma": "\u1f41",
+      "parsing": "T----NPN-"
+    },
+    "11.8": {
+      "text": [
+        "\u03c4\u03bf\u1fe6"
+      ],
+      "original": "\u03c4\u03bf\u1fe6",
+      "lemma": "\u1f41",
+      "parsing": "T----GSN-"
+    },
+    "11.9": {
+      "text": [
+        "\u03c3\u03ba\u03cc\u03c4\u03bf\u03c5\u03c2"
+      ],
+      "original": "\u03c3\u03ba\u03cc\u03c4\u03bf\u03c5\u03c2",
+      "lemma": "\u03c3\u03ba\u03cc\u03c4\u03bf\u03c2",
+      "parsing": "N----GSN-"
+    },
+    "11.4": {
+      "text": [
+        "\u03c4\u03bf\u1fd6\u03c2"
+      ],
+      "original": "\u03c4\u03bf\u1fd6\u03c2",
+      "lemma": "\u1f41",
+      "parsing": "T----DPN-"
+    },
+    "11.5": {
+      "text": [
+        "\u1f14\u03c1\u03b3\u03bf\u03b9\u03c2"
+      ],
+      "original": "\u1f14\u03c1\u03b3\u03bf\u03b9\u03c2",
+      "lemma": "\u1f14\u03c1\u03b3\u03bf\u03bd",
+      "parsing": "N----DPN-"
+    },
+    "11.6": {
+      "text": [
+        "\u03c4\u03bf\u1fd6\u03c2"
+      ],
+      "original": "\u03c4\u03bf\u1fd6\u03c2",
+      "lemma": "\u1f41",
+      "parsing": "T----DPN-"
+    },
+    "11.7": {
+      "text": [
+        "\u1f00\u03ba\u03ac\u03c1\u03c0\u03bf\u03b9\u03c2"
+      ],
+      "original": "\u1f00\u03ba\u03ac\u03c1\u03c0\u03bf\u03b9\u03c2",
+      "lemma": "\u1f04\u03ba\u03b1\u03c1\u03c0\u03bf\u03c2",
+      "parsing": "A----DPN-"
+    },
+    "28.22": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "28.21": {
+      "text": [
+        "\u1f00\u03b3\u03b1\u03c0\u1fb7"
+      ],
+      "original": "\u1f00\u03b3\u03b1\u03c0\u1fb7",
+      "lemma": "\u1f00\u03b3\u03b1\u03c0\u03ac\u03c9",
+      "parsing": "V3PAI-S--"
+    },
+    "28.20": {
+      "text": [
+        "\u1f11\u03b1\u03c5\u03c4\u1f78\u03bd"
+      ],
+      "original": "\u1f11\u03b1\u03c5\u03c4\u1f78\u03bd",
+      "lemma": "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fe6",
+      "parsing": "p----ASM-"
+    },
+    "17.2": {
+      "text": [
+        "\u03c4\u03bf\u1fe6\u03c4\u03bf"
+      ],
+      "original": "\u03c4\u03bf\u1fe6\u03c4\u03bf",
+      "lemma": "\u03bf\u1f57\u03c4\u03bf\u03c2",
+      "parsing": "d----ASN-"
+    },
+    "17.3": {
+      "text": [
+        "\u03bc\u1f74"
+      ],
+      "original": "\u03bc\u1f74",
+      "lemma": "\u03bc\u03ae",
+      "parsing": "D--------"
+    },
+    "17.1": {
+      "text": [
+        "\u03b4\u03b9\u1f70"
+      ],
+      "original": "\u03b4\u03b9\u1f70",
+      "lemma": "\u03b4\u03b9\u03ac",
+      "parsing": "P--------"
+    },
+    "29.19": {
+      "text": [
+        "\u03c4\u1f74\u03bd"
+      ],
+      "original": "\u03c4\u1f74\u03bd",
+      "lemma": "\u1f41",
+      "parsing": "T----ASF-"
+    },
+    "29.18": {
+      "text": [
+        "\u03a7\u03c1\u03b9\u03c3\u03c4\u1f78\u03c2"
+      ],
+      "original": "\u03a7\u03c1\u03b9\u03c3\u03c4\u1f78\u03c2",
+      "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03cc\u03c2",
+      "parsing": "N----NSM-"
+    },
+    "17.4": {
+      "text": [
+        "\u03b3\u03af\u03bd\u03b5\u03c3\u03b8\u03b5"
+      ],
+      "original": "\u03b3\u03af\u03bd\u03b5\u03c3\u03b8\u03b5",
+      "lemma": "\u03b3\u03af\u03bd\u03bf\u03bc\u03b1\u03b9",
+      "parsing": "V2PMD-P--"
+    },
+    "17.5": {
+      "text": [
+        "\u1f04\u03c6\u03c1\u03bf\u03bd\u03b5\u03c2"
+      ],
+      "original": "\u1f04\u03c6\u03c1\u03bf\u03bd\u03b5\u03c2",
+      "lemma": "\u1f04\u03c6\u03c1\u03c9\u03bd",
+      "parsing": "A----NPM-"
+    },
+    "29.15": {
+      "text": [
+        "\u03ba\u03b1\u03b8\u1f7c\u03c2"
+      ],
+      "original": "\u03ba\u03b1\u03b8\u1f7c\u03c2",
+      "lemma": "\u03ba\u03b1\u03b8\u03ce\u03c2",
+      "parsing": "C--------"
+    },
+    "29.14": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "17.8": {
+      "text": [
+        "\u03c3\u03c5\u03bd\u03af\u03b5\u03c4\u03b5"
+      ],
+      "original": "\u03c3\u03c5\u03bd\u03af\u03b5\u03c4\u03b5",
+      "lemma": "\u03c3\u03c5\u03bd\u03af\u03b7\u03bc\u03b9",
+      "parsing": "V2PAD-P--"
+    },
+    "29.16": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "D--------"
+    },
+    "29.11": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "29.10": {
+      "text": [
+        "\u1f10\u03ba\u03c4\u03c1\u03ad\u03c6\u03b5\u03b9"
+      ],
+      "original": "\u1f10\u03ba\u03c4\u03c1\u03ad\u03c6\u03b5\u03b9",
+      "lemma": "\u1f10\u03ba\u03c4\u03c1\u03ad\u03c6\u03c9",
+      "parsing": "V3PAI-S--"
+    },
+    "29.13": {
+      "text": [
+        "\u03b1\u1f50\u03c4\u03ae\u03bd"
+      ],
+      "original": "\u03b1\u1f50\u03c4\u03ae\u03bd",
+      "lemma": "\u03b1\u1f50\u03c4\u03cc\u03c2",
+      "parsing": "p----ASF-"
+    },
+    "29.12": {
+      "text": [
+        "\u03b8\u03ac\u03bb\u03c0\u03b5\u03b9"
+      ],
+      "original": "\u03b8\u03ac\u03bb\u03c0\u03b5\u03b9",
+      "lemma": "\u03b8\u03ac\u03bb\u03c0\u03c9",
+      "parsing": "V3PAI-S--"
+    },
+    "32.11": {
+      "text": [
+        "\u03a7\u03c1\u03b9\u03c3\u03c4\u1f78\u03bd"
+      ],
+      "original": "\u03a7\u03c1\u03b9\u03c3\u03c4\u1f78\u03bd",
+      "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03cc\u03c2",
+      "parsing": "N----ASM-"
+    },
+    "32.10": {
+      "text": [
+        "\u03b5\u1f30\u03c2"
+      ],
+      "original": "\u03b5\u1f30\u03c2",
+      "lemma": "\u03b5\u1f30\u03c2",
+      "parsing": "P--------"
+    },
+    "32.13": {
+      "text": [
+        "\u03b5\u1f30\u03c2"
+      ],
+      "original": "\u03b5\u1f30\u03c2",
+      "lemma": "\u03b5\u1f30\u03c2",
+      "parsing": "P--------"
+    },
+    "32.12": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "32.15": {
+      "text": [
+        "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1\u03bd"
+      ],
+      "original": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1\u03bd",
+      "lemma": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1",
+      "parsing": "N----ASF-"
+    },
+    "32.14": {
+      "text": [
+        "\u03c4\u1f74\u03bd"
+      ],
+      "original": "\u03c4\u1f74\u03bd",
+      "lemma": "\u1f41",
+      "parsing": "T----ASF-"
+    },
+    "32.16": {
+      "text": [
+        "."
+      ],
+      "original": ".",
+      "lemma": ".",
+      "parsing": "S"
+    },
+    "14.24": {
+      "text": [
+        "\u03c3\u03bf\u03b9"
+      ],
+      "original": "\u03c3\u03bf\u03b9",
+      "lemma": "\u03c3\u03cd",
+      "parsing": "p----DS--"
+    },
+    "14.25": {
+      "text": [
+        "\u1f41"
+      ],
+      "original": "\u1f41",
+      "lemma": "\u1f41",
+      "parsing": "T----NSM-"
+    },
+    "14.26": {
+      "text": [
+        "\u03a7\u03c1\u03b9\u03c3\u03c4\u03cc\u03c2"
+      ],
+      "original": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03cc\u03c2",
+      "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03cc\u03c2",
+      "parsing": "N----NSM-"
+    },
+    "14.27": {
+      "text": [
+        "."
+      ],
+      "original": ".",
+      "lemma": ".",
+      "parsing": "S"
+    },
+    "14.20": {
+      "text": [
+        "\u03bd\u03b5\u03ba\u03c1\u1ff6\u03bd"
+      ],
+      "original": "\u03bd\u03b5\u03ba\u03c1\u1ff6\u03bd",
+      "lemma": "\u03bd\u03b5\u03ba\u03c1\u03cc\u03c2",
+      "parsing": "A----GPM-"
+    },
+    "14.21": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "14.22": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "14.23": {
+      "text": [
+        "\u1f10\u03c0\u03b9\u03c6\u03b1\u03cd\u03c3\u03b5\u03b9"
+      ],
+      "original": "\u1f10\u03c0\u03b9\u03c6\u03b1\u03cd\u03c3\u03b5\u03b9",
+      "lemma": "\u1f10\u03c0\u03b9\u03c6\u03b1\u03cd\u03c3\u03ba\u03c9",
+      "parsing": "V3FAI-S--"
+    },
+    "15.1": {
+      "text": [
+        "\u0392\u03bb\u03ad\u03c0\u03b5\u03c4\u03b5"
+      ],
+      "original": "\u0392\u03bb\u03ad\u03c0\u03b5\u03c4\u03b5",
+      "lemma": "\u03b2\u03bb\u03ad\u03c0\u03c9",
+      "parsing": "V2PAD-P--"
+    },
+    "15.2": {
+      "text": [
+        "\u03bf\u1f56\u03bd"
+      ],
+      "original": "\u03bf\u1f56\u03bd",
+      "lemma": "\u03bf\u1f56\u03bd",
+      "parsing": "C--------"
+    },
+    "15.3": {
+      "text": [
+        "\u1f00\u03ba\u03c1\u03b9\u03b2\u1ff6\u03c2"
+      ],
+      "original": "\u1f00\u03ba\u03c1\u03b9\u03b2\u1ff6\u03c2",
+      "lemma": "\u1f00\u03ba\u03c1\u03b9\u03b2\u1ff6\u03c2",
+      "parsing": "D--------"
+    },
+    "15.4": {
+      "text": [
+        "\u03c0\u1ff6\u03c2"
+      ],
+      "original": "\u03c0\u1ff6\u03c2",
+      "lemma": "\u03c0\u1ff6\u03c2",
+      "parsing": "D--------"
+    },
+    "15.5": {
+      "text": [
+        "\u03c0\u03b5\u03c1\u03b9\u03c0\u03b1\u03c4\u03b5\u1fd6\u03c4\u03b5"
+      ],
+      "original": "\u03c0\u03b5\u03c1\u03b9\u03c0\u03b1\u03c4\u03b5\u1fd6\u03c4\u03b5",
+      "lemma": "\u03c0\u03b5\u03c1\u03b9\u03c0\u03b1\u03c4\u03ad\u03c9",
+      "parsing": "V2PAI-P--"
+    },
+    "15.6": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "15.7": {
+      "text": [
+        "\u03bc\u1f74"
+      ],
+      "original": "\u03bc\u1f74",
+      "lemma": "\u03bc\u03ae",
+      "parsing": "D--------"
+    },
+    "15.8": {
+      "text": [
+        "\u1f61\u03c2"
+      ],
+      "original": "\u1f61\u03c2",
+      "lemma": "\u1f61\u03c2",
+      "parsing": "C--------"
+    },
+    "15.9": {
+      "text": [
+        "\u1f04\u03c3\u03bf\u03c6\u03bf\u03b9"
+      ],
+      "original": "\u1f04\u03c3\u03bf\u03c6\u03bf\u03b9",
+      "lemma": "\u1f04\u03c3\u03bf\u03c6\u03bf\u03c2",
+      "parsing": "A----NPM-"
+    },
+    "29.17": {
+      "text": [
+        "\u1f41"
+      ],
+      "original": "\u1f41",
+      "lemma": "\u1f41",
+      "parsing": "T----NSM-"
+    },
+    "8.15": {
+      "text": [
+        "\u03c0\u03b5\u03c1\u03b9\u03c0\u03b1\u03c4\u03b5\u1fd6\u03c4\u03b5"
+      ],
+      "original": "\u03c0\u03b5\u03c1\u03b9\u03c0\u03b1\u03c4\u03b5\u1fd6\u03c4\u03b5",
+      "lemma": "\u03c0\u03b5\u03c1\u03b9\u03c0\u03b1\u03c4\u03ad\u03c9",
+      "parsing": "V2PAD-P--"
+    },
+    "8.14": {
+      "text": [
+        "\u03c6\u03c9\u03c4\u1f78\u03c2"
+      ],
+      "original": "\u03c6\u03c9\u03c4\u1f78\u03c2",
+      "lemma": "\u03c6\u1ff6\u03c2",
+      "parsing": "N----GSN-"
+    },
+    "8.16": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "8.11": {
+      "text": [
+        "\u00b7"
+      ],
+      "original": "\u00b7",
+      "lemma": "\u00b7",
+      "parsing": "S"
+    },
+    "8.10": {
+      "text": [
+        "\u03ba\u03c5\u03c1\u03af\u1ff3"
+      ],
+      "original": "\u03ba\u03c5\u03c1\u03af\u1ff3",
+      "lemma": "\u03ba\u03cd\u03c1\u03b9\u03bf\u03c2",
+      "parsing": "N----DSM-"
+    },
+    "8.13": {
+      "text": [
+        "\u03c4\u03ad\u03ba\u03bd\u03b1"
+      ],
+      "original": "\u03c4\u03ad\u03ba\u03bd\u03b1",
+      "lemma": "\u03c4\u03ad\u03ba\u03bd\u03bf\u03bd",
+      "parsing": "N----NPN-"
+    },
+    "8.12": {
+      "text": [
+        "\u1f61\u03c2"
+      ],
+      "original": "\u1f61\u03c2",
+      "lemma": "\u1f61\u03c2",
+      "parsing": "C--------"
+    },
+    "2.18": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "27.17": {
+      "text": [
+        "\u03c4\u03bf\u03b9\u03bf\u03cd\u03c4\u03c9\u03bd"
+      ],
+      "original": "\u03c4\u03bf\u03b9\u03bf\u03cd\u03c4\u03c9\u03bd",
+      "lemma": "\u03c4\u03bf\u03b9\u03bf\u1fe6\u03c4\u03bf\u03c2",
+      "parsing": "d----GPN-"
+    },
+    "27.16": {
+      "text": [
+        "\u03c4\u1ff6\u03bd"
+      ],
+      "original": "\u03c4\u1ff6\u03bd",
+      "lemma": "\u1f41",
+      "parsing": "T----GPN-"
+    },
+    "27.15": {
+      "text": [
+        "\u03c4\u03b9"
+      ],
+      "original": "\u03c4\u03b9",
+      "lemma": "\u03c4\u03b9\u03c2",
+      "parsing": "Q----ASN-"
+    },
+    "27.14": {
+      "text": [
+        "\u1f24"
+      ],
+      "original": "\u1f24",
+      "lemma": "\u1f24",
+      "parsing": "C--------"
+    },
+    "27.13": {
+      "text": [
+        "\u1fe5\u03c5\u03c4\u03af\u03b4\u03b1"
+      ],
+      "original": "\u1fe5\u03c5\u03c4\u03af\u03b4\u03b1",
+      "lemma": "\u1fe5\u03c5\u03c4\u03af\u03c2",
+      "parsing": "N----ASF-"
+    },
+    "27.12": {
+      "text": [
+        "\u1f22"
+      ],
+      "original": "\u1f22",
+      "lemma": "\u1f24",
+      "parsing": "C--------"
+    },
+    "27.11": {
+      "text": [
+        "\u03c3\u03c0\u03af\u03bb\u03bf\u03bd"
+      ],
+      "original": "\u03c3\u03c0\u03af\u03bb\u03bf\u03bd",
+      "lemma": "\u03c3\u03c0\u03af\u03bb\u03bf\u03c2",
+      "parsing": "N----ASM-"
+    },
+    "27.10": {
+      "text": [
+        "\u1f14\u03c7\u03bf\u03c5\u03c3\u03b1\u03bd"
+      ],
+      "original": "\u1f14\u03c7\u03bf\u03c5\u03c3\u03b1\u03bd",
+      "lemma": "\u1f14\u03c7\u03c9",
+      "parsing": "V-PAPASF-"
+    },
+    "2.17": {
+      "text": [
+        "\u03c0\u03c1\u03bf\u03c3\u03c6\u03bf\u03c1\u1f70\u03bd"
+      ],
+      "original": "\u03c0\u03c1\u03bf\u03c3\u03c6\u03bf\u03c1\u1f70\u03bd",
+      "lemma": "\u03c0\u03c1\u03bf\u03c3\u03c6\u03bf\u03c1\u03ac",
+      "parsing": "N----ASF-"
+    },
+    "2.16": {
+      "text": [
+        "\u1f21\u03bc\u1ff6\u03bd"
+      ],
+      "original": "\u1f21\u03bc\u1ff6\u03bd",
+      "lemma": "\u1f10\u03b3\u03ce",
+      "parsing": "p----GP--"
+    },
+    "2.15": {
+      "text": [
+        "\u1f51\u03c0\u1f72\u03c1"
+      ],
+      "original": "\u1f51\u03c0\u1f72\u03c1",
+      "lemma": "\u1f51\u03c0\u03ad\u03c1",
+      "parsing": "P--------"
+    },
+    "2.14": {
+      "text": [
+        "\u1f11\u03b1\u03c5\u03c4\u1f78\u03bd"
+      ],
+      "original": "\u1f11\u03b1\u03c5\u03c4\u1f78\u03bd",
+      "lemma": "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fe6",
+      "parsing": "p----ASM-"
+    },
+    "2.13": {
+      "text": [
+        "\u03c0\u03b1\u03c1\u03ad\u03b4\u03c9\u03ba\u03b5\u03bd"
+      ],
+      "original": "\u03c0\u03b1\u03c1\u03ad\u03b4\u03c9\u03ba\u03b5\u03bd",
+      "lemma": "\u03c0\u03b1\u03c1\u03b1\u03b4\u03af\u03b4\u03c9\u03bc\u03b9",
+      "parsing": "V3AAI-S--"
+    },
+    "2.12": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "27.19": {
+      "text": [
+        "\u1f00\u03bb\u03bb\u2019"
+      ],
+      "original": "\u1f00\u03bb\u03bb\u2019",
+      "lemma": "\u1f00\u03bb\u03bb\u03ac",
+      "parsing": "C--------"
+    },
+    "27.18": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "14.1": {
+      "text": [
+        "\u03c0\u1fb6\u03bd"
+      ],
+      "original": "\u03c0\u1fb6\u03bd",
+      "lemma": "\u03c0\u1fb6\u03c2",
+      "parsing": "A----NSN-"
+    },
+    "31.20": {
+      "text": [
+        "\u03b5\u1f30\u03c2"
+      ],
+      "original": "\u03b5\u1f30\u03c2",
+      "lemma": "\u03b5\u1f30\u03c2",
+      "parsing": "P--------"
+    },
+    "31.23": {
+      "text": [
+        "."
+      ],
+      "original": ".",
+      "lemma": ".",
+      "parsing": "S"
+    },
+    "31.22": {
+      "text": [
+        "\u03bc\u03af\u03b1\u03bd"
+      ],
+      "original": "\u03bc\u03af\u03b1\u03bd",
+      "lemma": "\u03b5\u1f37\u03c2",
+      "parsing": "A----ASF-"
+    },
+    "4.11": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "4.10": {
+      "text": [
+        "\u1f00\u03bd\u1fc6\u03ba\u03b5\u03bd"
+      ],
+      "original": "\u1f00\u03bd\u1fc6\u03ba\u03b5\u03bd",
+      "lemma": "\u1f00\u03bd\u03ae\u03ba\u03c9",
+      "parsing": "V3IAI-S--"
+    },
+    "4.13": {
+      "text": [
+        "\u03bc\u1fb6\u03bb\u03bb\u03bf\u03bd"
+      ],
+      "original": "\u03bc\u1fb6\u03bb\u03bb\u03bf\u03bd",
+      "lemma": "\u03bc\u1fb6\u03bb\u03bb\u03bf\u03bd",
+      "parsing": "D--------"
+    },
+    "4.12": {
+      "text": [
+        "\u1f00\u03bb\u03bb\u1f70"
+      ],
+      "original": "\u1f00\u03bb\u03bb\u1f70",
+      "lemma": "\u1f00\u03bb\u03bb\u03ac",
+      "parsing": "C--------"
+    },
+    "4.15": {
+      "text": [
+        "."
+      ],
+      "original": ".",
+      "lemma": ".",
+      "parsing": "S"
+    },
+    "4.14": {
+      "text": [
+        "\u03b5\u1f50\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03af\u03b1"
+      ],
+      "original": "\u03b5\u1f50\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03af\u03b1",
+      "lemma": "\u03b5\u1f50\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03af\u03b1",
+      "parsing": "N----NSF-"
+    },
+    "14.8": {
+      "text": [
+        "\u03b4\u03b9\u1f78"
+      ],
+      "original": "\u03b4\u03b9\u1f78",
+      "lemma": "\u03b4\u03b9\u03cc",
+      "parsing": "C--------"
+    },
+    "3.6": {
+      "text": [
+        "\u1f22"
+      ],
+      "original": "\u1f22",
+      "lemma": "\u1f24",
+      "parsing": "C--------"
+    },
+    "3.7": {
+      "text": [
+        "\u03c0\u03bb\u03b5\u03bf\u03bd\u03b5\u03be\u03af\u03b1"
+      ],
+      "original": "\u03c0\u03bb\u03b5\u03bf\u03bd\u03b5\u03be\u03af\u03b1",
+      "lemma": "\u03c0\u03bb\u03b5\u03bf\u03bd\u03b5\u03be\u03af\u03b1",
+      "parsing": "N----NSF-"
+    },
+    "3.4": {
+      "text": [
+        "\u1f00\u03ba\u03b1\u03b8\u03b1\u03c1\u03c3\u03af\u03b1"
+      ],
+      "original": "\u1f00\u03ba\u03b1\u03b8\u03b1\u03c1\u03c3\u03af\u03b1",
+      "lemma": "\u1f00\u03ba\u03b1\u03b8\u03b1\u03c1\u03c3\u03af\u03b1",
+      "parsing": "N----NSF-"
+    },
+    "3.5": {
+      "text": [
+        "\u03c0\u1fb6\u03c3\u03b1"
+      ],
+      "original": "\u03c0\u1fb6\u03c3\u03b1",
+      "lemma": "\u03c0\u1fb6\u03c2",
+      "parsing": "A----NSF-"
+    },
+    "3.2": {
+      "text": [
+        "\u03b4\u1f72"
+      ],
+      "original": "\u03b4\u1f72",
+      "lemma": "\u03b4\u03ad",
+      "parsing": "C--------"
+    },
+    "3.3": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "3.1": {
+      "text": [
+        "\u03a0\u03bf\u03c1\u03bd\u03b5\u03af\u03b1"
+      ],
+      "original": "\u03a0\u03bf\u03c1\u03bd\u03b5\u03af\u03b1",
+      "lemma": "\u03c0\u03bf\u03c1\u03bd\u03b5\u03af\u03b1",
+      "parsing": "N----NSF-"
+    },
+    "3.8": {
+      "text": [
+        "\u03bc\u03b7\u03b4\u1f72"
+      ],
+      "original": "\u03bc\u03b7\u03b4\u1f72",
+      "lemma": "\u03bc\u03b7\u03b4\u03ad",
+      "parsing": "D--------"
+    },
+    "3.9": {
+      "text": [
+        "\u1f40\u03bd\u03bf\u03bc\u03b1\u03b6\u03ad\u03c3\u03b8\u03c9"
+      ],
+      "original": "\u1f40\u03bd\u03bf\u03bc\u03b1\u03b6\u03ad\u03c3\u03b8\u03c9",
+      "lemma": "\u1f40\u03bd\u03bf\u03bc\u03ac\u03b6\u03c9",
+      "parsing": "V3PPD-S--"
+    },
+    "27.3": {
+      "text": [
+        "\u03b1\u1f50\u03c4\u1f78\u03c2"
+      ],
+      "original": "\u03b1\u1f50\u03c4\u1f78\u03c2",
+      "lemma": "\u03b1\u1f50\u03c4\u03cc\u03c2",
+      "parsing": "p----NSM-"
+    },
+    "27.2": {
+      "text": [
+        "\u03c0\u03b1\u03c1\u03b1\u03c3\u03c4\u03ae\u03c3\u1fc3"
+      ],
+      "original": "\u03c0\u03b1\u03c1\u03b1\u03c3\u03c4\u03ae\u03c3\u1fc3",
+      "lemma": "\u03c0\u03b1\u03c1\u03af\u03c3\u03c4\u03b7\u03bc\u03b9",
+      "parsing": "V3AAS-S--"
+    },
+    "27.1": {
+      "text": [
+        "\u1f35\u03bd\u03b1"
+      ],
+      "original": "\u1f35\u03bd\u03b1",
+      "lemma": "\u1f35\u03bd\u03b1",
+      "parsing": "C--------"
+    },
+    "27.7": {
+      "text": [
+        "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1\u03bd"
+      ],
+      "original": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1\u03bd",
+      "lemma": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1",
+      "parsing": "N----ASF-"
+    },
+    "27.6": {
+      "text": [
+        "\u03c4\u1f74\u03bd"
+      ],
+      "original": "\u03c4\u1f74\u03bd",
+      "lemma": "\u1f41",
+      "parsing": "T----ASF-"
+    },
+    "27.5": {
+      "text": [
+        "\u1f14\u03bd\u03b4\u03bf\u03be\u03bf\u03bd"
+      ],
+      "original": "\u1f14\u03bd\u03b4\u03bf\u03be\u03bf\u03bd",
+      "lemma": "\u1f14\u03bd\u03b4\u03bf\u03be\u03bf\u03c2",
+      "parsing": "A----ASF-"
+    },
+    "27.4": {
+      "text": [
+        "\u1f11\u03b1\u03c5\u03c4\u1ff7"
+      ],
+      "original": "\u1f11\u03b1\u03c5\u03c4\u1ff7",
+      "lemma": "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fe6",
+      "parsing": "p----DSM-"
+    },
+    "27.9": {
+      "text": [
+        "\u03bc\u1f74"
+      ],
+      "original": "\u03bc\u1f74",
+      "lemma": "\u03bc\u03ae",
+      "parsing": "D--------"
+    },
+    "27.8": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "25.1": {
+      "text": [
+        "\u039f\u1f31"
+      ],
+      "original": "\u039f\u1f31",
+      "lemma": "\u1f41",
+      "parsing": "T----VPM-"
+    },
+    "25.3": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "25.2": {
+      "text": [
+        "\u1f04\u03bd\u03b4\u03c1\u03b5\u03c2"
+      ],
+      "original": "\u1f04\u03bd\u03b4\u03c1\u03b5\u03c2",
+      "lemma": "\u1f00\u03bd\u03ae\u03c1",
+      "parsing": "N----VPM-"
+    },
+    "25.5": {
+      "text": [
+        "\u03c4\u1f70\u03c2"
+      ],
+      "original": "\u03c4\u1f70\u03c2",
+      "lemma": "\u1f41",
+      "parsing": "T----APF-"
+    },
+    "25.4": {
+      "text": [
+        "\u1f00\u03b3\u03b1\u03c0\u1fb6\u03c4\u03b5"
+      ],
+      "original": "\u1f00\u03b3\u03b1\u03c0\u1fb6\u03c4\u03b5",
+      "lemma": "\u1f00\u03b3\u03b1\u03c0\u03ac\u03c9",
+      "parsing": "V2PAD-P--"
+    },
+    "25.7": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "25.6": {
+      "text": [
+        "\u03b3\u03c5\u03bd\u03b1\u1fd6\u03ba\u03b1\u03c2"
+      ],
+      "original": "\u03b3\u03c5\u03bd\u03b1\u1fd6\u03ba\u03b1\u03c2",
+      "lemma": "\u03b3\u03c5\u03bd\u03ae",
+      "parsing": "N----APF-"
+    },
+    "25.9": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "D--------"
+    },
+    "25.8": {
+      "text": [
+        "\u03ba\u03b1\u03b8\u1f7c\u03c2"
+      ],
+      "original": "\u03ba\u03b1\u03b8\u1f7c\u03c2",
+      "lemma": "\u03ba\u03b1\u03b8\u03ce\u03c2",
+      "parsing": "C--------"
+    },
+    "23.7": {
+      "text": [
+        "\u1f61\u03c2"
+      ],
+      "original": "\u1f61\u03c2",
+      "lemma": "\u1f61\u03c2",
+      "parsing": "C--------"
+    },
+    "23.6": {
+      "text": [
+        "\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u1f78\u03c2"
+      ],
+      "original": "\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u1f78\u03c2",
+      "lemma": "\u03b3\u03c5\u03bd\u03ae",
+      "parsing": "N----GSF-"
+    },
+    "23.5": {
+      "text": [
+        "\u03c4\u1fc6\u03c2"
+      ],
+      "original": "\u03c4\u1fc6\u03c2",
+      "lemma": "\u1f41",
+      "parsing": "T----GSF-"
+    },
+    "23.4": {
+      "text": [
+        "\u03ba\u03b5\u03c6\u03b1\u03bb\u1f74"
+      ],
+      "original": "\u03ba\u03b5\u03c6\u03b1\u03bb\u1f74",
+      "lemma": "\u03ba\u03b5\u03c6\u03b1\u03bb\u03ae",
+      "parsing": "N----NSF-"
+    },
+    "23.3": {
+      "text": [
+        "\u1f10\u03c3\u03c4\u03b9\u03bd"
+      ],
+      "original": "\u1f10\u03c3\u03c4\u03b9\u03bd",
+      "lemma": "\u03b5\u1f30\u03bc\u03af",
+      "parsing": "V3PAI-S--"
+    },
+    "23.2": {
+      "text": [
+        "\u1f00\u03bd\u03ae\u03c1"
+      ],
+      "original": "\u1f00\u03bd\u03ae\u03c1",
+      "lemma": "\u1f00\u03bd\u03ae\u03c1",
+      "parsing": "N----NSM-"
+    },
+    "23.1": {
+      "text": [
+        "\u1f45\u03c4\u03b9"
+      ],
+      "original": "\u1f45\u03c4\u03b9",
+      "lemma": "\u1f45\u03c4\u03b9",
+      "parsing": "C--------"
+    },
+    "23.9": {
+      "text": [
+        "\u1f41"
+      ],
+      "original": "\u1f41",
+      "lemma": "\u1f41",
+      "parsing": "T----NSM-"
+    },
+    "23.8": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "D--------"
+    },
+    "33.4": {
+      "text": [
+        "\u03bf\u1f31"
+      ],
+      "original": "\u03bf\u1f31",
+      "lemma": "\u1f41",
+      "parsing": "T----NPM-"
+    },
+    "33.5": {
+      "text": [
+        "\u03ba\u03b1\u03b8\u2019"
+      ],
+      "original": "\u03ba\u03b1\u03b8\u2019",
+      "lemma": "\u03ba\u03b1\u03c4\u03ac",
+      "parsing": "P--------"
+    },
+    "33.6": {
+      "text": [
+        "\u1f15\u03bd\u03b1"
+      ],
+      "original": "\u1f15\u03bd\u03b1",
+      "lemma": "\u03b5\u1f37\u03c2",
+      "parsing": "A----ASM-"
+    },
+    "33.7": {
+      "text": [
+        "\u1f15\u03ba\u03b1\u03c3\u03c4\u03bf\u03c2"
+      ],
+      "original": "\u1f15\u03ba\u03b1\u03c3\u03c4\u03bf\u03c2",
+      "lemma": "\u1f15\u03ba\u03b1\u03c3\u03c4\u03bf\u03c2",
+      "parsing": "A----NSM-"
+    },
+    "33.1": {
+      "text": [
+        "\u03c0\u03bb\u1f74\u03bd"
+      ],
+      "original": "\u03c0\u03bb\u1f74\u03bd",
+      "lemma": "\u03c0\u03bb\u03ae\u03bd",
+      "parsing": "C--------"
+    },
+    "33.2": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "D--------"
+    },
+    "33.3": {
+      "text": [
+        "\u1f51\u03bc\u03b5\u1fd6\u03c2"
+      ],
+      "original": "\u1f51\u03bc\u03b5\u1fd6\u03c2",
+      "lemma": "\u03c3\u03cd",
+      "parsing": "p----NP--"
+    },
+    "33.8": {
+      "text": [
+        "\u03c4\u1f74\u03bd"
+      ],
+      "original": "\u03c4\u1f74\u03bd",
+      "lemma": "\u1f41",
+      "parsing": "T----ASF-"
+    },
+    "33.9": {
+      "text": [
+        "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fe6"
+      ],
+      "original": "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fe6",
+      "lemma": "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fe6",
+      "parsing": "p----GSM-"
+    },
+    "14.15": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "5.26": {
+      "text": [
+        "\u03b8\u03b5\u03bf\u1fe6"
+      ],
+      "original": "\u03b8\u03b5\u03bf\u1fe6",
+      "lemma": "\u03b8\u03b5\u03cc\u03c2",
+      "parsing": "N----GSM-"
+    },
+    "14.17": {
+      "text": [
+        "\u1f00\u03bd\u03ac\u03c3\u03c4\u03b1"
+      ],
+      "original": "\u1f00\u03bd\u03ac\u03c3\u03c4\u03b1",
+      "lemma": "\u1f00\u03bd\u03af\u03c3\u03c4\u03b7\u03bc\u03b9",
+      "parsing": "V2AAD-S--"
+    },
+    "14.16": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "5.23": {
+      "text": [
+        "\u03c4\u03bf\u1fe6"
+      ],
+      "original": "\u03c4\u03bf\u1fe6",
+      "lemma": "\u1f41",
+      "parsing": "T----GSM-"
+    },
+    "14.10": {
+      "text": [
+        "\u00b7"
+      ],
+      "original": "\u00b7",
+      "lemma": "\u00b7",
+      "parsing": "S"
+    },
+    "14.13": {
+      "text": [
+        "\u1f41"
+      ],
+      "original": "\u1f41",
+      "lemma": "\u1f41",
+      "parsing": "T----VSM-"
+    },
+    "14.12": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "14.19": {
+      "text": [
+        "\u03c4\u1ff6\u03bd"
+      ],
+      "original": "\u03c4\u1ff6\u03bd",
+      "lemma": "\u1f41",
+      "parsing": "T----GPM-"
+    },
+    "14.18": {
+      "text": [
+        "\u1f10\u03ba"
+      ],
+      "original": "\u1f10\u03ba",
+      "lemma": "\u1f10\u03ba",
+      "parsing": "P--------"
+    },
+    "21.5": {
+      "text": [
+        "\u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u1fe6"
+      ],
+      "original": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u1fe6",
+      "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03cc\u03c2",
+      "parsing": "N----GSM-"
+    },
+    "21.4": {
+      "text": [
+        "\u03c6\u03cc\u03b2\u1ff3"
+      ],
+      "original": "\u03c6\u03cc\u03b2\u1ff3",
+      "lemma": "\u03c6\u03cc\u03b2\u03bf\u03c2",
+      "parsing": "N----DSM-"
+    },
+    "16.10": {
+      "text": [
+        "."
+      ],
+      "original": ".",
+      "lemma": ".",
+      "parsing": "S"
+    },
+    "21.1": {
+      "text": [
+        "\u1f51\u03c0\u03bf\u03c4\u03b1\u03c3\u03c3\u03cc\u03bc\u03b5\u03bd\u03bf\u03b9"
+      ],
+      "original": "\u1f51\u03c0\u03bf\u03c4\u03b1\u03c3\u03c3\u03cc\u03bc\u03b5\u03bd\u03bf\u03b9",
+      "lemma": "\u1f51\u03c0\u03bf\u03c4\u03ac\u03c3\u03c3\u03c9",
+      "parsing": "V-PPPNPM-"
+    },
+    "21.3": {
+      "text": [
+        "\u1f10\u03bd"
+      ],
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd",
+      "parsing": "P--------"
+    },
+    "21.2": {
+      "text": [
+        "\u1f00\u03bb\u03bb\u03ae\u03bb\u03bf\u03b9\u03c2"
+      ],
+      "original": "\u1f00\u03bb\u03bb\u03ae\u03bb\u03bf\u03b9\u03c2",
+      "lemma": "\u1f00\u03bb\u03bb\u03ae\u03bb\u03c9\u03bd",
+      "parsing": "p----DPM-"
+    },
+    "9.8": {
+      "text": [
+        "\u1f00\u03b3\u03b1\u03b8\u03c9\u03c3\u03cd\u03bd\u1fc3"
+      ],
+      "original": "\u1f00\u03b3\u03b1\u03b8\u03c9\u03c3\u03cd\u03bd\u1fc3",
+      "lemma": "\u1f00\u03b3\u03b1\u03b8\u03c9\u03c3\u03cd\u03bd\u03b7",
+      "parsing": "N----DSF-"
+    },
+    "9.9": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "9.4": {
+      "text": [
+        "\u03c4\u03bf\u1fe6"
+      ],
+      "original": "\u03c4\u03bf\u1fe6",
+      "lemma": "\u1f41",
+      "parsing": "T----GSN-"
+    },
+    "9.5": {
+      "text": [
+        "\u03c6\u03c9\u03c4\u1f78\u03c2"
+      ],
+      "original": "\u03c6\u03c9\u03c4\u1f78\u03c2",
+      "lemma": "\u03c6\u1ff6\u03c2",
+      "parsing": "N----GSN-"
+    },
+    "9.6": {
+      "text": [
+        "\u1f10\u03bd"
+      ],
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd",
+      "parsing": "P--------"
+    },
+    "9.7": {
+      "text": [
+        "\u03c0\u03ac\u03c3\u1fc3"
+      ],
+      "original": "\u03c0\u03ac\u03c3\u1fc3",
+      "lemma": "\u03c0\u1fb6\u03c2",
+      "parsing": "A----DSF-"
+    },
+    "9.1": {
+      "text": [
+        "\u1f41"
+      ],
+      "original": "\u1f41",
+      "lemma": "\u1f41",
+      "parsing": "T----NSM-"
+    },
+    "9.2": {
+      "text": [
+        "\u03b3\u1f70\u03c1"
+      ],
+      "original": "\u03b3\u1f70\u03c1",
+      "lemma": "\u03b3\u03ac\u03c1",
+      "parsing": "C--------"
+    },
+    "9.3": {
+      "text": [
+        "\u03ba\u03b1\u03c1\u03c0\u1f78\u03c2"
+      ],
+      "original": "\u03ba\u03b1\u03c1\u03c0\u1f78\u03c2",
+      "lemma": "\u03ba\u03b1\u03c1\u03c0\u03cc\u03c2",
+      "parsing": "N----NSM-"
+    },
+    "33.16": {
+      "text": [
+        "\u1f21"
+      ],
+      "original": "\u1f21",
+      "lemma": "\u1f41",
+      "parsing": "T----NSF-"
+    },
+    "33.17": {
+      "text": [
+        "\u03b4\u1f72"
+      ],
+      "original": "\u03b4\u1f72",
+      "lemma": "\u03b4\u03ad",
+      "parsing": "C--------"
+    },
+    "33.14": {
+      "text": [
+        "\u1f11\u03b1\u03c5\u03c4\u03cc\u03bd"
+      ],
+      "original": "\u1f11\u03b1\u03c5\u03c4\u03cc\u03bd",
+      "lemma": "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fe6",
+      "parsing": "p----ASM-"
+    },
+    "33.15": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "33.12": {
+      "text": [
+        "\u1f00\u03b3\u03b1\u03c0\u03ac\u03c4\u03c9"
+      ],
+      "original": "\u1f00\u03b3\u03b1\u03c0\u03ac\u03c4\u03c9",
+      "lemma": "\u1f00\u03b3\u03b1\u03c0\u03ac\u03c9",
+      "parsing": "V3PAD-S--"
+    },
+    "33.13": {
+      "text": [
+        "\u1f61\u03c2"
+      ],
+      "original": "\u1f61\u03c2",
+      "lemma": "\u1f61\u03c2",
+      "parsing": "C--------"
+    },
+    "33.10": {
+      "text": [
+        "\u03b3\u03c5\u03bd\u03b1\u1fd6\u03ba\u03b1"
+      ],
+      "original": "\u03b3\u03c5\u03bd\u03b1\u1fd6\u03ba\u03b1",
+      "lemma": "\u03b3\u03c5\u03bd\u03ae",
+      "parsing": "N----ASF-"
+    },
+    "33.11": {
+      "text": [
+        "\u03bf\u1f55\u03c4\u03c9\u03c2"
+      ],
+      "original": "\u03bf\u1f55\u03c4\u03c9\u03c2",
+      "lemma": "\u03bf\u1f55\u03c4\u03c9(\u03c2)",
+      "parsing": "D--------"
+    },
+    "33.18": {
+      "text": [
+        "\u03b3\u03c5\u03bd\u1f74"
+      ],
+      "original": "\u03b3\u03c5\u03bd\u1f74",
+      "lemma": "\u03b3\u03c5\u03bd\u03ae",
+      "parsing": "N----NSF-"
+    },
+    "33.19": {
+      "text": [
+        "\u1f35\u03bd\u03b1"
+      ],
+      "original": "\u1f35\u03bd\u03b1",
+      "lemma": "\u1f35\u03bd\u03b1",
+      "parsing": "C--------"
+    },
+    "4.5": {
+      "text": [
+        "\u1f22"
+      ],
+      "original": "\u1f22",
+      "lemma": "\u1f24",
+      "parsing": "C--------"
+    },
+    "4.4": {
+      "text": [
+        "\u03bc\u03c9\u03c1\u03bf\u03bb\u03bf\u03b3\u03af\u03b1"
+      ],
+      "original": "\u03bc\u03c9\u03c1\u03bf\u03bb\u03bf\u03b3\u03af\u03b1",
+      "lemma": "\u03bc\u03c9\u03c1\u03bf\u03bb\u03bf\u03b3\u03af\u03b1",
+      "parsing": "N----NSF-"
+    },
+    "4.7": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "4.6": {
+      "text": [
+        "\u03b5\u1f50\u03c4\u03c1\u03b1\u03c0\u03b5\u03bb\u03af\u03b1"
+      ],
+      "original": "\u03b5\u1f50\u03c4\u03c1\u03b1\u03c0\u03b5\u03bb\u03af\u03b1",
+      "lemma": "\u03b5\u1f50\u03c4\u03c1\u03b1\u03c0\u03b5\u03bb\u03af\u03b1",
+      "parsing": "N----NSF-"
+    },
+    "4.1": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "4.3": {
+      "text": [
+        "\u03ba\u03b1\u1f76"
+      ],
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af",
+      "parsing": "C--------"
+    },
+    "4.2": {
+      "text": [
+        "\u03b1\u1f30\u03c3\u03c7\u03c1\u03cc\u03c4\u03b7\u03c2"
+      ],
+      "original": "\u03b1\u1f30\u03c3\u03c7\u03c1\u03cc\u03c4\u03b7\u03c2",
+      "lemma": "\u03b1\u1f30\u03c3\u03c7\u03c1\u03cc\u03c4\u03b7\u03c2",
+      "parsing": "N----NSF-"
+    },
+    "30.6": {
+      "text": [
+        "\u03b1\u1f50\u03c4\u03bf\u1fe6"
+      ],
+      "original": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+      "lemma": "\u03b1\u1f50\u03c4\u03cc\u03c2",
+      "parsing": "p----GSM-"
+    },
+    "4.9": {
+      "text": [
+        "\u03bf\u1f50\u03ba"
+      ],
+      "original": "\u03bf\u1f50\u03ba",
+      "lemma": "\u03bf\u1f50",
+      "parsing": "D--------"
+    },
+    "4.8": {
+      "text": [
+        "\u1f03"
+      ],
+      "original": "\u1f03",
+      "lemma": "\u1f45\u03c2",
+      "parsing": "r----NPN-"
+    },
+    "6.12": {
+      "text": [
+        "\u1f40\u03c1\u03b3\u1f74"
+      ],
+      "original": "\u1f40\u03c1\u03b3\u1f74",
+      "lemma": "\u1f40\u03c1\u03b3\u03ae",
+      "parsing": "N----NSF-"
+    },
+    "6.20": {
+      "text": [
+        "."
+      ],
+      "original": ".",
+      "lemma": ".",
+      "parsing": "S"
+    },
+    "29.9": {
+      "text": [
+        "\u1f00\u03bb\u03bb\u1f70"
+      ],
+      "original": "\u1f00\u03bb\u03bb\u1f70",
+      "lemma": "\u1f00\u03bb\u03bb\u03ac",
+      "parsing": "C--------"
+    },
+    "29.8": {
+      "text": [
+        ","
+      ],
+      "original": ",",
+      "lemma": ",",
+      "parsing": "S"
+    },
+    "11.2": {
+      "text": [
+        "\u03bc\u1f74"
+      ],
+      "original": "\u03bc\u1f74",
+      "lemma": "\u03bc\u03ae",
+      "parsing": "D--------"
+    },
+    "29.5": {
+      "text": [
+        "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fe6"
+      ],
+      "original": "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fe6",
+      "lemma": "\u1f11\u03b1\u03c5\u03c4\u03bf\u1fe6",
+      "parsing": "p----GSM-"
+    },
+    "29.4": {
+      "text": [
+        "\u03c4\u1f74\u03bd"
+      ],
+      "original": "\u03c4\u1f74\u03bd",
+      "lemma": "\u1f41",
+      "parsing": "T----ASF-"
+    },
+    "29.7": {
+      "text": [
+        "\u1f10\u03bc\u03af\u03c3\u03b7\u03c3\u03b5\u03bd"
+      ],
+      "original": "\u1f10\u03bc\u03af\u03c3\u03b7\u03c3\u03b5\u03bd",
+      "lemma": "\u03bc\u03b9\u03c3\u03ad\u03c9",
+      "parsing": "V3AAI-S--"
+    },
+    "29.6": {
+      "text": [
+        "\u03c3\u03ac\u03c1\u03ba\u03b1"
+      ],
+      "original": "\u03c3\u03ac\u03c1\u03ba\u03b1",
+      "lemma": "\u03c3\u03ac\u03c1\u03be",
+      "parsing": "N----ASF-"
+    },
+    "29.1": {
+      "text": [
+        "\u03bf\u1f50\u03b4\u03b5\u1f76\u03c2"
+      ],
+      "original": "\u03bf\u1f50\u03b4\u03b5\u1f76\u03c2",
+      "lemma": "\u03bf\u1f50\u03b4\u03b5\u03af\u03c2",
+      "parsing": "A----NSM-"
+    },
+    "29.3": {
+      "text": [
+        "\u03c0\u03bf\u03c4\u03b5"
+      ],
+      "original": "\u03c0\u03bf\u03c4\u03b5",
+      "lemma": "\u03c0\u03bf\u03c4\u03ad",
+      "parsing": "X--------"
+    },
+    "29.2": {
+      "text": [
+        "\u03b3\u03ac\u03c1"
+      ],
+      "original": "\u03b3\u03ac\u03c1",
+      "lemma": "\u03b3\u03ac\u03c1",
+      "parsing": "C--------"
+    },
+    "11.3": {
+      "text": [
+        "\u03c3\u03c5\u03b3\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b5\u1fd6\u03c4\u03b5"
+      ],
+      "original": "\u03c3\u03c5\u03b3\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b5\u1fd6\u03c4\u03b5",
+      "lemma": "\u03c3\u03c5\u03b3\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03ad\u03c9",
+      "parsing": "V2PAD-P--"
+    },
+    "12.11": {
+      "text": [
+        "\u00b7"
+      ],
+      "original": "\u00b7",
+      "lemma": "\u00b7",
+      "parsing": "S"
+    },
+    "12.10": {
+      "text": [
+        "\u03bb\u03ad\u03b3\u03b5\u03b9\u03bd"
+      ],
+      "original": "\u03bb\u03ad\u03b3\u03b5\u03b9\u03bd",
+      "lemma": "\u03bb\u03ad\u03b3\u03c9",
+      "parsing": "V-PAN----"
+    }
+  }
+}

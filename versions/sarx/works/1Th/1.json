@@ -1,0 +1,2192 @@
+{
+  "order": [
+    "1.1:0",
+    "1.2:0",
+    "1.3:0",
+    "1.4:0",
+    "1.5:0",
+    "1.7:0",
+    "1.6:0",
+    "1.7:1",
+    "1.8:0",
+    "1.8:1",
+    "1.9:0",
+    "1.10:0",
+    "1.11:0",
+    "1.12:0",
+    "1.13:0",
+    "1.14:0",
+    "1.15:0",
+    "1.16:0",
+    "1.17:0",
+    "1.18:0",
+    "1.19:0",
+    "1.20:0",
+    "1.21:0",
+    "2.1:0",
+    "2.1:1",
+    "2.1:2",
+    "2.2:0",
+    "2.3:0",
+    "2.4:0",
+    "2.5:0",
+    "2.6:0",
+    "2.7:0",
+    "2.7:1",
+    "2.9:0",
+    "2.8:0",
+    "2.10:0",
+    "2.13:0",
+    "2.11:0",
+    "2.12:0",
+    "2.14:0",
+    "2.15:0",
+    "2.15:1",
+    "2.15:2",
+    "3.1:0",
+    "3.4:0",
+    "3.2:0",
+    "3.3:0",
+    "3.4:1",
+    "3.6:0",
+    "3.5:0",
+    "3.6:1",
+    "3.7:0",
+    "3.8:0",
+    "3.9:0",
+    "3.11:0",
+    "3.10:0",
+    "3.11:1",
+    "3.12:0",
+    "3.14:0",
+    "3.13:0",
+    "3.14:1",
+    "3.14:2",
+    "3.16:0",
+    "3.15:0",
+    "3.16:1",
+    "3.18:0",
+    "3.19:0",
+    "3.17:0",
+    "3.18:1",
+    "3.20:0",
+    "3.21:0",
+    "3.22:0",
+    "3.23:0",
+    "3.24:0",
+    "3.27:0",
+    "3.24:1",
+    "3.25:0",
+    "3.26:0",
+    "3.28:0",
+    "4.1:0",
+    "4.1:1",
+    "4.1:2",
+    "4.2:0",
+    "4.3:0",
+    "4.4:0",
+    "4.4:1",
+    "4.4:2",
+    "4.4:3",
+    "4.5:0",
+    "4.6:0",
+    "4.7:0",
+    "4.10:0",
+    "4.8:0",
+    "4.9:0",
+    "4.11:0",
+    "5.1:0",
+    "5.4:0",
+    "5.2:0",
+    "5.3:0",
+    "5.3:1",
+    "5.6:0",
+    "5.5:0",
+    "5.6:1",
+    "5.6:2",
+    "5.6:3",
+    "5.7:0",
+    "5.8:0",
+    "5.9:0",
+    "5.10:0",
+    "5.11:0",
+    "5.12:0",
+    "5.13:0",
+    "5.14:0",
+    "5.15:0",
+    "5.16:0",
+    "5.17:0",
+    "5.19:0",
+    "5.18:0",
+    "5.20:0",
+    "5.22:0",
+    "5.21:0",
+    "5.21:1",
+    "5.23:0",
+    "5.24:0",
+    "5.25:0",
+    "5.25:1",
+    "5.25:2",
+    "5.25:3",
+    "5.27:0",
+    "5.26:0",
+    "5.27:1",
+    "5.27:2",
+    "5.27:3",
+    "5.27:4",
+    "5.28:0",
+    "5.29:0",
+    "5.30:0",
+    "5.31:0",
+    "5.32:0",
+    "6.1:0",
+    "6.2:0",
+    "6.2:1",
+    "6.4:0",
+    "6.3:0",
+    "6.5:0",
+    "6.6:0",
+    "6.5:1",
+    "6.5:2",
+    "6.5:3",
+    "6.7:0",
+    "6.8:0",
+    "6.9:0",
+    "6.10:0",
+    "6.10:1",
+    "6.11:0",
+    "6.12:0",
+    "6.13:0",
+    "6.15:0",
+    "6.14:0",
+    "6.16:0",
+    "6.17:0",
+    "6.18:0",
+    "6.19:0",
+    "6.18:1",
+    "6.20:0",
+    "7.1:0",
+    "7.3:0",
+    "7.2:0",
+    "7.4:0",
+    "7.4:1",
+    "7.5:0",
+    "7.6:0",
+    "7.6:1",
+    "7.7:0",
+    "7.7:1",
+    "7.7:2",
+    "7.8:0",
+    "7.9:0",
+    "7.10:0",
+    "7.11:0",
+    "7.12:0",
+    "7.13:0",
+    "7.14:0",
+    "7.15:0",
+    "8.3:0",
+    "8.5:0",
+    "8.6:0",
+    "8.8:0",
+    "8.7:0",
+    "8.8:1",
+    "8.4:0",
+    "8.4:1",
+    "8.4:2",
+    "8.1:0",
+    "8.2:0",
+    "8.9:0",
+    "8.10:0",
+    "8.11:0",
+    "8.12:0",
+    "8.13:0",
+    "8.14:0",
+    "8.15:0",
+    "8.16:0",
+    "8.17:0",
+    "8.18:0",
+    "8.19:0",
+    "8.20:0",
+    "8.23:0",
+    "8.21:0",
+    "8.22:0",
+    "8.24:0",
+    "8.25:0",
+    "8.26:0",
+    "8.27:0",
+    "8.28:0",
+    "8.29:0",
+    "8.30:0",
+    "8.34:0",
+    "8.31:0",
+    "8.33:0",
+    "8.32:0",
+    "8.35:0",
+    "8.35:1",
+    "8.36:0",
+    "8.37:0",
+    "9.2:0",
+    "9.1:0",
+    "9.5:0",
+    "9.3:0",
+    "9.4:0",
+    "9.6:0",
+    "9.6:1",
+    "9.6:2",
+    "9.7:0",
+    "9.8:0",
+    "9.9:0",
+    "9.10:0",
+    "9.11:0",
+    "9.12:0",
+    "9.13:0",
+    "9.14:0",
+    "9.15:0",
+    "9.16:0",
+    "9.17:0",
+    "9.18:0",
+    "9.19:0",
+    "9.20:0",
+    "9.21:0",
+    "9.21:1",
+    "9.22:0",
+    "9.22:1",
+    "9.23:0",
+    "9.23:1",
+    "9.24:0",
+    "9.25:0",
+    "9.22:2",
+    "9.26:0",
+    "10.1:0",
+    "10.2:0",
+    "10.2:1",
+    "10.2:2",
+    "10.5:0",
+    "10.3:0",
+    "10.4:0",
+    "10.6:0",
+    "10.7:0",
+    "10.8:0",
+    "10.9:0",
+    "10.10:0",
+    "10.11:0",
+    "10.11:1",
+    "10.12:0",
+    "10.12:1",
+    "10.13:0",
+    "10.14:0",
+    "10.15:0",
+    "10.16:0",
+    "10.17:0",
+    "10.17:1",
+    "10.18:0",
+    "10.18:1",
+    "10.19:0",
+    "10.20:0",
+    "10.21:0",
+    "10.23:0",
+    "10.24:0",
+    "10.22:0",
+    "10.25:0"
+  ],
+  "entries": {
+    "7.14": {
+      "text": [
+        "Achaia"
+      ],
+      "parsing": "N----DSF-",
+      "original": "\u1f08\u03c7\u03b1\u0390\u1fb3",
+      "lemma": "\u1f08\u03c7\u03b1\u0390\u03b1"
+    },
+    "7.15": {
+      "text": [
+        "."
+      ],
+      "parsing": "S",
+      "original": ".",
+      "lemma": "."
+    },
+    "10.22": {
+      "text": [
+        "anger"
+      ],
+      "parsing": "N----GSF-",
+      "original": "\u1f40\u03c1\u03b3\u1fc6\u03c2",
+      "lemma": "\u1f40\u03c1\u03b3\u03ae"
+    },
+    "10.23": {
+      "text": [
+        "~"
+      ],
+      "parsing": "T----GSF-",
+      "original": "\u03c4\u1fc6\u03c2",
+      "lemma": "\u1f41"
+    },
+    "7.10": {
+      "text": [
+        "Makedonia"
+      ],
+      "parsing": "N----DSF-",
+      "original": "\u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u1fb3",
+      "lemma": "\u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1"
+    },
+    "7.11": {
+      "text": [
+        "and"
+      ],
+      "parsing": "C--------",
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af"
+    },
+    "7.12": {
+      "text": [
+        "in"
+      ],
+      "parsing": "P--------",
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd"
+    },
+    "7.13": {
+      "text": [
+        "~"
+      ],
+      "parsing": "T----DSF-",
+      "original": "\u03c4\u1fc7",
+      "lemma": "\u1f41"
+    },
+    "8.23": {
+      "text": [
+        "your"
+      ],
+      "parsing": "p----GP--",
+      "original": "\u1f51\u03bc\u1ff6\u03bd",
+      "lemma": "\u03c3\u03cd"
+    },
+    "6.7": {
+      "text": [
+        "of the"
+      ],
+      "parsing": "T----GSM-",
+      "original": "\u03c4\u03bf\u1fe6",
+      "lemma": "\u1f41"
+    },
+    "6.6": {
+      "text": [
+        "also"
+      ],
+      "parsing": "C--------",
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af"
+    },
+    "6.5": {
+      "text": [
+        "were",
+        "made",
+        "to",
+        "be"
+      ],
+      "parsing": "V2API-P--",
+      "original": "\u1f10\u03b3\u03b5\u03bd\u03ae\u03b8\u03b7\u03c4\u03b5",
+      "lemma": "\u03b3\u03af\u03bd\u03bf\u03bc\u03b1\u03b9"
+    },
+    "6.4": {
+      "text": [
+        "our"
+      ],
+      "parsing": "p----GP--",
+      "original": "\u1f21\u03bc\u1ff6\u03bd",
+      "lemma": "\u1f10\u03b3\u03ce"
+    },
+    "6.3": {
+      "text": [
+        "imitators"
+      ],
+      "parsing": "N----NPM-",
+      "original": "\u03bc\u03b9\u03bc\u03b7\u03c4\u03b1\u1f76",
+      "lemma": "\u03bc\u03b9\u03bc\u03b7\u03c4\u03ae\u03c2"
+    },
+    "6.2": {
+      "text": [
+        "you",
+        "all"
+      ],
+      "parsing": "p----NP--",
+      "original": "\u1f51\u03bc\u03b5\u1fd6\u03c2",
+      "lemma": "\u03c3\u03cd"
+    },
+    "6.1": {
+      "text": [
+        "and"
+      ],
+      "parsing": "C--------",
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af"
+    },
+    "7.5": {
+      "text": [
+        "to all"
+      ],
+      "parsing": "A----DPM-",
+      "original": "\u03c0\u1fb6\u03c3\u03b9\u03bd",
+      "lemma": "\u03c0\u1fb6\u03c2"
+    },
+    "8.15": {
+      "text": [
+        "Achaia"
+      ],
+      "parsing": "N----DSF-",
+      "original": "\u1f08\u03c7\u03b1\u0390\u1fb3",
+      "lemma": "\u1f08\u03c7\u03b1\u0390\u03b1"
+    },
+    "10.24": {
+      "text": [
+        "coming"
+      ],
+      "parsing": "V-PMPGSF-",
+      "original": "\u1f10\u03c1\u03c7\u03bf\u03bc\u03ad\u03bd\u03b7\u03c2",
+      "lemma": "\u1f14\u03c1\u03c7\u03bf\u03bc\u03b1\u03b9"
+    },
+    "7.8": {
+      "text": [
+        "in"
+      ],
+      "parsing": "P--------",
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd"
+    },
+    "7.9": {
+      "text": [
+        "~"
+      ],
+      "parsing": "T----DSF-",
+      "original": "\u03c4\u1fc7",
+      "lemma": "\u1f41"
+    },
+    "8.11": {
+      "text": [
+        "in"
+      ],
+      "parsing": "P--------",
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd"
+    },
+    "8.10": {
+      "text": [
+        "only"
+      ],
+      "parsing": "A----ASN-",
+      "original": "\u03bc\u03cc\u03bd\u03bf\u03bd",
+      "lemma": "\u03bc\u03cc\u03bd\u03bf\u03c2"
+    },
+    "6.9": {
+      "text": [
+        ","
+      ],
+      "parsing": "S",
+      "original": ",",
+      "lemma": ","
+    },
+    "10.25": {
+      "text": [
+        "."
+      ],
+      "parsing": "S",
+      "original": ".",
+      "lemma": "."
+    },
+    "1.16": {
+      "text": [
+        ";"
+      ],
+      "parsing": "S",
+      "original": "\u00b7",
+      "lemma": "\u00b7"
+    },
+    "1.17": {
+      "text": [
+        "favor"
+      ],
+      "parsing": "N----NSF-",
+      "original": "\u03c7\u03ac\u03c1\u03b9\u03c2",
+      "lemma": "\u03c7\u03ac\u03c1\u03b9\u03c2"
+    },
+    "1.14": {
+      "text": [
+        "Jesus"
+      ],
+      "parsing": "N----DSM-",
+      "original": "\u1f38\u03b7\u03c3\u03bf\u1fe6",
+      "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2"
+    },
+    "1.15": {
+      "text": [
+        "Anointed"
+      ],
+      "parsing": "N----DSM-",
+      "original": "\u03a7\u03c1\u03b9\u03c3\u03c4\u1ff7",
+      "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03cc\u03c2"
+    },
+    "10.5": {
+      "text": [
+        "his"
+      ],
+      "parsing": "p----GSM-",
+      "original": "\u03b1\u1f50\u03c4\u03bf\u1fe6",
+      "lemma": "\u03b1\u1f50\u03c4\u03cc\u03c2"
+    },
+    "1.13": {
+      "text": [
+        "lord"
+      ],
+      "parsing": "N----DSM-",
+      "original": "\u03ba\u03c5\u03c1\u03af\u1ff3",
+      "lemma": "\u03ba\u03cd\u03c1\u03b9\u03bf\u03c2"
+    },
+    "10.7": {
+      "text": [
+        "the"
+      ],
+      "parsing": "T----GPM-",
+      "original": "\u03c4\u1ff6\u03bd",
+      "lemma": "\u1f41"
+    },
+    "10.6": {
+      "text": [
+        "out of"
+      ],
+      "parsing": "P--------",
+      "original": "\u1f10\u03ba",
+      "lemma": "\u1f10\u03ba"
+    },
+    "10.9": {
+      "text": [
+        ","
+      ],
+      "parsing": "S",
+      "original": ",",
+      "lemma": ","
+    },
+    "10.8": {
+      "text": [
+        "heavens"
+      ],
+      "parsing": "N----GPM-",
+      "original": "\u03bf\u1f50\u03c1\u03b1\u03bd\u1ff6\u03bd",
+      "lemma": "\u03bf\u1f50\u03c1\u03b1\u03bd\u03cc\u03c2"
+    },
+    "1.18": {
+      "text": [
+        "to you"
+      ],
+      "parsing": "p----DP--",
+      "original": "\u1f51\u03bc\u1fd6\u03bd",
+      "lemma": "\u03c3\u03cd"
+    },
+    "1.19": {
+      "text": [
+        "and"
+      ],
+      "parsing": "C--------",
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af"
+    },
+    "5.14": {
+      "text": [
+        "in"
+      ],
+      "parsing": "P--------",
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd"
+    },
+    "2.15": {
+      "text": [
+        "without",
+        "lacking",
+        "between"
+      ],
+      "parsing": "D--------",
+      "original": "\u1f00\u03b4\u03b9\u03b1\u03bb\u03b5\u03af\u03c0\u03c4\u03c9\u03c2",
+      "lemma": "\u1f00\u03b4\u03b9\u03b1\u03bb\u03b5\u03af\u03c0\u03c4\u03c9\u03c2"
+    },
+    "2.14": {
+      "text": [
+        ","
+      ],
+      "parsing": "S",
+      "original": ",",
+      "lemma": ","
+    },
+    "2.13": {
+      "text": [
+        "our"
+      ],
+      "parsing": "p----GP--",
+      "original": "\u1f21\u03bc\u1ff6\u03bd",
+      "lemma": "\u1f10\u03b3\u03ce"
+    },
+    "2.12": {
+      "text": [
+        "petitions"
+      ],
+      "parsing": "N----GPF-",
+      "original": "\u03c0\u03c1\u03bf\u03c3\u03b5\u03c5\u03c7\u1ff6\u03bd",
+      "lemma": "\u03c0\u03c1\u03bf\u03c3\u03b5\u03c5\u03c7\u03ae"
+    },
+    "2.11": {
+      "text": [
+        "~"
+      ],
+      "parsing": "T----GPF-",
+      "original": "\u03c4\u1ff6\u03bd",
+      "lemma": "\u1f41"
+    },
+    "2.10": {
+      "text": [
+        "upon"
+      ],
+      "parsing": "P--------",
+      "original": "\u1f10\u03c0\u1f76",
+      "lemma": "\u1f10\u03c0\u03af"
+    },
+    "7.2": {
+      "text": [
+        "to become"
+      ],
+      "parsing": "V-AMN----",
+      "original": "\u03b3\u03b5\u03bd\u03ad\u03c3\u03b8\u03b1\u03b9",
+      "lemma": "\u03b3\u03af\u03bd\u03bf\u03bc\u03b1\u03b9"
+    },
+    "7.3": {
+      "text": [
+        "you all"
+      ],
+      "parsing": "p----AP--",
+      "original": "\u1f51\u03bc\u1fb6\u03c2",
+      "lemma": "\u03c3\u03cd"
+    },
+    "7.1": {
+      "text": [
+        "such that"
+      ],
+      "parsing": "C--------",
+      "original": "\u1f65\u03c3\u03c4\u03b5",
+      "lemma": "\u1f65\u03c3\u03c4\u03b5"
+    },
+    "7.6": {
+      "text": [
+        "the",
+        "ones"
+      ],
+      "parsing": "T----DPM-",
+      "original": "\u03c4\u03bf\u1fd6\u03c2",
+      "lemma": "\u1f41"
+    },
+    "10.21": {
+      "text": [
+        "the"
+      ],
+      "parsing": "T----GSF-",
+      "original": "\u03c4\u1fc6\u03c2",
+      "lemma": "\u1f41"
+    },
+    "7.7": {
+      "text": [
+        "to",
+        "who",
+        "trust"
+      ],
+      "parsing": "V-PAPDPM-",
+      "original": "\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03bf\u03c5\u03c3\u03b9\u03bd",
+      "lemma": "\u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03c9"
+    },
+    "3.18": {
+      "text": [
+        "of",
+        "lord"
+      ],
+      "parsing": "N----GSM-",
+      "original": "\u03ba\u03c5\u03c1\u03af\u03bf\u03c5",
+      "lemma": "\u03ba\u03cd\u03c1\u03b9\u03bf\u03c2"
+    },
+    "4.10": {
+      "text": [
+        "your"
+      ],
+      "parsing": "p----GP--",
+      "original": "\u1f51\u03bc\u1ff6\u03bd",
+      "lemma": "\u03c3\u03cd"
+    },
+    "7.4": {
+      "text": [
+        "a",
+        "mark"
+      ],
+      "parsing": "N----ASM-",
+      "original": "\u03c4\u03cd\u03c0\u03bf\u03bd",
+      "lemma": "\u03c4\u03cd\u03c0\u03bf\u03c2"
+    },
+    "3.10": {
+      "text": [
+        "the"
+      ],
+      "parsing": "T----GSF-",
+      "original": "\u03c4\u1fc6\u03c2",
+      "lemma": "\u1f41"
+    },
+    "3.11": {
+      "text": [
+        "of",
+        "love"
+      ],
+      "parsing": "N----GSF-",
+      "original": "\u1f00\u03b3\u03ac\u03c0\u03b7\u03c2",
+      "lemma": "\u1f00\u03b3\u03ac\u03c0\u03b7"
+    },
+    "3.12": {
+      "text": [
+        "and"
+      ],
+      "parsing": "C--------",
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af"
+    },
+    "3.13": {
+      "text": [
+        "the"
+      ],
+      "parsing": "T----GSF-",
+      "original": "\u03c4\u1fc6\u03c2",
+      "lemma": "\u1f41"
+    },
+    "3.14": {
+      "text": [
+        "of",
+        "staying",
+        "under"
+      ],
+      "parsing": "N----GSF-",
+      "original": "\u1f51\u03c0\u03bf\u03bc\u03bf\u03bd\u1fc6\u03c2",
+      "lemma": "\u1f51\u03c0\u03bf\u03bc\u03bf\u03bd\u03ae"
+    },
+    "3.15": {
+      "text": [
+        "the"
+      ],
+      "parsing": "T----GSF-",
+      "original": "\u03c4\u1fc6\u03c2",
+      "lemma": "\u1f41"
+    },
+    "3.16": {
+      "text": [
+        "of",
+        "hope"
+      ],
+      "parsing": "N----GSF-",
+      "original": "\u1f10\u03bb\u03c0\u03af\u03b4\u03bf\u03c2",
+      "lemma": "\u1f10\u03bb\u03c0\u03af\u03c2"
+    },
+    "3.17": {
+      "text": [
+        "~"
+      ],
+      "parsing": "T----GSM-",
+      "original": "\u03c4\u03bf\u1fe6",
+      "lemma": "\u1f41"
+    },
+    "3.6": {
+      "text": [
+        "of",
+        "trust"
+      ],
+      "parsing": "N----GSF-",
+      "original": "\u03c0\u03af\u03c3\u03c4\u03b5\u03c9\u03c2",
+      "lemma": "\u03c0\u03af\u03c3\u03c4\u03b9\u03c2"
+    },
+    "3.7": {
+      "text": [
+        "and"
+      ],
+      "parsing": "C--------",
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af"
+    },
+    "2.9": {
+      "text": [
+        "making"
+      ],
+      "parsing": "V-PMPNPM-",
+      "original": "\u03c0\u03bf\u03b9\u03bf\u03cd\u03bc\u03b5\u03bd\u03bf\u03b9",
+      "lemma": "\u03c0\u03bf\u03b9\u03ad\u03c9"
+    },
+    "3.5": {
+      "text": [
+        "the"
+      ],
+      "parsing": "T----GSF-",
+      "original": "\u03c4\u1fc6\u03c2",
+      "lemma": "\u1f41"
+    },
+    "3.2": {
+      "text": [
+        "your"
+      ],
+      "parsing": "p----GP--",
+      "original": "\u1f51\u03bc\u1ff6\u03bd",
+      "lemma": "\u03c3\u03cd"
+    },
+    "3.3": {
+      "text": [
+        "~"
+      ],
+      "parsing": "T----GSN-",
+      "original": "\u03c4\u03bf\u1fe6",
+      "lemma": "\u1f41"
+    },
+    "8.14": {
+      "text": [
+        "and"
+      ],
+      "parsing": "C--------",
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af"
+    },
+    "2.3": {
+      "text": [
+        "to God"
+      ],
+      "parsing": "N----DSM-",
+      "original": "\u03b8\u03b5\u1ff7",
+      "lemma": "\u03b8\u03b5\u03cc\u03c2"
+    },
+    "2.2": {
+      "text": [
+        "~"
+      ],
+      "parsing": "T----DSM-",
+      "original": "\u03c4\u1ff7",
+      "lemma": "\u1f41"
+    },
+    "2.1": {
+      "text": [
+        "we",
+        "are",
+        "obliged"
+      ],
+      "parsing": "V1PAI-P--",
+      "original": "\u0395\u1f50\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03bf\u1fe6\u03bc\u03b5\u03bd",
+      "lemma": "\u03b5\u1f50\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03ad\u03c9"
+    },
+    "2.7": {
+      "text": [
+        "of",
+        "you"
+      ],
+      "parsing": "p----GP--",
+      "original": "\u1f51\u03bc\u1ff6\u03bd",
+      "lemma": "\u03c3\u03cd"
+    },
+    "8.17": {
+      "text": [
+        "rather"
+      ],
+      "parsing": "C--------",
+      "original": "\u1f00\u03bb\u03bb\u2019",
+      "lemma": "\u1f00\u03bb\u03bb\u03ac"
+    },
+    "2.5": {
+      "text": [
+        "concerning"
+      ],
+      "parsing": "P--------",
+      "original": "\u03c0\u03b5\u03c1\u1f76",
+      "lemma": "\u03c0\u03b5\u03c1\u03af"
+    },
+    "2.4": {
+      "text": [
+        "always"
+      ],
+      "parsing": "D--------",
+      "original": "\u03c0\u03ac\u03bd\u03c4\u03bf\u03c4\u03b5",
+      "lemma": "\u03c0\u03ac\u03bd\u03c4\u03bf\u03c4\u03b5"
+    },
+    "8.16": {
+      "text": [
+        ","
+      ],
+      "parsing": "S",
+      "original": ",",
+      "lemma": ","
+    },
+    "3.19": {
+      "text": [
+        "our"
+      ],
+      "parsing": "p----GP--",
+      "original": "\u1f21\u03bc\u1ff6\u03bd",
+      "lemma": "\u1f10\u03b3\u03ce"
+    },
+    "8.13": {
+      "text": [
+        "Makedonia"
+      ],
+      "parsing": "N----DSF-",
+      "original": "\u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u1fb3",
+      "lemma": "\u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1"
+    },
+    "6.8": {
+      "text": [
+        "lord"
+      ],
+      "parsing": "N----GSM-",
+      "original": "\u03ba\u03c5\u03c1\u03af\u03bf\u03c5",
+      "lemma": "\u03ba\u03cd\u03c1\u03b9\u03bf\u03c2"
+    },
+    "9.23": {
+      "text": [
+        "living",
+        ""
+      ],
+      "parsing": "V-PAPDSM-",
+      "original": "\u03b6\u1ff6\u03bd\u03c4\u03b9",
+      "lemma": "\u03b6\u03ac\u03c9"
+    },
+    "9.22": {
+      "text": [
+        "to",
+        "a",
+        "God"
+      ],
+      "parsing": "N----DSM-",
+      "original": "\u03b8\u03b5\u1ff7",
+      "lemma": "\u03b8\u03b5\u03cc\u03c2"
+    },
+    "9.21": {
+      "text": [
+        "to",
+        "slave"
+      ],
+      "parsing": "V-PAN----",
+      "original": "\u03b4\u03bf\u03c5\u03bb\u03b5\u03cd\u03b5\u03b9\u03bd",
+      "lemma": "\u03b4\u03bf\u03c5\u03bb\u03b5\u03cd\u03c9"
+    },
+    "9.20": {
+      "text": [
+        "idols"
+      ],
+      "parsing": "N----GPN-",
+      "original": "\u03b5\u1f30\u03b4\u03ce\u03bb\u03c9\u03bd",
+      "lemma": "\u03b5\u1f34\u03b4\u03c9\u03bb\u03bf\u03bd"
+    },
+    "9.26": {
+      "text": [
+        ","
+      ],
+      "parsing": "S",
+      "original": ",",
+      "lemma": ","
+    },
+    "9.25": {
+      "text": [
+        "true"
+      ],
+      "parsing": "A----DSM-",
+      "original": "\u1f00\u03bb\u03b7\u03b8\u03b9\u03bd\u1ff7",
+      "lemma": "\u1f00\u03bb\u03b7\u03b8\u03b9\u03bd\u03cc\u03c2"
+    },
+    "9.24": {
+      "text": [
+        "and"
+      ],
+      "parsing": "C--------",
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af"
+    },
+    "10.3": {
+      "text": [
+        "~"
+      ],
+      "parsing": "T----ASM-",
+      "original": "\u03c4\u1f78\u03bd",
+      "lemma": "\u1f41"
+    },
+    "10.2": {
+      "text": [
+        "to",
+        "stay",
+        "up"
+      ],
+      "parsing": "V-PAN----",
+      "original": "\u1f00\u03bd\u03b1\u03bc\u03ad\u03bd\u03b5\u03b9\u03bd",
+      "lemma": "\u1f00\u03bd\u03b1\u03bc\u03ad\u03bd\u03c9"
+    },
+    "5.30": {
+      "text": [
+        "through"
+      ],
+      "parsing": "P--------",
+      "original": "\u03b4\u03b9\u2019",
+      "lemma": "\u03b4\u03b9\u03ac"
+    },
+    "5.31": {
+      "text": [
+        "you all"
+      ],
+      "parsing": "p----AP--",
+      "original": "\u1f51\u03bc\u1fb6\u03c2",
+      "lemma": "\u03c3\u03cd"
+    },
+    "5.32": {
+      "text": [
+        ";"
+      ],
+      "parsing": "S",
+      "original": "\u00b7",
+      "lemma": "\u00b7"
+    },
+    "8.12": {
+      "text": [
+        "~"
+      ],
+      "parsing": "T----DSF-",
+      "original": "\u03c4\u1fc7",
+      "lemma": "\u1f41"
+    },
+    "1.12": {
+      "text": [
+        "and"
+      ],
+      "parsing": "C--------",
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af"
+    },
+    "10.18": {
+      "text": [
+        "who",
+        "protects"
+      ],
+      "parsing": "V-PMPASM-",
+      "original": "\u1fe5\u03c5\u03cc\u03bc\u03b5\u03bd\u03bf\u03bd",
+      "lemma": "\u1fe5\u03cd\u03bf\u03bc\u03b1\u03b9"
+    },
+    "10.4": {
+      "text": [
+        "son"
+      ],
+      "parsing": "N----ASM-",
+      "original": "\u03c5\u1f31\u1f78\u03bd",
+      "lemma": "\u03c5\u1f31\u03cc\u03c2"
+    },
+    "1.10": {
+      "text": [
+        "God"
+      ],
+      "parsing": "N----DSM-",
+      "original": "\u03b8\u03b5\u1ff7",
+      "lemma": "\u03b8\u03b5\u03cc\u03c2"
+    },
+    "8.18": {
+      "text": [
+        "in"
+      ],
+      "parsing": "P--------",
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd"
+    },
+    "1.11": {
+      "text": [
+        "father"
+      ],
+      "parsing": "N----DSM-",
+      "original": "\u03c0\u03b1\u03c4\u03c1\u1f76",
+      "lemma": "\u03c0\u03b1\u03c4\u03ae\u03c1"
+    },
+    "10.20": {
+      "text": [
+        "out of"
+      ],
+      "parsing": "P--------",
+      "original": "\u1f10\u03ba",
+      "lemma": "\u1f10\u03ba"
+    },
+    "3.24": {
+      "text": [
+        "of",
+        "God"
+      ],
+      "parsing": "N----GSM-",
+      "original": "\u03b8\u03b5\u03bf\u1fe6",
+      "lemma": "\u03b8\u03b5\u03cc\u03c2"
+    },
+    "4.11": {
+      "text": [
+        ","
+      ],
+      "parsing": "S",
+      "original": ",",
+      "lemma": ","
+    },
+    "9.18": {
+      "text": [
+        "from"
+      ],
+      "parsing": "P--------",
+      "original": "\u1f00\u03c0\u1f78",
+      "lemma": "\u1f00\u03c0\u03cc"
+    },
+    "9.19": {
+      "text": [
+        "the"
+      ],
+      "parsing": "T----GPN-",
+      "original": "\u03c4\u1ff6\u03bd",
+      "lemma": "\u1f41"
+    },
+    "9.16": {
+      "text": [
+        "~"
+      ],
+      "parsing": "T----ASM-",
+      "original": "\u03c4\u1f78\u03bd",
+      "lemma": "\u1f41"
+    },
+    "9.17": {
+      "text": [
+        "God"
+      ],
+      "parsing": "N----ASM-",
+      "original": "\u03b8\u03b5\u1f78\u03bd",
+      "lemma": "\u03b8\u03b5\u03cc\u03c2"
+    },
+    "9.14": {
+      "text": [
+        "you all returned"
+      ],
+      "parsing": "V2AAI-P--",
+      "original": "\u1f10\u03c0\u03b5\u03c3\u03c4\u03c1\u03ad\u03c8\u03b1\u03c4\u03b5",
+      "lemma": "\u1f10\u03c0\u03b9\u03c3\u03c4\u03c1\u03ad\u03c6\u03c9"
+    },
+    "9.15": {
+      "text": [
+        "to"
+      ],
+      "parsing": "P--------",
+      "original": "\u03c0\u03c1\u1f78\u03c2",
+      "lemma": "\u03c0\u03c1\u03cc\u03c2"
+    },
+    "9.12": {
+      "text": [
+        "and"
+      ],
+      "parsing": "C--------",
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af"
+    },
+    "9.13": {
+      "text": [
+        "how"
+      ],
+      "parsing": "C--------",
+      "original": "\u03c0\u1ff6\u03c2",
+      "lemma": "\u03c0\u1ff6\u03c2"
+    },
+    "9.10": {
+      "text": [
+        "you all"
+      ],
+      "parsing": "p----AP--",
+      "original": "\u1f51\u03bc\u1fb6\u03c2",
+      "lemma": "\u03c3\u03cd"
+    },
+    "9.11": {
+      "text": [
+        ","
+      ],
+      "parsing": "S",
+      "original": ",",
+      "lemma": ","
+    },
+    "5.27": {
+      "text": [
+        "we",
+        "were",
+        "made",
+        "to",
+        "be"
+      ],
+      "parsing": "V1API-P--",
+      "original": "\u1f10\u03b3\u03b5\u03bd\u03ae\u03b8\u03b7\u03bc\u03b5\u03bd",
+      "lemma": "\u03b3\u03af\u03bd\u03bf\u03bc\u03b1\u03b9"
+    },
+    "5.26": {
+      "text": [
+        "who"
+      ],
+      "parsing": "r----NPM-",
+      "original": "\u03bf\u1f37\u03bf\u03b9",
+      "lemma": "\u03bf\u1f37\u03bf\u03c2"
+    },
+    "5.25": {
+      "text": [
+        "you",
+        "all",
+        "have",
+        "seen"
+      ],
+      "parsing": "V2XAI-P--",
+      "original": "\u03bf\u1f34\u03b4\u03b1\u03c4\u03b5",
+      "lemma": "\u03bf\u1f36\u03b4\u03b1"
+    },
+    "5.24": {
+      "text": [
+        "just as"
+      ],
+      "parsing": "C--------",
+      "original": "\u03ba\u03b1\u03b8\u1f7c\u03c2",
+      "lemma": "\u03ba\u03b1\u03b8\u03ce\u03c2"
+    },
+    "5.23": {
+      "text": [
+        ","
+      ],
+      "parsing": "S",
+      "original": ",",
+      "lemma": ","
+    },
+    "5.22": {
+      "text": [
+        "much"
+      ],
+      "parsing": "A----DSF-",
+      "original": "\u03c0\u03bf\u03bb\u03bb\u1fc7",
+      "lemma": "\u03c0\u03bf\u03bb\u03cd\u03c2"
+    },
+    "5.21": {
+      "text": [
+        "wearing",
+        "fully"
+      ],
+      "parsing": "N----DSF-",
+      "original": "\u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u1fb3",
+      "lemma": "\u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b1"
+    },
+    "5.20": {
+      "text": [
+        "and"
+      ],
+      "parsing": "C--------",
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af"
+    },
+    "5.29": {
+      "text": [
+        "you"
+      ],
+      "parsing": "p----DP--",
+      "original": "\u1f51\u03bc\u1fd6\u03bd",
+      "lemma": "\u03c3\u03cd"
+    },
+    "5.28": {
+      "text": [
+        "in"
+      ],
+      "parsing": "P--------",
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd"
+    },
+    "8.1": {
+      "text": [
+        "from"
+      ],
+      "parsing": "P--------",
+      "original": "\u1f00\u03c6\u2019",
+      "lemma": "\u1f00\u03c0\u03cc"
+    },
+    "8.3": {
+      "text": [
+        "for"
+      ],
+      "parsing": "C--------",
+      "original": "\u03b3\u1f70\u03c1",
+      "lemma": "\u03b3\u03ac\u03c1"
+    },
+    "8.2": {
+      "text": [
+        "you"
+      ],
+      "parsing": "p----GP--",
+      "original": "\u1f51\u03bc\u1ff6\u03bd",
+      "lemma": "\u03c3\u03cd"
+    },
+    "8.5": {
+      "text": [
+        "the"
+      ],
+      "parsing": "T----NSM-",
+      "original": "\u1f41",
+      "lemma": "\u1f41"
+    },
+    "8.4": {
+      "text": [
+        "has",
+        "rung",
+        "out"
+      ],
+      "parsing": "V3XPI-S--",
+      "original": "\u1f10\u03be\u03ae\u03c7\u03b7\u03c4\u03b1\u03b9",
+      "lemma": "\u1f10\u03be\u03b7\u03c7\u03ad\u03bf\u03bc\u03b1\u03b9"
+    },
+    "8.7": {
+      "text": [
+        "the"
+      ],
+      "parsing": "T----GSM-",
+      "original": "\u03c4\u03bf\u1fe6",
+      "lemma": "\u1f41"
+    },
+    "8.6": {
+      "text": [
+        "word"
+      ],
+      "parsing": "N----NSM-",
+      "original": "\u03bb\u03cc\u03b3\u03bf\u03c2",
+      "lemma": "\u03bb\u03cc\u03b3\u03bf\u03c2"
+    },
+    "8.9": {
+      "text": [
+        "not"
+      ],
+      "parsing": "D--------",
+      "original": "\u03bf\u1f50",
+      "lemma": "\u03bf\u1f50"
+    },
+    "8.8": {
+      "text": [
+        "of",
+        "lord"
+      ],
+      "parsing": "N----GSM-",
+      "original": "\u03ba\u03c5\u03c1\u03af\u03bf\u03c5",
+      "lemma": "\u03ba\u03cd\u03c1\u03b9\u03bf\u03c2"
+    },
+    "9.8": {
+      "text": [
+        "we had"
+      ],
+      "parsing": "V1AAI-P--",
+      "original": "\u1f14\u03c3\u03c7\u03bf\u03bc\u03b5\u03bd",
+      "lemma": "\u1f14\u03c7\u03c9"
+    },
+    "9.9": {
+      "text": [
+        "toward"
+      ],
+      "parsing": "P--------",
+      "original": "\u03c0\u03c1\u1f78\u03c2",
+      "lemma": "\u03c0\u03c1\u03cc\u03c2"
+    },
+    "9.4": {
+      "text": [
+        "us"
+      ],
+      "parsing": "p----GP--",
+      "original": "\u1f21\u03bc\u1ff6\u03bd",
+      "lemma": "\u1f10\u03b3\u03ce"
+    },
+    "9.5": {
+      "text": [
+        "pronounce"
+      ],
+      "parsing": "V3PAI-P--",
+      "original": "\u1f00\u03c0\u03b1\u03b3\u03b3\u03ad\u03bb\u03bb\u03bf\u03c5\u03c3\u03b9\u03bd",
+      "lemma": "\u1f00\u03c0\u03b1\u03b3\u03b3\u03ad\u03bb\u03bb\u03c9"
+    },
+    "9.6": {
+      "text": [
+        "what",
+        "kind",
+        "of"
+      ],
+      "parsing": "Q----ASF-",
+      "original": "\u1f41\u03c0\u03bf\u03af\u03b1\u03bd",
+      "lemma": "\u1f41\u03c0\u03bf\u1fd6\u03bf\u03c2"
+    },
+    "9.7": {
+      "text": [
+        "inroad"
+      ],
+      "parsing": "N----ASF-",
+      "original": "\u03b5\u1f34\u03c3\u03bf\u03b4\u03bf\u03bd",
+      "lemma": "\u03b5\u1f34\u03c3\u03bf\u03b4\u03bf\u03c2"
+    },
+    "9.1": {
+      "text": [
+        "they"
+      ],
+      "parsing": "p----NPM-",
+      "original": "\u03b1\u1f50\u03c4\u03bf\u1f76",
+      "lemma": "\u03b1\u1f50\u03c4\u03cc\u03c2"
+    },
+    "9.2": {
+      "text": [
+        "for"
+      ],
+      "parsing": "C--------",
+      "original": "\u03b3\u1f70\u03c1",
+      "lemma": "\u03b3\u03ac\u03c1"
+    },
+    "9.3": {
+      "text": [
+        "about"
+      ],
+      "parsing": "P--------",
+      "original": "\u03c0\u03b5\u03c1\u1f76",
+      "lemma": "\u03c0\u03b5\u03c1\u03af"
+    },
+    "6.19": {
+      "text": [
+        "consecrated"
+      ],
+      "parsing": "A----GSN-",
+      "original": "\u1f01\u03b3\u03af\u03bf\u03c5",
+      "lemma": "\u1f05\u03b3\u03b9\u03bf\u03c2"
+    },
+    "6.18": {
+      "text": [
+        "of",
+        "breath"
+      ],
+      "parsing": "N----GSN-",
+      "original": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03bf\u03c2",
+      "lemma": "\u03c0\u03bd\u03b5\u1fe6\u03bc\u03b1"
+    },
+    "6.13": {
+      "text": [
+        "in"
+      ],
+      "parsing": "P--------",
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd"
+    },
+    "6.12": {
+      "text": [
+        "word"
+      ],
+      "parsing": "N----ASM-",
+      "original": "\u03bb\u03cc\u03b3\u03bf\u03bd",
+      "lemma": "\u03bb\u03cc\u03b3\u03bf\u03c2"
+    },
+    "6.11": {
+      "text": [
+        "the"
+      ],
+      "parsing": "T----ASM-",
+      "original": "\u03c4\u1f78\u03bd",
+      "lemma": "\u1f41"
+    },
+    "6.10": {
+      "text": [
+        "who",
+        "accepted"
+      ],
+      "parsing": "V-AMPNPM-",
+      "original": "\u03b4\u03b5\u03be\u03ac\u03bc\u03b5\u03bd\u03bf\u03b9",
+      "lemma": "\u03b4\u03ad\u03c7\u03bf\u03bc\u03b1\u03b9"
+    },
+    "6.17": {
+      "text": [
+        "happiness"
+      ],
+      "parsing": "N----GSF-",
+      "original": "\u03c7\u03b1\u03c1\u1fb6\u03c2",
+      "lemma": "\u03c7\u03b1\u03c1\u03ac"
+    },
+    "6.16": {
+      "text": [
+        "with"
+      ],
+      "parsing": "P--------",
+      "original": "\u03bc\u03b5\u03c4\u1f70",
+      "lemma": "\u03bc\u03b5\u03c4\u03ac"
+    },
+    "6.15": {
+      "text": [
+        "much"
+      ],
+      "parsing": "A----DSF-",
+      "original": "\u03c0\u03bf\u03bb\u03bb\u1fc7",
+      "lemma": "\u03c0\u03bf\u03bb\u03cd\u03c2"
+    },
+    "6.14": {
+      "text": [
+        "pressure"
+      ],
+      "parsing": "N----DSF-",
+      "original": "\u03b8\u03bb\u03af\u03c8\u03b5\u03b9",
+      "lemma": "\u03b8\u03bb\u1fd6\u03c8\u03b9\u03c2"
+    },
+    "8.24": {
+      "text": [
+        "~"
+      ],
+      "parsing": "T----NSF-",
+      "original": "\u1f21",
+      "lemma": "\u1f41"
+    },
+    "5.13": {
+      "text": [
+        "also"
+      ],
+      "parsing": "D--------",
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af"
+    },
+    "5.10": {
+      "text": [
+        "word"
+      ],
+      "parsing": "N----DSM-",
+      "original": "\u03bb\u03cc\u03b3\u1ff3",
+      "lemma": "\u03bb\u03cc\u03b3\u03bf\u03c2"
+    },
+    "5.11": {
+      "text": [
+        "only"
+      ],
+      "parsing": "A----ASN-",
+      "original": "\u03bc\u03cc\u03bd\u03bf\u03bd",
+      "lemma": "\u03bc\u03cc\u03bd\u03bf\u03c2"
+    },
+    "5.16": {
+      "text": [
+        "and"
+      ],
+      "parsing": "C--------",
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af"
+    },
+    "5.17": {
+      "text": [
+        "in"
+      ],
+      "parsing": "P--------",
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd"
+    },
+    "8.22": {
+      "text": [
+        "trust"
+      ],
+      "parsing": "N----NSF-",
+      "original": "\u03c0\u03af\u03c3\u03c4\u03b9\u03c2",
+      "lemma": "\u03c0\u03af\u03c3\u03c4\u03b9\u03c2"
+    },
+    "5.15": {
+      "text": [
+        "power"
+      ],
+      "parsing": "N----DSF-",
+      "original": "\u03b4\u03c5\u03bd\u03ac\u03bc\u03b5\u03b9",
+      "lemma": "\u03b4\u03cd\u03bd\u03b1\u03bc\u03b9\u03c2"
+    },
+    "10.11": {
+      "text": [
+        "he",
+        "roused"
+      ],
+      "parsing": "V3AAI-S--",
+      "original": "\u1f24\u03b3\u03b5\u03b9\u03c1\u03b5\u03bd",
+      "lemma": "\u1f10\u03b3\u03b5\u03af\u03c1\u03c9"
+    },
+    "10.10": {
+      "text": [
+        "whom"
+      ],
+      "parsing": "r----ASM-",
+      "original": "\u1f43\u03bd",
+      "lemma": "\u1f45\u03c2"
+    },
+    "10.13": {
+      "text": [
+        "the"
+      ],
+      "parsing": "T----GPM-",
+      "original": "\u03c4\u1ff6\u03bd",
+      "lemma": "\u1f41"
+    },
+    "5.19": {
+      "text": [
+        "consecrated"
+      ],
+      "parsing": "A----DSN-",
+      "original": "\u1f01\u03b3\u03af\u1ff3",
+      "lemma": "\u1f05\u03b3\u03b9\u03bf\u03c2"
+    },
+    "8.28": {
+      "text": [
+        "has come out"
+      ],
+      "parsing": "V3XAI-S--",
+      "original": "\u1f10\u03be\u03b5\u03bb\u03ae\u03bb\u03c5\u03b8\u03b5\u03bd",
+      "lemma": "\u1f10\u03be\u03ad\u03c1\u03c7\u03bf\u03bc\u03b1\u03b9"
+    },
+    "10.14": {
+      "text": [
+        "corpses"
+      ],
+      "parsing": "A----GPM-",
+      "original": "\u03bd\u03b5\u03ba\u03c1\u1ff6\u03bd",
+      "lemma": "\u03bd\u03b5\u03ba\u03c1\u03cc\u03c2"
+    },
+    "10.17": {
+      "text": [
+        "the",
+        "one"
+      ],
+      "parsing": "T----ASM-",
+      "original": "\u03c4\u1f78\u03bd",
+      "lemma": "\u1f41"
+    },
+    "10.16": {
+      "text": [
+        "Jesus"
+      ],
+      "parsing": "N----ASM-",
+      "original": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03bd",
+      "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2"
+    },
+    "10.12": {
+      "text": [
+        "out",
+        "of"
+      ],
+      "parsing": "P--------",
+      "original": "\u1f10\u03ba",
+      "lemma": "\u1f10\u03ba"
+    },
+    "3.4": {
+      "text": [
+        "of",
+        "work"
+      ],
+      "parsing": "N----GSN-",
+      "original": "\u1f14\u03c1\u03b3\u03bf\u03c5",
+      "lemma": "\u1f14\u03c1\u03b3\u03bf\u03bd"
+    },
+    "5.12": {
+      "text": [
+        "rather"
+      ],
+      "parsing": "C--------",
+      "original": "\u1f00\u03bb\u03bb\u1f70",
+      "lemma": "\u1f00\u03bb\u03bb\u03ac"
+    },
+    "2.8": {
+      "text": [
+        "remembrance"
+      ],
+      "parsing": "N----ASF-",
+      "original": "\u03bc\u03bd\u03b5\u03af\u03b1\u03bd",
+      "lemma": "\u03bc\u03bd\u03b5\u03af\u03b1"
+    },
+    "1.4": {
+      "text": [
+        "and"
+      ],
+      "parsing": "C--------",
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af"
+    },
+    "1.5": {
+      "text": [
+        "Timotheos"
+      ],
+      "parsing": "N----NSM-",
+      "original": "\u03a4\u03b9\u03bc\u03cc\u03b8\u03b5\u03bf\u03c2",
+      "lemma": "\u03a4\u03b9\u03bc\u03cc\u03b8\u03b5\u03bf\u03c2"
+    },
+    "1.6": {
+      "text": [
+        "the"
+      ],
+      "parsing": "T----DSF-",
+      "original": "\u03c4\u1fc7",
+      "lemma": "\u1f41"
+    },
+    "1.7": {
+      "text": [
+        "to",
+        "assembly"
+      ],
+      "parsing": "N----DSF-",
+      "original": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u1fb3",
+      "lemma": "\u1f10\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1"
+    },
+    "1.1": {
+      "text": [
+        "Paul"
+      ],
+      "parsing": "N----NSM-",
+      "original": "\u03a0\u03b1\u1fe6\u03bb\u03bf\u03c2",
+      "lemma": "\u03a0\u03b1\u1fe6\u03bb\u03bf\u03c2"
+    },
+    "1.2": {
+      "text": [
+        "and"
+      ],
+      "parsing": "C--------",
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af"
+    },
+    "1.3": {
+      "text": [
+        "Silouanos"
+      ],
+      "parsing": "N----NSM-",
+      "original": "\u03a3\u03b9\u03bb\u03bf\u03c5\u03b1\u03bd\u1f78\u03c2",
+      "lemma": "\u03a3\u03b9\u03bb\u03bf\u03c5\u03b1\u03bd\u03cc\u03c2"
+    },
+    "10.15": {
+      "text": [
+        ","
+      ],
+      "parsing": "S",
+      "original": ",",
+      "lemma": ","
+    },
+    "3.1": {
+      "text": [
+        "remembering"
+      ],
+      "parsing": "V-PAPNPM-",
+      "original": "\u03bc\u03bd\u03b7\u03bc\u03bf\u03bd\u03b5\u03cd\u03bf\u03bd\u03c4\u03b5\u03c2",
+      "lemma": "\u03bc\u03bd\u03b7\u03bc\u03bf\u03bd\u03b5\u03cd\u03c9"
+    },
+    "1.8": {
+      "text": [
+        "of",
+        "Thessalonikeans"
+      ],
+      "parsing": "N----GPM-",
+      "original": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03b9\u03ba\u03ad\u03c9\u03bd",
+      "lemma": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03b9\u03ba\u03b5\u03cd\u03c2"
+    },
+    "1.9": {
+      "text": [
+        "in"
+      ],
+      "parsing": "P--------",
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd"
+    },
+    "8.19": {
+      "text": [
+        "every"
+      ],
+      "parsing": "A----DSM-",
+      "original": "\u03c0\u03b1\u03bd\u03c4\u1f76",
+      "lemma": "\u03c0\u1fb6\u03c2"
+    },
+    "8.37": {
+      "text": [
+        ";"
+      ],
+      "parsing": "S",
+      "original": "\u00b7",
+      "lemma": "\u00b7"
+    },
+    "8.36": {
+      "text": [
+        "anything"
+      ],
+      "parsing": "Q----ASN-",
+      "original": "\u03c4\u03b9",
+      "lemma": "\u03c4\u03b9\u03c2"
+    },
+    "8.35": {
+      "text": [
+        "to",
+        "speak"
+      ],
+      "parsing": "V-PAN----",
+      "original": "\u03bb\u03b1\u03bb\u03b5\u1fd6\u03bd",
+      "lemma": "\u03bb\u03b1\u03bb\u03ad\u03c9"
+    },
+    "8.34": {
+      "text": [
+        "our"
+      ],
+      "parsing": "p----AP--",
+      "original": "\u1f21\u03bc\u1fb6\u03c2",
+      "lemma": "\u1f10\u03b3\u03ce"
+    },
+    "8.33": {
+      "text": [
+        "having"
+      ],
+      "parsing": "V-PAN----",
+      "original": "\u1f14\u03c7\u03b5\u03b9\u03bd",
+      "lemma": "\u1f14\u03c7\u03c9"
+    },
+    "8.32": {
+      "text": [
+        "need"
+      ],
+      "parsing": "N----ASF-",
+      "original": "\u03c7\u03c1\u03b5\u03af\u03b1\u03bd",
+      "lemma": "\u03c7\u03c1\u03b5\u03af\u03b1"
+    },
+    "8.31": {
+      "text": [
+        "not"
+      ],
+      "parsing": "D--------",
+      "original": "\u03bc\u1f74",
+      "lemma": "\u03bc\u03ae"
+    },
+    "8.30": {
+      "text": [
+        "such that"
+      ],
+      "parsing": "C--------",
+      "original": "\u1f65\u03c3\u03c4\u03b5",
+      "lemma": "\u1f65\u03c3\u03c4\u03b5"
+    },
+    "4.5": {
+      "text": [
+        "under"
+      ],
+      "parsing": "P--------",
+      "original": "\u1f51\u03c0\u1f78",
+      "lemma": "\u1f51\u03c0\u03cc"
+    },
+    "4.4": {
+      "text": [
+        "who",
+        "have",
+        "been",
+        "loved"
+      ],
+      "parsing": "V-XPPVPM-",
+      "original": "\u1f20\u03b3\u03b1\u03c0\u03b7\u03bc\u03ad\u03bd\u03bf\u03b9",
+      "lemma": "\u1f00\u03b3\u03b1\u03c0\u03ac\u03c9"
+    },
+    "4.7": {
+      "text": [
+        ","
+      ],
+      "parsing": "S",
+      "original": ",",
+      "lemma": ","
+    },
+    "5.3": {
+      "text": [
+        "good",
+        "message"
+      ],
+      "parsing": "N----NSN-",
+      "original": "\u03b5\u1f50\u03b1\u03b3\u03b3\u03ad\u03bb\u03b9\u03bf\u03bd",
+      "lemma": "\u03b5\u1f50\u03b1\u03b3\u03b3\u03ad\u03bb\u03b9\u03bf\u03bd"
+    },
+    "4.1": {
+      "text": [
+        "having",
+        "seen",
+        ""
+      ],
+      "parsing": "V-XAPNPM-",
+      "original": "\u03b5\u1f30\u03b4\u03cc\u03c4\u03b5\u03c2",
+      "lemma": "\u03bf\u1f36\u03b4\u03b1"
+    },
+    "5.5": {
+      "text": [
+        "not"
+      ],
+      "parsing": "D--------",
+      "original": "\u03bf\u1f50\u03ba",
+      "lemma": "\u03bf\u1f50"
+    },
+    "5.6": {
+      "text": [
+        "did",
+        "come",
+        "to",
+        "be"
+      ],
+      "parsing": "V3API-S--",
+      "original": "\u1f10\u03b3\u03b5\u03bd\u03ae\u03b8\u03b7",
+      "lemma": "\u03b3\u03af\u03bd\u03bf\u03bc\u03b1\u03b9"
+    },
+    "5.7": {
+      "text": [
+        "into"
+      ],
+      "parsing": "P--------",
+      "original": "\u03b5\u1f30\u03c2",
+      "lemma": "\u03b5\u1f30\u03c2"
+    },
+    "5.8": {
+      "text": [
+        "you all"
+      ],
+      "parsing": "p----AP--",
+      "original": "\u1f51\u03bc\u1fb6\u03c2",
+      "lemma": "\u03c3\u03cd"
+    },
+    "5.9": {
+      "text": [
+        "in"
+      ],
+      "parsing": "P--------",
+      "original": "\u1f10\u03bd",
+      "lemma": "\u1f10\u03bd"
+    },
+    "4.9": {
+      "text": [
+        "selection"
+      ],
+      "parsing": "N----ASF-",
+      "original": "\u1f10\u03ba\u03bb\u03bf\u03b3\u1f74\u03bd",
+      "lemma": "\u1f10\u03ba\u03bb\u03bf\u03b3\u03ae"
+    },
+    "4.8": {
+      "text": [
+        "~"
+      ],
+      "parsing": "T----ASF-",
+      "original": "\u03c4\u1f74\u03bd",
+      "lemma": "\u1f41"
+    },
+    "2.6": {
+      "text": [
+        "all"
+      ],
+      "parsing": "A----GPM-",
+      "original": "\u03c0\u03ac\u03bd\u03c4\u03c9\u03bd",
+      "lemma": "\u03c0\u1fb6\u03c2"
+    },
+    "3.21": {
+      "text": [
+        "Anointed"
+      ],
+      "parsing": "N----GSM-",
+      "original": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u1fe6",
+      "lemma": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03cc\u03c2"
+    },
+    "3.20": {
+      "text": [
+        "Jesus"
+      ],
+      "parsing": "N----GSM-",
+      "original": "\u1f38\u03b7\u03c3\u03bf\u1fe6",
+      "lemma": "\u1f38\u03b7\u03c3\u03bf\u1fe6\u03c2"
+    },
+    "3.23": {
+      "text": [
+        "~"
+      ],
+      "parsing": "T----GSM-",
+      "original": "\u03c4\u03bf\u1fe6",
+      "lemma": "\u1f41"
+    },
+    "3.22": {
+      "text": [
+        "in front"
+      ],
+      "parsing": "P--------",
+      "original": "\u1f14\u03bc\u03c0\u03c1\u03bf\u03c3\u03b8\u03b5\u03bd",
+      "lemma": "\u1f14\u03bc\u03c0\u03c1\u03bf\u03c3\u03b8\u03b5\u03bd"
+    },
+    "3.25": {
+      "text": [
+        "and"
+      ],
+      "parsing": "C--------",
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af"
+    },
+    "3.8": {
+      "text": [
+        "~"
+      ],
+      "parsing": "T----GSM-",
+      "original": "\u03c4\u03bf\u1fe6",
+      "lemma": "\u1f41"
+    },
+    "3.27": {
+      "text": [
+        "our"
+      ],
+      "parsing": "p----GP--",
+      "original": "\u1f21\u03bc\u1ff6\u03bd",
+      "lemma": "\u1f10\u03b3\u03ce"
+    },
+    "3.26": {
+      "text": [
+        "father"
+      ],
+      "parsing": "N----GSM-",
+      "original": "\u03c0\u03b1\u03c4\u03c1\u1f78\u03c2",
+      "lemma": "\u03c0\u03b1\u03c4\u03ae\u03c1"
+    },
+    "3.28": {
+      "text": [
+        ","
+      ],
+      "parsing": "S",
+      "original": ",",
+      "lemma": ","
+    },
+    "3.9": {
+      "text": [
+        "weariness"
+      ],
+      "parsing": "N----GSM-",
+      "original": "\u03ba\u03cc\u03c0\u03bf\u03c5",
+      "lemma": "\u03ba\u03cc\u03c0\u03bf\u03c2"
+    },
+    "5.1": {
+      "text": [
+        "because"
+      ],
+      "parsing": "C--------",
+      "original": "\u1f45\u03c4\u03b9",
+      "lemma": "\u1f45\u03c4\u03b9"
+    },
+    "5.2": {
+      "text": [
+        "~"
+      ],
+      "parsing": "T----NSN-",
+      "original": "\u03c4\u1f78",
+      "lemma": "\u1f41"
+    },
+    "4.6": {
+      "text": [
+        "God"
+      ],
+      "parsing": "N----GSM-",
+      "original": "\u03b8\u03b5\u03bf\u1fe6",
+      "lemma": "\u03b8\u03b5\u03cc\u03c2"
+    },
+    "10.1": {
+      "text": [
+        "and"
+      ],
+      "parsing": "C--------",
+      "original": "\u03ba\u03b1\u1f76",
+      "lemma": "\u03ba\u03b1\u03af"
+    },
+    "5.4": {
+      "text": [
+        "our"
+      ],
+      "parsing": "p----GP--",
+      "original": "\u1f21\u03bc\u1ff6\u03bd",
+      "lemma": "\u1f10\u03b3\u03ce"
+    },
+    "10.19": {
+      "text": [
+        "us"
+      ],
+      "parsing": "p----AP--",
+      "original": "\u1f21\u03bc\u1fb6\u03c2",
+      "lemma": "\u1f10\u03b3\u03ce"
+    },
+    "4.3": {
+      "text": [
+        "brothers"
+      ],
+      "parsing": "N----VPM-",
+      "original": "\u1f00\u03b4\u03b5\u03bb\u03c6\u03bf\u1f76",
+      "lemma": "\u1f00\u03b4\u03b5\u03bb\u03c6\u03cc\u03c2"
+    },
+    "8.29": {
+      "text": [
+        ","
+      ],
+      "parsing": "S",
+      "original": ",",
+      "lemma": ","
+    },
+    "8.25": {
+      "text": [
+        "toward"
+      ],
+      "parsing": "P--------",
+      "original": "\u03c0\u03c1\u1f78\u03c2",
+      "lemma": "\u03c0\u03c1\u03cc\u03c2"
+    },
+    "4.2": {
+      "text": [
+        ","
+      ],
+      "parsing": "S",
+      "original": ",",
+      "lemma": ","
+    },
+    "8.26": {
+      "text": [
+        "~"
+      ],
+      "parsing": "T----ASM-",
+      "original": "\u03c4\u1f78\u03bd",
+      "lemma": "\u1f41"
+    },
+    "8.27": {
+      "text": [
+        "God"
+      ],
+      "parsing": "N----ASM-",
+      "original": "\u03b8\u03b5\u1f78\u03bd",
+      "lemma": "\u03b8\u03b5\u03cc\u03c2"
+    },
+    "6.20": {
+      "text": [
+        ","
+      ],
+      "parsing": "S",
+      "original": ",",
+      "lemma": ","
+    },
+    "8.20": {
+      "text": [
+        "place"
+      ],
+      "parsing": "N----DSM-",
+      "original": "\u03c4\u03cc\u03c0\u1ff3",
+      "lemma": "\u03c4\u03cc\u03c0\u03bf\u03c2"
+    },
+    "1.21": {
+      "text": [
+        "."
+      ],
+      "parsing": "S",
+      "original": ".",
+      "lemma": "."
+    },
+    "1.20": {
+      "text": [
+        "peace"
+      ],
+      "parsing": "N----NSF-",
+      "original": "\u03b5\u1f30\u03c1\u03ae\u03bd\u03b7",
+      "lemma": "\u03b5\u1f30\u03c1\u03ae\u03bd\u03b7"
+    },
+    "5.18": {
+      "text": [
+        "breath"
+      ],
+      "parsing": "N----DSN-",
+      "original": "\u03c0\u03bd\u03b5\u03cd\u03bc\u03b1\u03c4\u03b9",
+      "lemma": "\u03c0\u03bd\u03b5\u1fe6\u03bc\u03b1"
+    },
+    "8.21": {
+      "text": [
+        "~"
+      ],
+      "parsing": "T----NSF-",
+      "original": "\u1f21",
+      "lemma": "\u1f41"
+    }
+  }
+}

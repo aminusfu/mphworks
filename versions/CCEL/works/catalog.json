@@ -1,0 +1,18 @@
+{
+  "index": {
+    "Polyc.Sm.Ep.Ph": {
+      "sections": [
+        "Sal",
+        "I",
+        "II",
+        "III",
+        "IV",
+        "V"
+      ],
+      "name": "Polycarp of Smyrna's Epistle to the Philippians"
+    }
+  },
+  "order": [
+    "Polyc.Sm.Ep.Ph"
+  ]
+}
